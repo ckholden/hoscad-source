@@ -28,6 +28,7 @@
 - **WHO/WHODP stale data**: Added cache token invalidation on logout
 - **Old messages on Field login**: Added `_loginTime` tracking to filter pre-login messages
 - **Logout confirmation**: Added confirm dialog and API result checking
+- **HELP/INFO/ADMIN dialogs closing immediately**: Fixed Enter key event handling order - input check now runs before dialog close check
 
 ### Desktop Apps Removed
 - Deleted `desktop/` folder (HOSCAD Desktop)
