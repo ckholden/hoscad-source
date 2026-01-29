@@ -1,0 +1,451 @@
+<!doctype html>
+<html>
+<head>
+  <base target="_top">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UNIT HISTORY</title>
+  <style>
+    :root{
+      --bg:#0b0f14; --panel:#111827; --panel2:#0f172a; --text:#e5e7eb; --muted:#9ca3af;
+      --line:rgba(255,255,255,.08); --shadow: 0 10px 30px rgba(0,0,0,.45);
+      --good:#22c55e; --warn:#f59e0b; --bad:#ef4444; --info:#60a5fa; --purple:#a78bfa;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; background:var(--bg); color:var(--text)}
+    header{
+      position:sticky; top:0; z-index:10;
+      display:flex; gap:12px; align-items:center; justify-content:space-between;
+      padding:14px 16px; background:linear-gradient(180deg, rgba(15,23,42,.95), rgba(15,23,42,.75));
+      border-bottom:1px solid var(--line); backdrop-filter: blur(10px);
+    }
+    .brand{display:flex; flex-direction:column; line-height:1.1}
+    .brand b{letter-spacing:.12em; font-size:12px; opacity:.9}
+    .brand span{font-size:12px; color:var(--muted)}
+    .top-actions{display:flex; gap:10px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
+    .pill{
+      display:inline-flex; align-items:center; gap:8px;
+      padding:8px 10px; border:1px solid var(--line); border-radius:999px;
+      background:rgba(255,255,255,.04);
+      font-size:12px; color:var(--muted);
+    }
+    .btn{
+      cursor:pointer; user-select:none;
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.04);
+      color:var(--text);
+      padding:9px 12px;
+      border-radius:10px;
+      font-size:12px;
+      transition:.15s transform, .15s opacity, .15s background;
+    }
+    .btn:hover{background:rgba(255,255,255,.07)}
+    .btn:active{transform:translateY(1px); opacity:.95}
+    .btn.primary{border-color:rgba(96,165,250,.35); background:rgba(96,165,250,.12)}
+    .btn.danger{border-color:rgba(239,68,68,.35); background:rgba(239,68,68,.12)}
+    .btn.small{padding:7px 10px; border-radius:9px}
+
+    main{padding:16px; max-width:1280px; margin:0 auto}
+    .grid{display:grid; grid-template-columns:1fr; gap:14px}
+    @media (min-width: 980px){
+      .grid{grid-template-columns: .9fr 1.6fr}
+    }
+    .card{
+      background:linear-gradient(180deg, rgba(17,24,39,.9), rgba(17,24,39,.75));
+      border:1px solid var(--line);
+      border-radius:16px;
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+    .card .hd{
+      display:flex; align-items:center; justify-content:space-between; gap:10px;
+      padding:12px 14px; border-bottom:1px solid var(--line);
+    }
+    .card .hd h2{margin:0; font-size:12px; letter-spacing:.18em; color:var(--muted)}
+    .card .bd{padding:12px 14px}
+
+    .input{
+      width:100%;
+      padding:11px 12px;
+      border-radius:12px;
+      border:1px solid var(--line);
+      background:rgba(0,0,0,.20);
+      color:var(--text);
+      font-size:13px;
+      outline:none;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      text-transform: uppercase;
+    }
+    .input::placeholder{color:rgba(156,163,175,.75)}
+    label{display:flex; flex-direction:column; gap:6px; font-size:11px; color:var(--muted); letter-spacing:.10em}
+    select{
+      width:100%;
+      padding:10px 10px;
+      border-radius:12px;
+      border:1px solid var(--line);
+      background:rgba(0,0,0,.20);
+      color:var(--text);
+      font-size:13px;
+      outline:none;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      text-transform: uppercase;
+    }
+    .hint{font-size:11px; color:var(--muted); margin-top:8px; line-height:1.35}
+    .hint code{background:rgba(255,255,255,.06); border:1px solid var(--line); padding:2px 6px; border-radius:8px}
+
+    table{width:100%; border-collapse:collapse}
+    th, td{padding:10px 8px; text-align:left; font-size:12px; border-bottom:1px solid var(--line); vertical-align:middle}
+    th{color:var(--muted); font-weight:600; letter-spacing:.10em; font-size:11px}
+    .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}
+    .muted{color:var(--muted)}
+    .badge{
+      display:inline-flex; align-items:center; gap:6px;
+      padding:5px 8px; border-radius:999px; border:1px solid var(--line);
+      background:rgba(255,255,255,.04); font-size:11px; color:var(--text);
+      white-space:nowrap;
+    }
+    .dot{width:7px; height:7px; border-radius:999px; background:var(--muted)}
+    .dot.good{background:var(--good)}
+    .dot.warn{background:var(--warn)}
+    .dot.bad{background:var(--bad)}
+    .dot.info{background:var(--info)}
+    .dot.purple{background:var(--purple)}
+
+    .toast{
+      position:fixed; right:16px; bottom:16px; z-index:60;
+      padding:10px 12px; border-radius:12px; border:1px solid var(--line);
+      background:rgba(17,24,39,.92); box-shadow:var(--shadow);
+      font-size:12px; display:none; max-width:min(520px, 92vw);
+    }
+    .toast.show{display:block}
+    .toast.good{border-color:rgba(34,197,94,.35)}
+    .toast.bad{border-color:rgba(239,68,68,.35)}
+
+    .row{display:flex; gap:10px; flex-wrap:wrap; align-items:flex-end}
+    .grow{flex:1 1 240px}
+
+    .roleColor-STA1{ color:#3b82f6; }
+    .roleColor-STA2{ color:#8b5cf6; }
+    .roleColor-STA3{ color:#ec4899; }
+    .roleColor-STA4{ color:#f59e0b; }
+    .roleColor-STA5{ color:#10b981; }
+    .roleColor-STA6{ color:#06b6d4; }
+    .roleColor-SUPV{ color:#fbbf24; }
+    .roleColor-EMS{ color:#22c55e; }
+    .roleColor-MSC{ color:#a78bfa; }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="brand">
+      <b>UNIT HISTORY</b>
+      <span id="serverClock" class="mono">—</span>
+    </div>
+
+    <div class="top-actions">
+      <span class="pill"><span class="dot info"></span><span id="whoami">—</span></span>
+      <button class="btn small" id="btnBack">BACK</button>
+      <button class="btn small" id="btnRefresh">REFRESH</button>
+      <button class="btn small danger" id="btnLogout">LOGOUT</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="grid">
+      <section class="card">
+        <div class="hd"><h2>FILTERS</h2></div>
+        <div class="bd">
+          <div class="row">
+            <div class="grow">
+              <label>UNIT
+                <input id="unitId" class="input" placeholder="EMS1" />
+              </label>
+            </div>
+
+            <div style="min-width:170px">
+              <label>WINDOW
+                <select id="hours">
+                  <option value="6">6 HOURS</option>
+                  <option value="12">12 HOURS</option>
+                  <option value="24" selected>24 HOURS</option>
+                  <option value="48">48 HOURS</option>
+                  <option value="72">72 HOURS</option>
+                  <option value="168">7 DAYS</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div class="row" style="margin-top:12px">
+            <button class="btn primary" id="btnLoad">LOAD</button>
+            <button class="btn" id="btnClear">CLEAR</button>
+          </div>
+
+          <div class="hint">
+            Calls <code>apiGetUnitHistory(token, unitId, hours)</code>.
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="hd">
+          <h2>EVENTS</h2>
+          <span class="pill"><span class="dot"></span><span id="count">0</span><span class="muted">ROWS</span></span>
+        </div>
+        <div class="bd">
+          <div style="overflow:auto; border-radius:14px; border:1px solid var(--line);">
+            <table>
+              <thead>
+                <tr>
+                  <th class="mono">TIME</th>
+                  <th>UNIT</th>
+                  <th>ACTION</th>
+                  <th>STATUS</th>
+                  <th>NOTE</th>
+                  <th>INC</th>
+                  <th>DEST</th>
+                  <th class="mono">BY</th>
+                </tr>
+              </thead>
+              <tbody id="tbody">
+                <tr><td colspan="8" class="muted">Load history…</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <div id="toast" class="toast"></div>
+
+  <script>
+    const LS = { token:'ems_token' };
+    const $ = (id)=>document.getElementById(id);
+
+    const STATE = { token:null, actor:null };
+
+    function toast(msg, kind='') {
+      const el = $('toast');
+      el.textContent = msg;
+      el.className = 'toast show ' + (kind || '');
+      clearTimeout(el._t);
+      el._t = setTimeout(()=> el.className='toast', 2800);
+    }
+
+    function loadSession(){
+      const token = localStorage.getItem(LS.token) || '';
+      if (token){
+        STATE.token = token;
+        return true;
+      }
+      STATE.token = '';
+      $('whoami').textContent = 'NOT LOGGED IN';
+      return false;
+    }
+
+    function clearSession(){
+      localStorage.removeItem(LS.token);
+      STATE.token = '';
+      STATE.actor = '';
+      $('whoami').textContent = 'NOT LOGGED IN';
+    }
+
+    function gas(fn, args){
+      return new Promise((resolve,reject)=>{
+        google.script.run
+          .withSuccessHandler(resolve)
+          .withFailureHandler(err => reject(err && err.message ? err.message : String(err)))
+          [fn](...(args||[]));
+      });
+    }
+
+    function escapeHtml(s){
+      return String(s||'')
+        .replaceAll('&','&amp;')
+        .replaceAll('<','&lt;')
+        .replaceAll('>','&gt;')
+        .replaceAll('"','&quot;')
+        .replaceAll("'","&#039;");
+    }
+
+    function dotForStatus(s){
+      s = String(s||'').toUpperCase();
+      if (s==='AV') return 'good';
+      if (s==='OS') return 'warn';
+      if (s==='T')  return 'info';
+      if (s==='DE') return 'purple';
+      if (s==='D')  return '';
+      if (s==='OOS') return 'bad';
+      return '';
+    }
+
+    function fmtTime(iso){
+      if (!iso) return '—';
+      const d = new Date(iso);
+      if (!isFinite(d.getTime())) return '—';
+      return d.toLocaleString();
+    }
+
+    function getRoleColor(actor) {
+      const m = String(actor || '').match(/@([A-Z0-9]+)$/);
+      if (!m) return '';
+      return `roleColor-${m[1]}`;
+    }
+
+    function normalizeRows(resRows){
+      const rows = resRows || [];
+      return rows.map(r => {
+        const prev = r.prev || {};
+        const next = r.next || {};
+        return {
+          ts: r.ts,
+          action: r.action || '',
+          unit_id: r.unit_id || r.unit || prev.unit_id || next.unit_id || '',
+          prev_status: (prev.status || '').toUpperCase(),
+          next_status: (next.status || '').toUpperCase(),
+          note: (next.note != null ? next.note : prev.note) || '',
+          incident: (next.incident != null ? next.incident : prev.incident) || '',
+          destination: (next.destination != null ? next.destination : prev.destination) || '',
+          actor: r.actor || ''
+        };
+      });
+    }
+
+    function render(rows){
+      const tbody = $('tbody');
+      const list = rows || [];
+      $('count').textContent = list.length;
+
+      if (!list.length){
+        tbody.innerHTML = `<tr><td colspan="8" class="muted">No rows.</td></tr>`;
+        return;
+      }
+
+      list.sort((a,b)=> new Date(b.ts||0) - new Date(a.ts||0));
+
+      tbody.innerHTML = list.map(r=>{
+        const prevS = r.prev_status || '—';
+        const nextS = r.next_status || '—';
+        const dot = dotForStatus(nextS);
+        const actorClass = getRoleColor(r.actor);
+
+        return `
+          <tr>
+            <td class="mono muted">${fmtTime(r.ts)}</td>
+            <td class="mono"><b>${escapeHtml(r.unit_id || '—')}</b></td>
+            <td class="mono">${escapeHtml((r.action || '—').toUpperCase())}</td>
+            <td>
+              <span class="badge" title="${escapeHtml(prevS)} → ${escapeHtml(nextS)}">
+                <span class="dot ${dot}"></span>
+                <span class="mono">${escapeHtml(prevS)} → ${escapeHtml(nextS)}</span>
+              </span>
+            </td>
+            <td class="mono">${r.note ? escapeHtml(String(r.note).toUpperCase()) : '<span class="muted">—</span>'}</td>
+            <td class="mono">${r.incident ? escapeHtml(String(r.incident).toUpperCase()) : '<span class="muted">—</span>'}</td>
+            <td class="mono">${r.destination ? escapeHtml(String(r.destination).toUpperCase()) : '<span class="muted">—</span>'}</td>
+            <td class="mono muted ${actorClass}">${r.actor ? escapeHtml(String(r.actor).toUpperCase()) : '<span class="muted">—</span>'}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    async function loadHistory(){
+      if (!STATE.token) { toast('NOT LOGGED IN', 'bad'); return; }
+
+      const unit = $('unitId').value.trim().toUpperCase();
+      const hours = Math.max(1, Math.min(168, parseInt($('hours').value, 10) || 24));
+
+      if (!unit){
+        toast('UNIT REQUIRED (THIS PAGE IS UNIT-SCOPED)', 'bad');
+        render([]);
+        return;
+      }
+
+      try{
+        const res = await gas('apiGetUnitHistory', [STATE.token, unit, hours]);
+        if (!res || !res.ok) throw new Error(res && res.error ? res.error : 'HISTORY FAILED');
+
+        const rows = normalizeRows(res.rows || []);
+        render(rows);
+        toast(`LOADED ${rows.length} ROWS`, 'good');
+      }catch(e){
+        const msg = String(e||'ERROR');
+        render([]);
+        toast(msg, 'bad');
+      }
+    }
+
+    function prefillFromUrl(){
+      const qs = new URLSearchParams(window.location.search);
+      const unit = (qs.get('unit') || '').trim().toUpperCase();
+      const h = (qs.get('h') || qs.get('hours') || '').trim();
+
+      if (unit) $('unitId').value = unit;
+
+      if (h && /^\d+$/.test(h)){
+        const hh = String(Math.max(1, Math.min(168, Number(h))));
+        const opt = [...$('hours').options].some(o => o.value === hh);
+        if (opt) $('hours').value = hh;
+      }
+    }
+
+    async function getActorFromToken() {
+      if (!STATE.token) return;
+      
+      try {
+        const res = await gas('apiGetState', [STATE.token]);
+        if (res && res.ok && res.actor) {
+          STATE.actor = res.actor;
+          $('whoami').textContent = STATE.actor;
+        }
+      } catch(e) {
+        console.error('Failed to get actor:', e);
+      }
+    }
+
+    function boot(){
+      prefillFromUrl();
+      const ok = loadSession();
+      if (!ok) {
+        toast('LOGIN ON MAIN BOARD FIRST', 'bad');
+      } else {
+        getActorFromToken();
+      }
+
+      setInterval(()=>{
+        const t = new Date();
+        $('serverClock').textContent = `${t.toLocaleDateString()} ${t.toLocaleTimeString()}`;
+      }, 1000);
+
+      if ($('unitId').value.trim()) loadHistory();
+    }
+
+    $('btnBack').addEventListener('click', ()=>{
+      window.location.href = location.href.split('?')[0];
+    });
+
+    $('btnRefresh').addEventListener('click', ()=> loadHistory());
+    $('btnLoad').addEventListener('click', ()=> loadHistory());
+
+    $('btnClear').addEventListener('click', ()=>{
+      $('unitId').value = '';
+      $('hours').value = '24';
+      $('count').textContent = '0';
+      $('tbody').innerHTML = `<tr><td colspan="8" class="muted">Load history…</td></tr>`;
+    });
+
+    $('btnLogout').addEventListener('click', ()=>{
+      clearSession();
+      toast('LOGGED OUT', 'good');
+    });
+
+    $('unitId').addEventListener('keydown', (e)=>{
+      if (e.key === 'Enter'){ e.preventDefault(); loadHistory(); }
+    });
+
+    boot();
+  </script>
+</body>
+</html>
