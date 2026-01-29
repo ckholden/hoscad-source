@@ -1,5 +1,57 @@
 # HOSCAD/EMS Tracking System — Changelog
 
+## Role Updates, Admin Commands, Desktop Removal, Git Repo (Jan 28, 2026)
+
+### New Roles Added
+- **MGR1, MGR2** — Managers (admin access)
+- **TCRN** — Transfer Center RN
+- **PLRN** — Patient Logistics RN
+- **IT** — Information Technology (restricted to holdenc only)
+- **Removed**: MSC role
+
+### Admin Access Control
+- `ADMIN` command shows data management commands (SUPV/MGR/IT only)
+- `CLEARDATA` and `PURGE` commands restricted to admin roles
+- Added `isAdminRole()` helper function for role checks
+- Admin roles: SUPV1, SUPV2, MGR1, MGR2, IT
+
+### Actor Display Format Change
+- Changed from `HOLDEN CHRISTOPHER@DISPATCH` to `DISPATCH/HOLDENC` (ROLE/USERNAME format)
+- Updated both dispatcher and field unit login actor formats
+
+### UI Updates
+- **BOARD** header renamed to **RESOURCE BOARD**
+- Login dropdown updated with new roles
+- HELP text updated with new roles list
+
+### Bug Fixes
+- **WHO/WHODP stale data**: Added cache token invalidation on logout
+- **Old messages on Field login**: Added `_loginTime` tracking to filter pre-login messages
+- **Logout confirmation**: Added confirm dialog and API result checking
+
+### Desktop Apps Removed
+- Deleted `desktop/` folder (HOSCAD Desktop)
+- Deleted `desktop-cadradio/` folder (HOSCAD Field Desktop)
+- Web/PWA is now the only supported method
+
+### Documentation
+- **HOSCAD-USER-GUIDE.md** — New comprehensive user manual
+- **ADMIN-COMMANDS.md** — Updated with new roles
+- **IT-DEPLOYMENT-GUIDE.md** — Removed radio/desktop references, updated architecture
+
+### Git Repository
+- Initialized git repo in `hoscad/` folder
+- Pushed to `github.com/ckholden/hoscad-source` (private)
+- Source repo now tracks: backend, frontend, documentation
+
+### Deployment Structure
+| Repo | Purpose |
+|------|---------|
+| `ckholden/hoscad-source` | Source code (backend, frontend, docs) |
+| `ckholden/Holden-nerd-portal` | GitHub Pages deployment |
+
+---
+
 ## Performance, PURGE Command, Auto-Update SW, Testing Deployment (Jan 28, 2026)
 
 ### Performance Improvements (app.js)

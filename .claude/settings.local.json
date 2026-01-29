@@ -49,7 +49,8 @@
       "Bash(clasp:*)",
       "Bash(powershell:*)",
       "Bash(npm run dist:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(gh repo create:*)"
     ]
   }
 }

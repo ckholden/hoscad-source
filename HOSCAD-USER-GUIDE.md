@@ -75,6 +75,7 @@ Example: `PASSWD 12345 MySecurePass123`
 | **EMS** | EMS Operations | EMS coordinators |
 | **TCRN** | Transfer Center RN | Transfer Center registered nurses |
 | **PLRN** | Patient Logistics RN | Patient logistics nurses |
+| **IT** | Information Technology | System administrators (admin access, restricted) |
 
 ### Session Information
 - Sessions last 12 hours of activity
