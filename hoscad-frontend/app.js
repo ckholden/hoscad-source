@@ -670,11 +670,17 @@ function hideConfirm() {
 }
 
 function showAlert(title, message, style) {
-  document.getElementById('alertTitle').textContent = title;
+  const titleEl = document.getElementById('alertTitle');
   const msgEl = document.getElementById('alertMessage');
+  const dialogEl = document.getElementById('alertDialog');
+  if (!titleEl || !msgEl || !dialogEl) {
+    alert(title + '\n\n' + message);
+    return;
+  }
+  titleEl.textContent = title;
   msgEl.textContent = message;
   msgEl.style.color = style === 'yellow' ? 'var(--yellow)' : '';
-  document.getElementById('alertDialog').classList.add('active');
+  dialogEl.classList.add('active');
 }
 
 function hideAlert() {
@@ -3702,6 +3708,8 @@ window.addEventListener('load', () => {
     if (e.key === 'Enter') {
       if (hintsOpen && CMD_HINT_INDEX >= 0) { selectCmdHint(CMD_HINT_INDEX); e.preventDefault(); return; }
       hideCmdHints();
+      e.preventDefault();
+      e.stopPropagation();
       runCommand();
       return;
     }
