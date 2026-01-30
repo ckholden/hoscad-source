@@ -29,12 +29,11 @@ Automated scraper that runs every 5 minutes:
 
 ### 3. Dashboard (`Holden-nerd-portal/orfireems/`)
 
-Password-protected CAD-style dashboard hosted on GitHub Pages.
+CAD-style dashboard hosted on GitHub Pages.
 
 **URL:** https://holdenportal.com/orfireems
 
 **Features:**
-- Password protection
 - Real-time incident table (active incidents highlighted)
 - Time filters: Last 12 hours, 12-24 hours, All time
 - Agency filtering with checkboxes
@@ -46,7 +45,6 @@ Password-protected CAD-style dashboard hosted on GitHub Pages.
 The local dev server also runs the scraper:
 - Available at `localhost:8080/orfireems`
 - Runs scraper every 2 minutes
-- Session-based password authentication
 
 ## Data Flow
 
@@ -135,4 +133,5 @@ See `pulsepoint_monitor/oregon_agencies.json` for the complete list.
 - Python 3.11+
 - `cryptography` - For AES decryption
 - `requests` - For HTTP requests
+- `schedule` - For polling scheduler
 - Node.js (for local server)
