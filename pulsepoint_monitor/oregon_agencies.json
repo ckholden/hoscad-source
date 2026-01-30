@@ -1,0 +1,622 @@
+{
+  "discovered_at": "2026-01-30T05:24:53.205605+00:00",
+  "total_agencies": 123,
+  "note": "Discovered via PulsePoint v1/search API",
+  "agencies": [
+    {
+      "id": "00028",
+      "name": "Clackamas Fire",
+      "region": "Clackamas County"
+    },
+    {
+      "id": "00041",
+      "name": "Portland Fire & Rescue",
+      "region": "Multnomah County"
+    },
+    {
+      "id": "00079",
+      "name": "Tualatin Valley Fire & Rescue",
+      "region": "Washington County"
+    },
+    {
+      "id": "00231",
+      "name": "Bend Fire & Rescue",
+      "region": "Bend"
+    },
+    {
+      "id": "00234",
+      "name": "Sunriver Fire",
+      "region": "Sunriver"
+    },
+    {
+      "id": "00235",
+      "name": "Black Butte Ranch Fire",
+      "region": "Oregon"
+    },
+    {
+      "id": "00236",
+      "name": "Redmond Fire & Rescue",
+      "region": "Redmond"
+    },
+    {
+      "id": "00237",
+      "name": "Sisters-Camp Sherman Fire District",
+      "region": "Oregon"
+    },
+    {
+      "id": "00238",
+      "name": "Crooked River Ranch Fire",
+      "region": "Oregon"
+    },
+    {
+      "id": "00239",
+      "name": "La Pine Fire District",
+      "region": "La Pine"
+    },
+    {
+      "id": "00240",
+      "name": "Cloverdale Fire",
+      "region": "Cloverdale"
+    },
+    {
+      "id": "00341",
+      "name": "Salem Fire Department",
+      "region": "Salem"
+    },
+    {
+      "id": "00383",
+      "name": "Depoe Bay Fire District",
+      "region": "Depoe Bay"
+    },
+    {
+      "id": "00384",
+      "name": "Polk County Fire District No.1",
+      "region": "Polk County"
+    },
+    {
+      "id": "00385",
+      "name": "Marion County Fire District No.1",
+      "region": "Marion County"
+    },
+    {
+      "id": "00387",
+      "name": "Dallas Fire & EMS",
+      "region": "Dallas"
+    },
+    {
+      "id": "00388",
+      "name": "Keizer Fire District",
+      "region": "Keizer"
+    },
+    {
+      "id": "00412",
+      "name": "Canby Fire District",
+      "region": "Canby"
+    },
+    {
+      "id": "00413",
+      "name": "Estacada Rural Fire District",
+      "region": "Estacada Rural"
+    },
+    {
+      "id": "00414",
+      "name": "Molalla Fire District # 73",
+      "region": "Molalla"
+    },
+    {
+      "id": "00415",
+      "name": "SW Polk Fire District",
+      "region": "Oregon"
+    },
+    {
+      "id": "00416",
+      "name": "Hoodland Fire District #74",
+      "region": "Hoodland"
+    },
+    {
+      "id": "00430",
+      "name": "Gladstone Fire Department",
+      "region": "Gladstone"
+    },
+    {
+      "id": "00451",
+      "name": "Sandy Fire District No. 72",
+      "region": "Sandy"
+    },
+    {
+      "id": "00453",
+      "name": "Colton Rural Fire Protection District #70",
+      "region": "Colton Rural"
+    },
+    {
+      "id": "00478",
+      "name": "Hillsboro Fire & Rescue",
+      "region": "Hillsboro"
+    },
+    {
+      "id": "00481",
+      "name": "Washington County Fire District #2",
+      "region": "Washington County"
+    },
+    {
+      "id": "00482",
+      "name": "Banks Fire District #13",
+      "region": "Banks"
+    },
+    {
+      "id": "00484",
+      "name": "Forest Grove Fire and Rescue",
+      "region": "Forest Grove"
+    },
+    {
+      "id": "00485",
+      "name": "Cornelius Fire Department",
+      "region": "Cornelius"
+    },
+    {
+      "id": "00486",
+      "name": "Gaston Rural Fire District",
+      "region": "Gaston Rural"
+    },
+    {
+      "id": "00499",
+      "name": "Albany Fire Department",
+      "region": "Albany"
+    },
+    {
+      "id": "00532",
+      "name": "Gresham Fire and Emergency Services",
+      "region": "Gresham"
+    },
+    {
+      "id": "00724",
+      "name": "Sauvie Island Fire District",
+      "region": "Sauvie Island"
+    },
+    {
+      "id": "00729",
+      "name": "Jackson County Fire Dist. 3",
+      "region": "Jackson County"
+    },
+    {
+      "id": "00731",
+      "name": "Siletz Valley Fire District",
+      "region": "Siletz Valley"
+    },
+    {
+      "id": "00736",
+      "name": "Tangent Fire District",
+      "region": "Tangent"
+    },
+    {
+      "id": "00740",
+      "name": "Brownsville Rural Fire District",
+      "region": "Brownsville Rural"
+    },
+    {
+      "id": "00742",
+      "name": "Sweet Home Fire District",
+      "region": "Sweet Home"
+    },
+    {
+      "id": "00744",
+      "name": "Medford Fire Department",
+      "region": "Medford"
+    },
+    {
+      "id": "00745",
+      "name": "Dundee Fire & Rescue",
+      "region": "Dundee"
+    },
+    {
+      "id": "00747",
+      "name": "Lake Creek Rural Fire District",
+      "region": "Lake Creek"
+    },
+    {
+      "id": "00748",
+      "name": "Ashland Fire & Rescue",
+      "region": "Ashland"
+    },
+    {
+      "id": "00749",
+      "name": "Jacksonville Fire Department",
+      "region": "Jacksonville"
+    },
+    {
+      "id": "00750",
+      "name": "Evans Valley Fire District #6",
+      "region": "Evans Valley"
+    },
+    {
+      "id": "00752",
+      "name": "Lebanon Fire District",
+      "region": "Lebanon"
+    },
+    {
+      "id": "00753",
+      "name": "Halsey-Shedd R.F.P.D",
+      "region": "Oregon"
+    },
+    {
+      "id": "00755",
+      "name": "Scio Fire District",
+      "region": "Scio"
+    },
+    {
+      "id": "00757",
+      "name": "Applegate Fire",
+      "region": "Applegate"
+    },
+    {
+      "id": "00758",
+      "name": "Jackson County Fire District 1",
+      "region": "Jackson County"
+    },
+    {
+      "id": "00759",
+      "name": "Jackson County Fire District #5",
+      "region": "Jackson County"
+    },
+    {
+      "id": "00776",
+      "name": "Jackson County Fire District 4",
+      "region": "Jackson County"
+    },
+    {
+      "id": "00791",
+      "name": "Greensprings Rural Fire District",
+      "region": "Greensprings Rural"
+    },
+    {
+      "id": "00839",
+      "name": "Josephine County 911 Agency (PSAP)",
+      "region": "Josephine County"
+    },
+    {
+      "id": "00847",
+      "name": "Grants Pass Fire Rescue",
+      "region": "Grants Pass"
+    },
+    {
+      "id": "00848",
+      "name": "Illinois Valley Fire District",
+      "region": "Illinois Valley"
+    },
+    {
+      "id": "00849",
+      "name": "Williams Fire Rescue",
+      "region": "Williams"
+    },
+    {
+      "id": "00850",
+      "name": "Wolf Creek Rural Fire Protection District",
+      "region": "Wolf Creek"
+    },
+    {
+      "id": "00851",
+      "name": "Rural Metro Fire",
+      "region": "Rural Metro"
+    },
+    {
+      "id": "00852",
+      "name": "American Medical Response- Josephine County",
+      "region": "Josephine County"
+    },
+    {
+      "id": "00855",
+      "name": "North Lincoln Fire & Rescue District #1",
+      "region": "North Lincoln"
+    },
+    {
+      "id": "00934",
+      "name": "Newport Fire Department",
+      "region": "Newport"
+    },
+    {
+      "id": "00993",
+      "name": "Eugene Springfield Fire",
+      "region": "Eugene Springfield"
+    },
+    {
+      "id": "01117",
+      "name": "Lake Oswego Fire Department",
+      "region": "Clackamas County"
+    },
+    {
+      "id": "01127",
+      "name": "Woodburn Fire District",
+      "region": "Woodburn"
+    },
+    {
+      "id": "01129",
+      "name": "Hubbard Fire District",
+      "region": "Hubbard"
+    },
+    {
+      "id": "01130",
+      "name": "St Paul Fire District",
+      "region": "St Paul"
+    },
+    {
+      "id": "01131",
+      "name": "Jefferson Fire District",
+      "region": "Jefferson"
+    },
+    {
+      "id": "01132",
+      "name": "Mt Angel Fire District",
+      "region": "Mt Angel"
+    },
+    {
+      "id": "01133",
+      "name": "Monitor Fire District",
+      "region": "Monitor"
+    },
+    {
+      "id": "01134",
+      "name": "Aurora Fire District",
+      "region": "Aurora"
+    },
+    {
+      "id": "01135",
+      "name": "Silverton Fire District",
+      "region": "Silverton"
+    },
+    {
+      "id": "01136",
+      "name": "Drakes Crossing Fire District",
+      "region": "Drakes Crossing"
+    },
+    {
+      "id": "01137",
+      "name": "Idanha Detroit Rural Fire Protection District",
+      "region": "Idanha Detroit"
+    },
+    {
+      "id": "01172",
+      "name": "Alfalfa Fire District",
+      "region": "Alfalfa"
+    },
+    {
+      "id": "01188",
+      "name": "Estes Valley Fire Protection District",
+      "region": "Estes Valley"
+    },
+    {
+      "id": "01192",
+      "name": "Crystal Lakes Volunteer Fire Department",
+      "region": "Crystal Lakes"
+    },
+    {
+      "id": "01207",
+      "name": "South Lane Fire & Rescue - Cottage Grove",
+      "region": "South Lane"
+    },
+    {
+      "id": "01208",
+      "name": "South Lane Fire & Rescue - Creswell",
+      "region": "South Lane"
+    },
+    {
+      "id": "01209",
+      "name": "Lorane Fire District",
+      "region": "Lorane"
+    },
+    {
+      "id": "01210",
+      "name": "Goshen Fire District",
+      "region": "Goshen"
+    },
+    {
+      "id": "01211",
+      "name": "Pleasant Hill Goshen Fire & Rescue",
+      "region": "Oregon"
+    },
+    {
+      "id": "01212",
+      "name": "Dexter Rural Fire District",
+      "region": "Dexter Rural"
+    },
+    {
+      "id": "01213",
+      "name": "Lowell Fire District",
+      "region": "Lowell"
+    },
+    {
+      "id": "01214",
+      "name": "Upper Mckenzie Fire Rescue",
+      "region": "Upper Mckenzie"
+    },
+    {
+      "id": "01215",
+      "name": "McKenzie Fire & Rescue",
+      "region": "Oregon"
+    },
+    {
+      "id": "01216",
+      "name": "Coburg Fire District",
+      "region": "Coburg"
+    },
+    {
+      "id": "01217",
+      "name": "Mohawk Valley Rural Fire District",
+      "region": "Mohawk Valley"
+    },
+    {
+      "id": "01218",
+      "name": "Junction City Fire Department",
+      "region": "Junction City"
+    },
+    {
+      "id": "01222",
+      "name": "Harrisburg Fire & Rescue - Lane Co",
+      "region": "Harrisburg"
+    },
+    {
+      "id": "01223",
+      "name": "Monroe Fire Department",
+      "region": "Monroe"
+    },
+    {
+      "id": "01224",
+      "name": "Lane Fire Authority North Battalion",
+      "region": "Lane"
+    },
+    {
+      "id": "01225",
+      "name": "Lane Fire Authority Central Battalion",
+      "region": "Lane"
+    },
+    {
+      "id": "01226",
+      "name": "Lane Fire Authority South Battalion",
+      "region": "Lane"
+    },
+    {
+      "id": "01229",
+      "name": "Oakridge Westfir Hazeldell Fire Departments",
+      "region": "Oregon"
+    },
+    {
+      "id": "01330",
+      "name": "Stayton Fire District",
+      "region": "Stayton"
+    },
+    {
+      "id": "01331",
+      "name": "Aumsville Fire District",
+      "region": "Aumsville"
+    },
+    {
+      "id": "01361",
+      "name": "Corvallis Fire Department",
+      "region": "Corvallis"
+    },
+    {
+      "id": "01373",
+      "name": "Central Coast Fire and Rescue District",
+      "region": "Central Coast"
+    },
+    {
+      "id": "01433",
+      "name": "Pendleton Fire & Ambulance",
+      "region": "Pendleton"
+    },
+    {
+      "id": "01562",
+      "name": "Seal Rock Fire",
+      "region": "Seal Rock"
+    },
+    {
+      "id": "01565",
+      "name": "Yamhill County Communications Agency",
+      "region": "Yamhill County"
+    },
+    {
+      "id": "01703",
+      "name": "Washington County Consolidated Communications (PARENT PSAP)",
+      "region": "Washington County"
+    },
+    {
+      "id": "02051",
+      "name": "Prospect Rural Fire Protection District",
+      "region": "Prospect Rural"
+    },
+    {
+      "id": "02059",
+      "name": "Western Lane Fire and EMS Authority",
+      "region": "Western Lane"
+    },
+    {
+      "id": "02213",
+      "name": "Philomath Fire & Rescue",
+      "region": "Philomath"
+    },
+    {
+      "id": "02306",
+      "name": "Monroe Rural Fire Protection District",
+      "region": "Monroe Rural"
+    },
+    {
+      "id": "02307",
+      "name": "Linn County Sheriff/Corvallis Regional CC (Parent PSAP)",
+      "region": "Linn County"
+    },
+    {
+      "id": "02309",
+      "name": "Adair Rural Fire Protection District",
+      "region": "Adair Rural"
+    },
+    {
+      "id": "02310",
+      "name": "Hoskins-Kings Valley RFPD",
+      "region": "Oregon"
+    },
+    {
+      "id": "02311",
+      "name": "Alsea Rural Fire Protection District",
+      "region": "Alsea Rural"
+    },
+    {
+      "id": "02322",
+      "name": "Willamette Valley Communications Center (PARENT PSAP)",
+      "region": "Oregon"
+    },
+    {
+      "id": "02324",
+      "name": "Emergency Communications of Southern Oregon (PARENT PSAP)",
+      "region": "Oregon"
+    },
+    {
+      "id": "02327",
+      "name": "Blodgett-Summit RFPD",
+      "region": "Oregon"
+    },
+    {
+      "id": "02361",
+      "name": "Lyons Rural Fire Protection District",
+      "region": "Lyons Rural"
+    },
+    {
+      "id": "02374",
+      "name": "METCOM 911 OR (Parent PSAP)",
+      "region": "Oregon"
+    },
+    {
+      "id": "02423",
+      "name": "Harrisburg Fire & Rescue - Linn Co",
+      "region": "Harrisburg"
+    },
+    {
+      "id": "02587",
+      "name": "Portland Bureau of Emergency Communications",
+      "region": "Oregon"
+    },
+    {
+      "id": "02601",
+      "name": "Clackamas County Department of Communications",
+      "region": "Clackamas County"
+    },
+    {
+      "id": "02661",
+      "name": "Central Lane Communications Center",
+      "region": "Oregon"
+    },
+    {
+      "id": "02830",
+      "name": "Falls City Fire Department",
+      "region": "Falls City"
+    },
+    {
+      "id": "02834",
+      "name": "Gates Rural Fire Protection District",
+      "region": "Gates Rural"
+    },
+    {
+      "id": "02835",
+      "name": "Mill City Rural Fire Protection District",
+      "region": "Mill City"
+    }
+  ]
+}

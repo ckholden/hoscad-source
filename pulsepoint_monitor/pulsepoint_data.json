@@ -1,0 +1,191 @@
+{
+  "last_updated": "2026-01-30T06:04:56.258998+00:00",
+  "agencies": {
+    "00291": {
+      "last_poll": "2026-01-30T06:04:51.697854+00:00"
+    },
+    "00079": {
+      "last_poll": "2026-01-30T06:04:53.946477+00:00"
+    },
+    "00321": {
+      "last_poll": "2026-01-30T06:04:56.258998+00:00"
+    }
+  },
+  "active_incidents": [
+    {
+      "incident_id": "2404657373",
+      "agency_id": "00321",
+      "agency_name": "Agency 00321",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "WOODSIDE DR SE, SALEM, OR",
+      "latitude": "44.8740323640",
+      "longitude": "-123.0276374190",
+      "received_time": "2026-01-30T05:50:02Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E9",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "M10",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E9, M10",
+      "fetched_at": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "incident_id": "2404654159",
+      "agency_id": "00321",
+      "agency_name": "Agency 00321",
+      "call_type": "TC",
+      "call_type_description": "Traffic Collision",
+      "address": "3995 SILVERTON RD NE, MARION COUNTY, OR",
+      "latitude": "44.9695294027",
+      "longitude": "-122.9840273339",
+      "received_time": "2026-01-30T05:41:09Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "BC32",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E8",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "M30",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        }
+      ],
+      "unit_count": 3,
+      "units_display": "BC32, E8, M30",
+      "fetched_at": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "incident_id": "2404647484",
+      "agency_id": "00321",
+      "agency_name": "Agency 00321",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "BOONE RD SE, SALEM, OR",
+      "latitude": "44.8821934099",
+      "longitude": "-123.0034403472",
+      "received_time": "2026-01-30T05:27:05Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "M7",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        }
+      ],
+      "unit_count": 1,
+      "units_display": "M7",
+      "fetched_at": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "incident_id": "2404640477",
+      "agency_id": "00321",
+      "agency_name": "Agency 00321",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "GLENCOE ST NE, SALEM, OR",
+      "latitude": "44.9486584031",
+      "longitude": "-122.9749868393",
+      "received_time": "2026-01-30T05:10:26Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "M3",
+          "status_code": "TA",
+          "status": "Transport Arrived",
+          "status_color": "blue"
+        }
+      ],
+      "unit_count": 1,
+      "units_display": "M3",
+      "fetched_at": "2026-01-30T06:04:56.258998+00:00"
+    }
+  ],
+  "unit_status": [
+    {
+      "unit_id": "E9",
+      "agency_id": "00321",
+      "incident_id": "2404657373",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "unit_id": "M10",
+      "agency_id": "00321",
+      "incident_id": "2404657373",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "unit_id": "BC32",
+      "agency_id": "00321",
+      "incident_id": "2404654159",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "unit_id": "E8",
+      "agency_id": "00321",
+      "incident_id": "2404654159",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "unit_id": "M30",
+      "agency_id": "00321",
+      "incident_id": "2404654159",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "unit_id": "M7",
+      "agency_id": "00321",
+      "incident_id": "2404647484",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    },
+    {
+      "unit_id": "M3",
+      "agency_id": "00321",
+      "incident_id": "2404640477",
+      "status_code": "TA",
+      "status": "Transport Arrived",
+      "status_color": "blue",
+      "last_update": "2026-01-30T06:04:56.258998+00:00"
+    }
+  ]
+}
