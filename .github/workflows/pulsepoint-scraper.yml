@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install cryptography requests
+          pip install cryptography requests schedule
 
       - name: Run PulsePoint scraper
         run: |
