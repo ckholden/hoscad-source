@@ -24,6 +24,6 @@
   ],
   "log_level": "INFO",
   "request_delay_seconds": 1.5,
-  "agencies_file": "C:/Users/chris/Desktop/projects/hoscad/pulsepoint_monitor/oregon_agencies.json",
-  "output_file": "C:/Users/chris/Desktop/projects/hoscad/pulsepoint_data.json"
+  "agencies_file": "oregon_agencies.json",
+  "output_file": "../pulsepoint_data.json"
 }

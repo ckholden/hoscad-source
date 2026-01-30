@@ -1,0 +1,44 @@
+name: PulsePoint Scraper
+
+on:
+  schedule:
+    # Run every 5 minutes (max frequency for GitHub Actions)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install cryptography requests
+
+      - name: Run PulsePoint scraper
+        run: |
+          cd pulsepoint_monitor
+          python pulsepoint_scraper.py --config config.json --once
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Move data file to docs folder for GitHub Pages
+          mkdir -p docs
+          cp pulsepoint_data.json docs/pulsepoint_data.json
+
+          git add pulsepoint_data.json docs/pulsepoint_data.json
+
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "Update PulsePoint data [skip ci]"
+          git push
