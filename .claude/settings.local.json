@@ -50,7 +50,28 @@
       "Bash(powershell:*)",
       "Bash(npm run dist:*)",
       "Bash(git init:*)",
-      "Bash(gh repo create:*)"
+      "Bash(gh repo create:*)",
+      "Bash(node:*)",
+      "Bash(pip install:*)",
+      "Bash(python test_decryption.py:*)",
+      "Bash(python -c:*)",
+      "Bash(python discover_agencies.py:*)",
+      "Bash(python:*)",
+      "Bash(start chrome \"https://web.pulsepoint.org\")",
+      "Bash(playwright install:*)",
+      "Bash(start chrome:*)",
+      "Bash(ping:*)",
+      "Bash(findstr:*)",
+      "Bash(gh repo edit:*)",
+      "Bash(gh workflow run:*)",
+      "Bash(start https://ckholden.github.io/hoscad-source/)",
+      "Bash(gh repo clone:*)",
+      "Bash(start https://holdenportal.com/orfireems)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)",
+      "Bash(git stash:*)",
+      "Bash(git checkout:*)",
+      "Bash(git restore:*)"
     ]
   }
 }

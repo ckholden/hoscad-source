@@ -282,7 +282,8 @@
             "00028": "Clackamas Fire", "00041": "Portland Fire & Rescue", "00079": "Tualatin Valley Fire & Rescue",
             "00231": "Bend Fire & Rescue", "00234": "Sunriver Fire", "00235": "Black Butte Ranch Fire",
             "00236": "Redmond Fire & Rescue", "00237": "Sisters-Camp Sherman Fire District", "00238": "Crooked River Ranch Fire",
-            "00239": "La Pine Fire District", "00240": "Cloverdale Fire", "00341": "Salem Fire Department",
+            "00239": "La Pine Fire District", "00240": "Cloverdale Fire", "00291": "Portland Fire & Rescue",
+            "00321": "Salem Fire Department", "00341": "Salem Fire Department",
             "00383": "Depoe Bay Fire District", "00384": "Polk County Fire District No.1", "00385": "Marion County Fire District No.1",
             "00387": "Dallas Fire & EMS", "00388": "Keizer Fire District", "00412": "Canby Fire District",
             "00413": "Estacada Rural Fire District", "00414": "Molalla Fire District # 73", "00415": "SW Polk Fire District",
@@ -355,7 +356,10 @@
 
         // Get agency name with fallback to static lookup
         function getAgencyName(agencyId, fromData) {
-            return fromData || AGENCY_NAMES[agencyId] || `Agency ${agencyId}`;
+            if (fromData && !fromData.startsWith('Agency ')) {
+                return fromData;
+            }
+            return AGENCY_NAMES[agencyId] || fromData || `Agency ${agencyId}`;
         }
 
         // Pre-populate knownAgencies from static lookup
