@@ -13,40 +13,6 @@
             font-size: 13px;
         }
 
-        /* Login */
-        .login-overlay {
-            position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: #0a0a12;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 2000;
-        }
-        .login-overlay.hidden { display: none; }
-        .login-box {
-            background: #1a1a2e;
-            padding: 40px;
-            border-radius: 10px;
-            border: 2px solid #c41e3a;
-            width: 350px;
-        }
-        .login-box h1 { color: #ff6b6b; margin-bottom: 10px; font-size: 1.4em; }
-        .login-box .subtitle { color: #888; margin-bottom: 30px; font-size: 0.9em; }
-        .login-box input {
-            width: 100%; padding: 12px; margin-bottom: 15px;
-            background: #0a0a12; border: 1px solid #3a3a5a;
-            color: #e0e0e0; font-family: inherit; font-size: 1em;
-        }
-        .login-box input:focus { outline: none; border-color: #c41e3a; }
-        .login-box button {
-            width: 100%; padding: 12px; background: #c41e3a;
-            border: none; color: white; font-family: inherit;
-            font-size: 1em; cursor: pointer;
-        }
-        .login-box button:hover { background: #a01830; }
-        .login-box .error { color: #ff6b6b; margin-bottom: 15px; display: none; }
-
         /* Dashboard */
         .dashboard { display: none; }
         .dashboard.show { display: block; }
@@ -219,19 +185,8 @@
     </style>
 </head>
 <body>
-    <!-- Login Overlay -->
-    <div class="login-overlay" id="login-overlay">
-        <div class="login-box">
-            <h1>OREGON FIRE/EMS CAD</h1>
-            <div class="subtitle">Authorized Access Only</div>
-            <div class="error" id="login-error">Invalid password</div>
-            <input type="password" id="password-input" placeholder="Enter password" autofocus>
-            <button onclick="checkPassword()">LOGIN</button>
-        </div>
-    </div>
-
     <!-- Dashboard -->
-    <div class="dashboard" id="dashboard">
+    <div class="dashboard show" id="dashboard">
         <div class="header">
             <h1>OREGON FIRE/EMS CAD</h1>
             <div class="header-stats">
@@ -319,9 +274,54 @@
     </div>
 
     <script>
-        const PASSWORD = 'holdc123';
         const REFRESH_INTERVAL = 60000; // Check for updates every minute
         const DATA_URL = 'pulsepoint_data.json';
+
+        // Static agency names lookup - ensures names are always available
+        const AGENCY_NAMES = {
+            "00028": "Clackamas Fire", "00041": "Portland Fire & Rescue", "00079": "Tualatin Valley Fire & Rescue",
+            "00231": "Bend Fire & Rescue", "00234": "Sunriver Fire", "00235": "Black Butte Ranch Fire",
+            "00236": "Redmond Fire & Rescue", "00237": "Sisters-Camp Sherman Fire District", "00238": "Crooked River Ranch Fire",
+            "00239": "La Pine Fire District", "00240": "Cloverdale Fire", "00341": "Salem Fire Department",
+            "00383": "Depoe Bay Fire District", "00384": "Polk County Fire District No.1", "00385": "Marion County Fire District No.1",
+            "00387": "Dallas Fire & EMS", "00388": "Keizer Fire District", "00412": "Canby Fire District",
+            "00413": "Estacada Rural Fire District", "00414": "Molalla Fire District # 73", "00415": "SW Polk Fire District",
+            "00416": "Hoodland Fire District #74", "00430": "Gladstone Fire Department", "00451": "Sandy Fire District No. 72",
+            "00453": "Colton Rural Fire Protection District #70", "00478": "Hillsboro Fire & Rescue", "00481": "Washington County Fire District #2",
+            "00482": "Banks Fire District #13", "00484": "Forest Grove Fire and Rescue", "00485": "Cornelius Fire Department",
+            "00486": "Gaston Rural Fire District", "00499": "Albany Fire Department", "00532": "Gresham Fire and Emergency Services",
+            "00724": "Sauvie Island Fire District", "00729": "Jackson County Fire Dist. 3", "00731": "Siletz Valley Fire District",
+            "00736": "Tangent Fire District", "00740": "Brownsville Rural Fire District", "00742": "Sweet Home Fire District",
+            "00744": "Medford Fire Department", "00745": "Dundee Fire & Rescue", "00747": "Lake Creek Rural Fire District",
+            "00748": "Ashland Fire & Rescue", "00749": "Jacksonville Fire Department", "00750": "Evans Valley Fire District #6",
+            "00752": "Lebanon Fire District", "00753": "Halsey-Shedd R.F.P.D", "00755": "Scio Fire District",
+            "00757": "Applegate Fire", "00758": "Jackson County Fire District 1", "00759": "Jackson County Fire District #5",
+            "00776": "Jackson County Fire District 4", "00791": "Greensprings Rural Fire District", "00839": "Josephine County 911 Agency (PSAP)",
+            "00847": "Grants Pass Fire Rescue", "00848": "Illinois Valley Fire District", "00849": "Williams Fire Rescue",
+            "00850": "Wolf Creek Rural Fire Protection District", "00851": "Rural Metro Fire", "00852": "American Medical Response- Josephine County",
+            "00855": "North Lincoln Fire & Rescue District #1", "00934": "Newport Fire Department", "00993": "Eugene Springfield Fire",
+            "01117": "Lake Oswego Fire Department", "01127": "Woodburn Fire District", "01129": "Hubbard Fire District",
+            "01130": "St Paul Fire District", "01131": "Jefferson Fire District", "01132": "Mt Angel Fire District",
+            "01133": "Monitor Fire District", "01134": "Aurora Fire District", "01135": "Silverton Fire District",
+            "01136": "Drakes Crossing Fire District", "01137": "Idanha Detroit Rural Fire Protection District", "01172": "Alfalfa Fire District",
+            "01188": "Estes Valley Fire Protection District", "01192": "Crystal Lakes Volunteer Fire Department", "01207": "South Lane Fire & Rescue - Cottage Grove",
+            "01208": "South Lane Fire & Rescue - Creswell", "01209": "Lorane Fire District", "01210": "Goshen Fire District",
+            "01211": "Pleasant Hill Goshen Fire & Rescue", "01212": "Dexter Rural Fire District", "01213": "Lowell Fire District",
+            "01214": "Upper Mckenzie Fire Rescue", "01215": "McKenzie Fire & Rescue", "01216": "Coburg Fire District",
+            "01217": "Mohawk Valley Rural Fire District", "01218": "Junction City Fire Department", "01222": "Harrisburg Fire & Rescue - Lane Co",
+            "01223": "Monroe Fire Department", "01224": "Lane Fire Authority North Battalion", "01225": "Lane Fire Authority Central Battalion",
+            "01226": "Lane Fire Authority South Battalion", "01229": "Oakridge Westfir Hazeldell Fire Departments", "01330": "Stayton Fire District",
+            "01331": "Aumsville Fire District", "01361": "Corvallis Fire Department", "01373": "Central Coast Fire and Rescue District",
+            "01433": "Pendleton Fire & Ambulance", "01562": "Seal Rock Fire", "01565": "Yamhill County Communications Agency",
+            "01703": "Washington County Consolidated Communications (PARENT PSAP)", "02051": "Prospect Rural Fire Protection District",
+            "02059": "Western Lane Fire and EMS Authority", "02213": "Philomath Fire & Rescue", "02306": "Monroe Rural Fire Protection District",
+            "02307": "Linn County Sheriff/Corvallis Regional CC (Parent PSAP)", "02309": "Adair Rural Fire Protection District",
+            "02310": "Hoskins-Kings Valley RFPD", "02311": "Alsea Rural Fire Protection District", "02322": "Willamette Valley Communications Center (PARENT PSAP)",
+            "02324": "Emergency Communications of Southern Oregon (PARENT PSAP)", "02327": "Blodgett-Summit RFPD", "02361": "Lyons Rural Fire Protection District",
+            "02374": "METCOM 911 OR (Parent PSAP)", "02423": "Harrisburg Fire & Rescue - Linn Co", "02587": "Portland Bureau of Emergency Communications",
+            "02601": "Clackamas County Department of Communications", "02661": "Central Lane Communications Center", "02830": "Falls City Fire Department",
+            "02834": "Gates Rural Fire Protection District", "02835": "Mill City Rural Fire Protection District"
+        };
 
         let allData = { active_incidents: [], recent_incidents: [], agencies: {} };
         let knownAgencies = {};
@@ -353,31 +353,19 @@
             'AR': 'Available', 'AQ': 'Available in Quarters', 'ST': 'Staged'
         };
 
-        // Check saved login
-        if (sessionStorage.getItem('orfireems_auth') === 'true') {
-            document.getElementById('login-overlay').classList.add('hidden');
-            document.getElementById('dashboard').classList.add('show');
-            fetchData();
-            setInterval(fetchData, REFRESH_INTERVAL);
+        // Get agency name with fallback to static lookup
+        function getAgencyName(agencyId, fromData) {
+            return fromData || AGENCY_NAMES[agencyId] || `Agency ${agencyId}`;
         }
 
-        document.getElementById('password-input').addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') checkPassword();
+        // Pre-populate knownAgencies from static lookup
+        Object.entries(AGENCY_NAMES).forEach(([id, name]) => {
+            knownAgencies[id] = { name: name, activeCount: 0, recentCount: 0 };
         });
 
-        function checkPassword() {
-            const input = document.getElementById('password-input').value;
-            if (input === PASSWORD) {
-                sessionStorage.setItem('orfireems_auth', 'true');
-                document.getElementById('login-overlay').classList.add('hidden');
-                document.getElementById('dashboard').classList.add('show');
-                fetchData();
-                setInterval(fetchData, REFRESH_INTERVAL);
-            } else {
-                document.getElementById('login-error').style.display = 'block';
-                document.getElementById('password-input').value = '';
-            }
-        }
+        // Initialize on page load
+        fetchData();
+        setInterval(fetchData, REFRESH_INTERVAL);
 
         function getCallClass(type) {
             if (['ME', 'LA'].includes(type)) return 'call-me';
@@ -496,7 +484,7 @@
                 <div class="detail-row"><span class="detail-label">INCIDENT ID</span><span class="detail-value">${incident.incident_id || '-'}</span></div>
                 <div class="detail-row"><span class="detail-label">CALL TYPE</span>
                     <span class="detail-value"><span class="call-type ${getCallClass(callType)}">${callType}</span> ${callTypeFull}</span></div>
-                <div class="detail-row"><span class="detail-label">AGENCY</span><span class="detail-value">${incident.agency_name || incident.agency_id}</span></div>
+                <div class="detail-row"><span class="detail-label">AGENCY</span><span class="detail-value">${getAgencyName(incident.agency_id, incident.agency_name)}</span></div>
                 <div class="detail-row"><span class="detail-label">ADDRESS</span><span class="detail-value">${incident.address || 'Not available'}</span></div>
                 <div class="detail-row"><span class="detail-label">RECEIVED</span>
                     <span class="detail-value">${incident.received_time ? new Date(incident.received_time).toLocaleString() : '-'} (${timeAgo(incident.received_time)})</span></div>
@@ -534,7 +522,7 @@
                     case 'status': va = a._status; vb = b._status; break;
                     case 'time': va = a.received_time || ''; vb = b.received_time || ''; break;
                     case 'type': va = a.call_type || ''; vb = b.call_type || ''; break;
-                    case 'agency': va = a.agency_name || ''; vb = b.agency_name || ''; break;
+                    case 'agency': va = getAgencyName(a.agency_id, a.agency_name); vb = getAgencyName(b.agency_id, b.agency_name); break;
                     case 'address': va = a.address || ''; vb = b.address || ''; break;
                     default: va = a.received_time || ''; vb = b.received_time || '';
                 }
@@ -560,7 +548,7 @@
                         <td><span class="status-badge status-${i._status}">${i._status.toUpperCase()}</span></td>
                         <td class="time-cell">${formatTime(i.received_time)} <span class="time-ago">${timeAgo(i.received_time)}</span></td>
                         <td><span class="call-type ${getCallClass(i.call_type)}">${CALL_TYPES_SHORT[i.call_type] || i.call_type}</span></td>
-                        <td>${i.agency_name || i.agency_id}</td>
+                        <td>${getAgencyName(i.agency_id, i.agency_name)}</td>
                         <td>${i.address || '-'}</td>
                         <td class="units-cell">${units || '-'}</td>
                     </tr>`;
@@ -595,8 +583,8 @@
                 });
 
                 Object.entries(agencies).forEach(([id, info]) => {
-                    if (!knownAgencies[id]) knownAgencies[id] = { name: info.name || `Agency ${id}`, activeCount: 0, recentCount: 0 };
-                    knownAgencies[id].name = info.name || knownAgencies[id].name;
+                    if (!knownAgencies[id]) knownAgencies[id] = { name: getAgencyName(id, info.name), activeCount: 0, recentCount: 0 };
+                    knownAgencies[id].name = getAgencyName(id, info.name);
                     knownAgencies[id].activeCount = activeByAgency[id] || 0;
                     knownAgencies[id].recentCount = recentByAgency[id] || 0;
                 });
