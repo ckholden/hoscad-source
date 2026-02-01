@@ -1,585 +1,921 @@
 {
-  "last_updated": "2026-02-01T22:01:51.489340+00:00",
+  "last_updated": "2026-02-01T22:59:09.210704+00:00",
   "agencies": {
     "00238": {
-      "last_poll": "2026-02-01T21:59:01.788409+00:00",
+      "last_poll": "2026-02-01T22:55:50.759278+00:00",
       "name": "Crooked River Ranch Fire"
     },
     "00235": {
-      "last_poll": "2026-02-01T21:58:35.293556+00:00",
+      "last_poll": "2026-02-01T22:57:18.784318+00:00",
       "name": "Black Butte Ranch Fire"
     },
     "00231": {
-      "last_poll": "2026-02-01T22:01:23.107522+00:00",
+      "last_poll": "2026-02-01T22:59:05.756924+00:00",
       "name": "Bend Fire & Rescue"
     },
     "00237": {
-      "last_poll": "2026-02-01T21:58:51.821213+00:00",
+      "last_poll": "2026-02-01T22:55:55.926908+00:00",
       "name": "Sisters-Camp Sherman Fire District"
     },
     "00234": {
-      "last_poll": "2026-02-01T22:00:52.994623+00:00",
+      "last_poll": "2026-02-01T22:55:49.039752+00:00",
       "name": "Sunriver Fire"
     },
     "00236": {
-      "last_poll": "2026-02-01T22:00:51.319533+00:00",
+      "last_poll": "2026-02-01T22:57:46.459167+00:00",
       "name": "Redmond Fire & Rescue"
     },
     "00239": {
-      "last_poll": "2026-02-01T22:00:23.087341+00:00",
+      "last_poll": "2026-02-01T22:59:04.042839+00:00",
       "name": "La Pine Fire District"
     },
     "01172": {
-      "last_poll": "2026-02-01T21:59:10.078081+00:00",
+      "last_poll": "2026-02-01T22:56:58.009142+00:00",
       "name": "Alfalfa Fire District"
     },
     "02661": {
-      "last_poll": "2026-02-01T21:58:38.560055+00:00",
+      "last_poll": "2026-02-01T22:58:07.171720+00:00",
       "name": "Central Lane Communications Center"
     },
     "01209": {
-      "last_poll": "2026-02-01T21:59:58.221591+00:00",
+      "last_poll": "2026-02-01T22:56:21.861517+00:00",
       "name": "Lorane Fire District"
     },
     "00755": {
-      "last_poll": "2026-02-01T21:58:25.183765+00:00",
+      "last_poll": "2026-02-01T22:58:38.175603+00:00",
       "name": "Scio Fire District"
     },
     "00744": {
-      "last_poll": "2026-02-01T21:58:36.924126+00:00",
+      "last_poll": "2026-02-01T22:56:14.917001+00:00",
       "name": "Medford Fire Department"
     },
     "01137": {
-      "last_poll": "2026-02-01T21:59:36.626713+00:00",
+      "last_poll": "2026-02-01T22:55:43.867723+00:00",
       "name": "Idanha Detroit Rural Fire Protection District"
     },
     "01361": {
-      "last_poll": "2026-02-01T21:59:53.170189+00:00",
+      "last_poll": "2026-02-01T22:57:06.708281+00:00",
       "name": "Corvallis Fire Department"
     },
     "00416": {
-      "last_poll": "2026-02-01T22:01:48.141941+00:00",
+      "last_poll": "2026-02-01T22:59:00.607040+00:00",
       "name": "Hoodland Fire District #74"
     },
     "01224": {
-      "last_poll": "2026-02-01T21:58:28.552404+00:00",
+      "last_poll": "2026-02-01T22:58:00.312338+00:00",
       "name": "Lane Fire Authority North Battalion"
     },
     "01131": {
-      "last_poll": "2026-02-01T22:00:36.457985+00:00",
+      "last_poll": "2026-02-01T22:56:44.264482+00:00",
       "name": "Jefferson Fire District"
     },
     "01117": {
-      "last_poll": "2026-02-01T21:58:58.418705+00:00",
+      "last_poll": "2026-02-01T22:58:12.321766+00:00",
       "name": "Lake Oswego Fire Department"
     },
     "00388": {
-      "last_poll": "2026-02-01T21:59:54.845794+00:00",
+      "last_poll": "2026-02-01T22:56:16.659138+00:00",
       "name": "Keizer Fire District"
     },
     "01433": {
-      "last_poll": "2026-02-01T22:01:36.470137+00:00",
+      "last_poll": "2026-02-01T22:56:49.420160+00:00",
       "name": "Pendleton Fire & Ambulance"
     },
     "00736": {
-      "last_poll": "2026-02-01T22:00:59.739480+00:00",
+      "last_poll": "2026-02-01T22:58:58.887078+00:00",
       "name": "Tangent Fire District"
     },
     "02311": {
-      "last_poll": "2026-02-01T21:59:44.946823+00:00",
+      "last_poll": "2026-02-01T22:58:14.037898+00:00",
       "name": "Alsea Rural Fire Protection District"
     },
     "02830": {
-      "last_poll": "2026-02-01T21:58:53.443495+00:00",
+      "last_poll": "2026-02-01T22:57:13.594253+00:00",
       "name": "Falls City Fire Department"
     },
     "00484": {
-      "last_poll": "2026-02-01T22:01:11.369989+00:00",
+      "last_poll": "2026-02-01T22:58:55.416687+00:00",
       "name": "Forest Grove Fire and Rescue"
     },
     "00759": {
-      "last_poll": "2026-02-01T21:59:34.953621+00:00",
+      "last_poll": "2026-02-01T22:56:40.810971+00:00",
       "name": "Jackson County Fire District #5"
     },
     "00041": {
-      "last_poll": "2026-02-01T21:59:16.649327+00:00",
+      "last_poll": "2026-02-01T22:56:01.092599+00:00",
       "name": "Portland Fire & Rescue"
     },
     "00499": {
-      "last_poll": "2026-02-01T22:01:19.775433+00:00",
+      "last_poll": "2026-02-01T22:57:25.691369+00:00",
       "name": "Albany Fire Department"
     },
     "01207": {
-      "last_poll": "2026-02-01T22:01:26.475962+00:00",
+      "last_poll": "2026-02-01T22:58:46.792927+00:00",
       "name": "South Lane Fire & Rescue - Cottage Grove"
     },
     "00478": {
-      "last_poll": "2026-02-01T21:59:11.718441+00:00",
+      "last_poll": "2026-02-01T22:58:57.159496+00:00",
       "name": "Hillsboro Fire & Rescue"
     },
     "00851": {
-      "last_poll": "2026-02-01T21:59:41.591601+00:00",
+      "last_poll": "2026-02-01T22:57:41.235026+00:00",
       "name": "Rural Metro Fire"
     },
     "00847": {
-      "last_poll": "2026-02-01T22:01:46.475993+00:00",
+      "last_poll": "2026-02-01T22:56:02.827097+00:00",
       "name": "Grants Pass Fire Rescue"
     },
     "00486": {
-      "last_poll": "2026-02-01T21:59:33.266127+00:00",
+      "last_poll": "2026-02-01T22:58:41.620243+00:00",
       "name": "Gaston Rural Fire District"
     },
     "02601": {
-      "last_poll": "2026-02-01T22:00:47.969069+00:00",
+      "last_poll": "2026-02-01T22:58:05.459119+00:00",
       "name": "Clackamas County Department of Communications"
     },
     "01331": {
-      "last_poll": "2026-02-01T22:00:46.292440+00:00",
+      "last_poll": "2026-02-01T22:56:28.765764+00:00",
       "name": "Aumsville Fire District"
     },
     "00412": {
-      "last_poll": "2026-02-01T22:01:29.781233+00:00",
+      "last_poll": "2026-02-01T22:58:29.555484+00:00",
       "name": "Canby Fire District"
     },
     "01217": {
-      "last_poll": "2026-02-01T21:58:41.875026+00:00",
+      "last_poll": "2026-02-01T22:58:33.005375+00:00",
       "name": "Mohawk Valley Rural Fire District"
     },
     "01565": {
-      "last_poll": "2026-02-01T22:00:11.521550+00:00",
+      "last_poll": "2026-02-01T22:58:24.400618+00:00",
       "name": "Yamhill County Communications Agency"
     },
     "02834": {
-      "last_poll": "2026-02-01T22:00:34.773617+00:00",
+      "last_poll": "2026-02-01T22:56:30.496423+00:00",
       "name": "Gates Rural Fire Protection District"
     },
     "02374": {
-      "last_poll": "2026-02-01T21:58:56.780871+00:00",
+      "last_poll": "2026-02-01T22:57:37.769841+00:00",
       "name": "METCOM 911 OR (Parent PSAP)"
     },
     "00848": {
-      "last_poll": "2026-02-01T21:59:51.527378+00:00",
+      "last_poll": "2026-02-01T22:57:58.579924+00:00",
       "name": "Illinois Valley Fire District"
     },
     "01133": {
-      "last_poll": "2026-02-01T22:01:49.829606+00:00",
+      "last_poll": "2026-02-01T22:56:25.328057+00:00",
       "name": "Monitor Fire District"
     },
     "01192": {
-      "last_poll": "2026-02-01T22:00:14.829349+00:00",
+      "last_poll": "2026-02-01T22:55:47.319758+00:00",
       "name": "Crystal Lakes Volunteer Fire Department"
     },
     "00383": {
-      "last_poll": "2026-02-01T22:00:58.026226+00:00",
+      "last_poll": "2026-02-01T22:57:23.965401+00:00",
       "name": "Depoe Bay Fire District"
     },
     "01127": {
-      "last_poll": "2026-02-01T22:00:06.527627+00:00",
+      "last_poll": "2026-02-01T22:56:27.038959+00:00",
       "name": "Woodburn Fire District"
     },
     "01225": {
-      "last_poll": "2026-02-01T21:59:24.974302+00:00",
+      "last_poll": "2026-02-01T22:55:57.651994+00:00",
       "name": "Lane Fire Authority Central Battalion"
     },
     "00240": {
-      "last_poll": "2026-02-01T21:59:59.900984+00:00",
+      "last_poll": "2026-02-01T22:56:51.134331+00:00",
       "name": "Cloverdale Fire"
     },
     "00482": {
-      "last_poll": "2026-02-01T21:58:46.844068+00:00",
+      "last_poll": "2026-02-01T22:56:23.603682+00:00",
       "name": "Banks Fire District #13"
     },
     "01373": {
-      "last_poll": "2026-02-01T21:58:43.549909+00:00",
+      "last_poll": "2026-02-01T22:58:50.229966+00:00",
       "name": "Central Coast Fire and Rescue District"
     },
     "00776": {
-      "last_poll": "2026-02-01T22:00:38.094475+00:00",
+      "last_poll": "2026-02-01T22:58:36.448490+00:00",
       "name": "Jackson County Fire District 4"
     },
     "00791": {
-      "last_poll": "2026-02-01T22:00:42.998082+00:00",
+      "last_poll": "2026-02-01T22:55:54.203543+00:00",
       "name": "Greensprings Rural Fire District"
     },
     "00934": {
-      "last_poll": "2026-02-01T22:01:04.697957+00:00",
+      "last_poll": "2026-02-01T22:56:39.097512+00:00",
       "name": "Newport Fire Department"
     },
     "00752": {
-      "last_poll": "2026-02-01T21:59:29.929507+00:00",
+      "last_poll": "2026-02-01T22:55:38.691330+00:00",
       "name": "Lebanon Fire District"
     },
     "01330": {
-      "last_poll": "2026-02-01T21:59:13.368973+00:00",
+      "last_poll": "2026-02-01T22:58:08.889276+00:00",
       "name": "Stayton Fire District"
     },
     "00028": {
-      "last_poll": "2026-02-01T22:00:08.206174+00:00",
+      "last_poll": "2026-02-01T22:57:10.151255+00:00",
       "name": "Clackamas Fire"
     },
     "01226": {
-      "last_poll": "2026-02-01T22:00:19.780462+00:00",
+      "last_poll": "2026-02-01T22:58:45.063602+00:00",
       "name": "Lane Fire Authority South Battalion"
     },
     "00453": {
-      "last_poll": "2026-02-01T22:01:16.427289+00:00",
+      "last_poll": "2026-02-01T22:55:45.599875+00:00",
       "name": "Colton Rural Fire Protection District #70"
     },
     "02835": {
-      "last_poll": "2026-02-01T22:01:38.095517+00:00",
+      "last_poll": "2026-02-01T22:57:08.431917+00:00",
       "name": "Mill City Rural Fire Protection District"
     },
     "00745": {
-      "last_poll": "2026-02-01T22:00:04.881123+00:00",
+      "last_poll": "2026-02-01T22:58:03.737615+00:00",
       "name": "Dundee Fire & Rescue"
     },
     "00740": {
-      "last_poll": "2026-02-01T21:59:21.668935+00:00",
+      "last_poll": "2026-02-01T22:56:47.700788+00:00",
       "name": "Brownsville Rural Fire District"
     },
     "00849": {
-      "last_poll": "2026-02-01T22:01:31.476924+00:00",
+      "last_poll": "2026-02-01T22:57:53.421222+00:00",
       "name": "Williams Fire Rescue"
     },
     "00385": {
-      "last_poll": "2026-02-01T22:00:13.199986+00:00",
+      "last_poll": "2026-02-01T22:57:34.314860+00:00",
       "name": "Marion County Fire District No.1"
     },
     "01210": {
-      "last_poll": "2026-02-01T22:01:18.113889+00:00",
+      "last_poll": "2026-02-01T22:57:29.160133+00:00",
       "name": "Goshen Fire District"
     },
     "01229": {
-      "last_poll": "2026-02-01T21:58:45.189725+00:00",
+      "last_poll": "2026-02-01T22:59:02.318347+00:00",
       "name": "Oakridge Westfir Hazeldell Fire Departments"
     },
     "00748": {
-      "last_poll": "2026-02-01T21:58:55.078169+00:00",
+      "last_poll": "2026-02-01T22:57:51.693424+00:00",
       "name": "Ashland Fire & Rescue"
     },
     "00341": {
-      "last_poll": "2026-02-01T21:59:38.295706+00:00",
+      "last_poll": "2026-02-01T22:59:07.475057+00:00",
       "name": "Salem Fire Department"
     },
     "02059": {
-      "last_poll": "2026-02-01T21:58:40.193512+00:00",
+      "last_poll": "2026-02-01T22:57:27.446899+00:00",
       "name": "Western Lane Fire and EMS Authority"
     },
     "02051": {
-      "last_poll": "2026-02-01T21:59:43.278040+00:00",
+      "last_poll": "2026-02-01T22:57:30.880718+00:00",
       "name": "Prospect Rural Fire Protection District"
     },
     "02327": {
-      "last_poll": "2026-02-01T22:00:33.153669+00:00",
+      "last_poll": "2026-02-01T22:56:33.934540+00:00",
       "name": "Blodgett-Summit RFPD"
     },
     "00430": {
-      "last_poll": "2026-02-01T22:01:09.682800+00:00",
+      "last_poll": "2026-02-01T22:58:31.281761+00:00",
       "name": "Gladstone Fire Department"
     },
     "02324": {
-      "last_poll": "2026-02-01T22:01:08.002868+00:00",
+      "last_poll": "2026-02-01T22:56:11.476705+00:00",
       "name": "Emergency Communications of Southern Oregon (PARENT PSAP)"
     },
     "00481": {
-      "last_poll": "2026-02-01T21:59:46.582964+00:00",
+      "last_poll": "2026-02-01T22:57:44.735945+00:00",
       "name": "Washington County Fire District #2"
     },
     "00413": {
-      "last_poll": "2026-02-01T21:59:56.534104+00:00",
+      "last_poll": "2026-02-01T22:55:52.482284+00:00",
       "name": "Estacada Rural Fire District"
     },
     "00855": {
-      "last_poll": "2026-02-01T22:00:16.453357+00:00",
+      "last_poll": "2026-02-01T22:56:45.988386+00:00",
       "name": "North Lincoln Fire & Rescue District #1"
     },
     "00724": {
-      "last_poll": "2026-02-01T22:01:21.438971+00:00",
+      "last_poll": "2026-02-01T22:55:35.221178+00:00",
       "name": "Sauvie Island Fire District"
     },
     "00079": {
-      "last_poll": "2026-02-01T21:58:33.599664+00:00",
+      "last_poll": "2026-02-01T22:58:22.690045+00:00",
       "name": "Tualatin Valley Fire & Rescue"
     },
     "00749": {
-      "last_poll": "2026-02-01T22:00:21.455368+00:00",
+      "last_poll": "2026-02-01T22:57:03.238924+00:00",
       "name": "Jacksonville Fire Department"
     },
     "02309": {
-      "last_poll": "2026-02-01T21:59:49.896828+00:00",
+      "last_poll": "2026-02-01T22:57:42.953615+00:00",
       "name": "Adair Rural Fire Protection District"
     },
     "00757": {
-      "last_poll": "2026-02-01T22:01:39.774002+00:00",
+      "last_poll": "2026-02-01T22:58:15.774571+00:00",
       "name": "Applegate Fire"
     },
     "02306": {
-      "last_poll": "2026-02-01T22:00:01.611585+00:00",
+      "last_poll": "2026-02-01T22:55:40.408484+00:00",
       "name": "Monroe Rural Fire Protection District"
     },
     "00747": {
-      "last_poll": "2026-02-01T21:59:03.464167+00:00",
+      "last_poll": "2026-02-01T22:57:01.522233+00:00",
       "name": "Lake Creek Rural Fire District"
     },
     "01562": {
-      "last_poll": "2026-02-01T22:01:14.728635+00:00",
+      "last_poll": "2026-02-01T22:57:55.142287+00:00",
       "name": "Seal Rock Fire"
     },
     "00758": {
-      "last_poll": "2026-02-01T21:59:00.118092+00:00",
+      "last_poll": "2026-02-01T22:58:51.955415+00:00",
       "name": "Jackson County Fire District 1"
     },
     "01129": {
-      "last_poll": "2026-02-01T21:59:31.597071+00:00",
+      "last_poll": "2026-02-01T22:58:26.114928+00:00",
       "name": "Hubbard Fire District"
     },
     "01212": {
-      "last_poll": "2026-02-01T21:59:05.135754+00:00",
+      "last_poll": "2026-02-01T22:56:42.531540+00:00",
       "name": "Dexter Rural Fire District"
     },
     "02322": {
-      "last_poll": "2026-02-01T22:00:09.841943+00:00",
+      "last_poll": "2026-02-01T22:56:06.286584+00:00",
       "name": "Willamette Valley Communications Center (PARENT PSAP)"
     },
     "01211": {
-      "last_poll": "2026-02-01T22:00:26.403445+00:00",
+      "last_poll": "2026-02-01T22:57:56.866624+00:00",
       "name": "Pleasant Hill Goshen Fire & Rescue"
     },
     "00753": {
-      "last_poll": "2026-02-01T22:00:39.724497+00:00",
+      "last_poll": "2026-02-01T22:58:19.213702+00:00",
       "name": "Halsey-Shedd R.F.P.D"
     },
     "01132": {
-      "last_poll": "2026-02-01T21:59:26.616876+00:00",
+      "last_poll": "2026-02-01T22:58:02.025435+00:00",
       "name": "Mt Angel Fire District"
     },
     "00451": {
-      "last_poll": "2026-02-01T22:00:24.762489+00:00",
+      "last_poll": "2026-02-01T22:56:04.549662+00:00",
       "name": "Sandy Fire District No. 72"
     },
     "00485": {
-      "last_poll": "2026-02-01T22:00:29.794018+00:00",
+      "last_poll": "2026-02-01T22:57:48.218428+00:00",
       "name": "Cornelius Fire Department"
     },
     "00532": {
-      "last_poll": "2026-02-01T22:01:33.111585+00:00",
+      "last_poll": "2026-02-01T22:56:09.744110+00:00",
       "name": "Gresham Fire and Emergency Services"
     },
     "01134": {
-      "last_poll": "2026-02-01T21:59:28.304777+00:00",
+      "last_poll": "2026-02-01T22:58:53.695637+00:00",
       "name": "Aurora Fire District"
     },
     "02213": {
-      "last_poll": "2026-02-01T21:58:50.153457+00:00",
+      "last_poll": "2026-02-01T22:58:43.341276+00:00",
       "name": "Philomath Fire & Rescue"
     },
     "02423": {
-      "last_poll": "2026-02-01T22:00:49.642839+00:00",
+      "last_poll": "2026-02-01T22:55:42.147260+00:00",
       "name": "Harrisburg Fire & Rescue - Linn Co"
     },
     "00852": {
-      "last_poll": "2026-02-01T22:01:34.778712+00:00",
+      "last_poll": "2026-02-01T22:56:13.192020+00:00",
       "name": "American Medical Response- Josephine County"
     },
     "00384": {
-      "last_poll": "2026-02-01T22:01:44.788008+00:00",
+      "last_poll": "2026-02-01T22:56:37.373801+00:00",
       "name": "Polk County Fire District No.1"
     },
     "02361": {
-      "last_poll": "2026-02-01T22:01:03.063608+00:00",
+      "last_poll": "2026-02-01T22:56:35.665281+00:00",
       "name": "Lyons Rural Fire Protection District"
     },
     "00839": {
-      "last_poll": "2026-02-01T21:59:48.251492+00:00",
+      "last_poll": "2026-02-01T22:57:39.518389+00:00",
       "name": "Josephine County 911 Agency (PSAP)"
     },
     "00850": {
-      "last_poll": "2026-02-01T22:00:54.667879+00:00",
+      "last_poll": "2026-02-01T22:56:32.212685+00:00",
       "name": "Wolf Creek Rural Fire Protection District"
     },
     "01130": {
-      "last_poll": "2026-02-01T22:01:24.796330+00:00",
+      "last_poll": "2026-02-01T22:58:20.977851+00:00",
       "name": "St Paul Fire District"
     },
     "02310": {
-      "last_poll": "2026-02-01T22:00:28.079621+00:00",
+      "last_poll": "2026-02-01T22:55:36.966219+00:00",
       "name": "Hoskins-Kings Valley RFPD"
     },
     "02587": {
-      "last_poll": "2026-02-01T21:59:06.810775+00:00",
+      "last_poll": "2026-02-01T22:56:54.574801+00:00",
       "name": "Portland Bureau of Emergency Communications"
     },
     "01222": {
-      "last_poll": "2026-02-01T22:00:44.621834+00:00",
+      "last_poll": "2026-02-01T22:56:52.854269+00:00",
       "name": "Harrisburg Fire & Rescue - Lane Co"
     },
     "01214": {
-      "last_poll": "2026-02-01T22:01:43.135029+00:00",
+      "last_poll": "2026-02-01T22:58:17.492226+00:00",
       "name": "Upper Mckenzie Fire Rescue"
     },
     "01218": {
-      "last_poll": "2026-02-01T22:01:06.326085+00:00",
+      "last_poll": "2026-02-01T22:57:32.594705+00:00",
       "name": "Junction City Fire Department"
     },
     "00387": {
-      "last_poll": "2026-02-01T22:01:01.425838+00:00",
+      "last_poll": "2026-02-01T22:58:27.823873+00:00",
       "name": "Dallas Fire & EMS"
     },
     "01136": {
-      "last_poll": "2026-02-01T21:58:26.872775+00:00",
+      "last_poll": "2026-02-01T22:57:20.525616+00:00",
       "name": "Drakes Crossing Fire District"
     },
     "01703": {
-      "last_poll": "2026-02-01T22:01:51.470024+00:00",
+      "last_poll": "2026-02-01T22:56:20.099851+00:00",
       "name": "Washington County Consolidated Communications (PARENT PSAP)"
     },
     "01213": {
-      "last_poll": "2026-02-01T21:59:15.009576+00:00",
+      "last_poll": "2026-02-01T22:58:10.600396+00:00",
       "name": "Lowell Fire District"
     },
     "01223": {
-      "last_poll": "2026-02-01T22:00:03.243607+00:00",
+      "last_poll": "2026-02-01T22:57:17.042162+00:00",
       "name": "Monroe Fire Department"
     },
     "02307": {
-      "last_poll": "2026-02-01T21:58:31.925901+00:00",
+      "last_poll": "2026-02-01T22:57:11.876052+00:00",
       "name": "Linn County Sheriff/Corvallis Regional CC (Parent PSAP)"
     },
     "01135": {
-      "last_poll": "2026-02-01T22:01:28.149835+00:00",
+      "last_poll": "2026-02-01T22:57:04.983054+00:00",
       "name": "Silverton Fire District"
     },
     "00731": {
-      "last_poll": "2026-02-01T21:59:19.974519+00:00",
+      "last_poll": "2026-02-01T22:56:18.385913+00:00",
       "name": "Siletz Valley Fire District"
     },
     "00729": {
-      "last_poll": "2026-02-01T22:00:41.361139+00:00",
+      "last_poll": "2026-02-01T22:57:36.057706+00:00",
       "name": "Jackson County Fire Dist. 3"
     },
     "01216": {
-      "last_poll": "2026-02-01T21:59:08.440872+00:00",
+      "last_poll": "2026-02-01T22:57:49.949165+00:00",
       "name": "Coburg Fire District"
     },
     "00993": {
-      "last_poll": "2026-02-01T22:00:18.088676+00:00",
+      "last_poll": "2026-02-01T22:58:34.725973+00:00",
       "name": "Eugene Springfield Fire"
     },
     "00415": {
-      "last_poll": "2026-02-01T21:58:48.475474+00:00",
+      "last_poll": "2026-02-01T22:56:56.291992+00:00",
       "name": "SW Polk Fire District"
     },
     "00742": {
-      "last_poll": "2026-02-01T22:01:41.448024+00:00",
+      "last_poll": "2026-02-01T22:55:59.364315+00:00",
       "name": "Sweet Home Fire District"
     },
     "00414": {
-      "last_poll": "2026-02-01T21:58:30.237974+00:00",
+      "last_poll": "2026-02-01T22:58:39.889757+00:00",
       "name": "Molalla Fire District # 73"
     },
     "00750": {
-      "last_poll": "2026-02-01T22:01:13.055343+00:00",
+      "last_poll": "2026-02-01T22:59:09.190704+00:00",
       "name": "Evans Valley Fire District #6"
     },
     "01208": {
-      "last_poll": "2026-02-01T22:00:31.480765+00:00",
+      "last_poll": "2026-02-01T22:57:22.240825+00:00",
       "name": "South Lane Fire & Rescue - Creswell"
     },
     "01188": {
-      "last_poll": "2026-02-01T22:00:56.349177+00:00",
+      "last_poll": "2026-02-01T22:56:08.016441+00:00",
       "name": "Estes Valley Fire Protection District"
     },
     "01215": {
-      "last_poll": "2026-02-01T21:59:23.306778+00:00",
+      "last_poll": "2026-02-01T22:58:48.508426+00:00",
       "name": "McKenzie Fire & Rescue"
     },
     "00321": {
-      "last_poll": "2026-02-01T21:59:18.352188+00:00",
+      "last_poll": "2026-02-01T22:56:59.782720+00:00",
       "name": "Salem Fire Department"
     },
     "00291": {
-      "last_poll": "2026-02-01T21:59:39.925892+00:00",
+      "last_poll": "2026-02-01T22:57:15.315583+00:00",
       "name": "Portland Fire & Rescue"
     }
   },
   "active_incidents": [
     {
-      "incident_id": "2406555138",
+      "incident_id": "2406595615",
       "agency_id": "00321",
       "agency_name": "Salem Fire Department",
       "call_type": "ME",
       "call_type_description": "Medical Emergency",
-      "address": "ASTORIA WAY NE, SALEM, OR",
-      "latitude": "44.9862081470",
-      "longitude": "-122.9926183950",
-      "received_time": "2026-02-01T21:44:07Z",
+      "address": "BARNES AVE SE, SALEM, OR",
+      "latitude": "44.8817974125",
+      "longitude": "-123.0313178428",
+      "received_time": "2026-02-01T22:43:36Z",
       "alarm_level": "",
       "units": [
         {
-          "unit_id": "E8",
-          "status_code": "OS",
-          "status": "On Scene",
-          "status_color": "red"
-        },
-        {
-          "unit_id": "M3",
-          "status_code": "OS",
-          "status": "On Scene",
-          "status_color": "red"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "E8, M3",
-      "is_active": true,
-      "fetched_at": "2026-02-01T21:59:18.351788+00:00"
-    },
-    {
-      "incident_id": "2406537853",
-      "agency_id": "00321",
-      "agency_name": "Salem Fire Department",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "WINTER ST NE, SALEM, OR",
-      "latitude": "44.9412874089",
-      "longitude": "-123.0312143317",
-      "received_time": "2026-02-01T21:16:56Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "M10",
-          "status_code": "TA",
-          "status": "Transport Arrived",
-          "status_color": "blue"
-        }
-      ],
-      "unit_count": 1,
-      "units_display": "M10",
-      "is_active": true,
-      "fetched_at": "2026-02-01T21:59:18.351804+00:00"
-    },
-    {
-      "incident_id": "2406560334",
-      "agency_id": "00485",
-      "agency_name": "Cornelius Fire Department",
-      "call_type": "PS",
-      "call_type_description": "Public Service",
-      "address": "1597 SW 173RD TER, BEAVERTON, OR",
-      "latitude": "45.5083330000",
-      "longitude": "-122.8556110000",
-      "received_time": "2026-02-01T21:52:10Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "E61",
+          "unit_id": "M9",
           "status_code": "ER",
           "status": "Enroute",
           "status_color": "green"
         }
       ],
       "unit_count": 1,
-      "units_display": "E61",
+      "units_display": "M9",
       "is_active": true,
-      "fetched_at": "2026-02-01T22:00:29.793559+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782274+00:00"
+    },
+    {
+      "incident_id": "2406593479",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "TC",
+      "call_type_description": "Traffic Collision",
+      "address": "FISHER RD NE & SUNNYVIEW RD NE, SALEM, OR",
+      "latitude": "44.9539093440",
+      "longitude": "-122.9887871430",
+      "received_time": "2026-02-01T22:41:15Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E3",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "M10",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E3, M10",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782292+00:00"
+    },
+    {
+      "incident_id": "2406592888",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "BROADWAY ST NE, SALEM, OR",
+      "latitude": "44.9699524071",
+      "longitude": "-123.0303008265",
+      "received_time": "2026-02-01T22:40:56Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E2",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "M5",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E2, M5",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782297+00:00"
+    },
+    {
+      "incident_id": "2406592046",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "PS",
+      "call_type_description": "Public Service",
+      "address": "4885 27TH AVE SE, SALEM, OR",
+      "latitude": "44.8834714102",
+      "longitude": "-123.0081068462",
+      "received_time": "2026-02-01T22:37:43Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E9",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "M38",
+          "status_code": "ER",
+          "status": "Enroute",
+          "status_color": "green"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E9, M38",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782301+00:00"
+    },
+    {
+      "incident_id": "2406585304",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "BARNES AVE SE, SALEM, OR",
+      "latitude": "44.8818154125",
+      "longitude": "-123.0310658429",
+      "received_time": "2026-02-01T22:28:55Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E7",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M4",
+          "status_code": "TR",
+          "status": "Transport",
+          "status_color": "yellow"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E7, M4",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782305+00:00"
+    },
+    {
+      "incident_id": "2406582982",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "LIBERTY RD S, SALEM, OR",
+      "latitude": "44.8877528600",
+      "longitude": "-123.0601714160",
+      "received_time": "2026-02-01T22:25:58Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E7",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M7",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E7, M7",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782308+00:00"
+    },
+    {
+      "incident_id": "2406568196",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "LANCASTER DR NE, SALEM, OR",
+      "latitude": "44.9570734033",
+      "longitude": "-122.9827403364",
+      "received_time": "2026-02-01T22:04:35Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "M3",
+          "status_code": "TR",
+          "status": "Transport",
+          "status_color": "yellow"
+        }
+      ],
+      "unit_count": 1,
+      "units_display": "M3",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782311+00:00"
+    },
+    {
+      "incident_id": "2406564290",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "FRONT ST SE, SALEM, OR",
+      "latitude": "44.9410984100",
+      "longitude": "-123.0430358299",
+      "received_time": "2026-02-01T21:57:36Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E1",
+          "status_code": "ER",
+          "status": "Enroute",
+          "status_color": "green"
+        },
+        {
+          "unit_id": "E4",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M1",
+          "status_code": "TA",
+          "status": "Transport Arrived",
+          "status_color": "blue"
+        },
+        {
+          "unit_id": "M4",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "RANGER1",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 5,
+      "units_display": "E1, E4, M1, M4, RANGER1",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:56:59.782317+00:00"
+    },
+    {
+      "incident_id": "2406601029",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "NE 100TH AVE, PORTLAND, OR",
+      "latitude": "45.5268019035",
+      "longitude": "-122.5609551468",
+      "received_time": "2026-02-01T22:53:28Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E19",
+          "status_code": "ER",
+          "status": "Enroute",
+          "status_color": "green"
+        },
+        {
+          "unit_id": "M324",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E19, M324",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:57:15.315112+00:00"
+    },
+    {
+      "incident_id": "2406592342",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "SW MURRAY SCHOLLS DR, BEAVERTON, OR",
+      "latitude": "45.4380560000",
+      "longitude": "-122.8269170000",
+      "received_time": "2026-02-01T22:41:22Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR121",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "E50",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "AMR121, E50",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:57:48.217931+00:00"
+    },
+    {
+      "incident_id": "2406575831",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "NW DAIRY CREEK RD, NORTH PLAINS, OR",
+      "latitude": "45.6438800000",
+      "longitude": "-123.0358710000",
+      "received_time": "2026-02-01T22:16:09Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR124",
+          "status_code": "OS",
+          "status": "On Scene",
+          "status_color": "red"
+        },
+        {
+          "unit_id": "BE16",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "BR17",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "C5",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "CAR53",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E015",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E17",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E64",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E421",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 9,
+      "units_display": "AMR124, BE16, BR17, C5, CAR53, E015, E17, E64, E421",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:57:48.217952+00:00"
+    },
+    {
+      "incident_id": "2406575135",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "SW ELIANDER LN & SW HALL BLVD, TIGARD, OR",
+      "latitude": "45.4558030000",
+      "longitude": "-122.7802830000",
+      "received_time": "2026-02-01T22:12:58Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR125",
+          "status_code": "TA",
+          "status": "Transport Arrived",
+          "status_color": "blue"
+        },
+        {
+          "unit_id": "AMR160",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E53",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 3,
+      "units_display": "AMR125, AMR160, E53",
+      "is_active": true,
+      "fetched_at": "2026-02-01T22:57:48.217958+00:00"
     },
     {
       "incident_id": "2406555937",
@@ -595,21 +931,21 @@
       "units": [
         {
           "unit_id": "AMR112",
-          "status_code": "ER",
-          "status": "Enroute",
-          "status_color": "green"
+          "status_code": "TA",
+          "status": "Transport Arrived",
+          "status_color": "blue"
         },
         {
           "unit_id": "E17",
-          "status_code": "ER",
-          "status": "Enroute",
-          "status_color": "green"
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
         }
       ],
       "unit_count": 2,
       "units_display": "AMR112, E17",
       "is_active": true,
-      "fetched_at": "2026-02-01T22:00:29.793572+00:00"
+      "fetched_at": "2026-02-01T22:57:48.217962+00:00"
     },
     {
       "incident_id": "2406551150",
@@ -625,9 +961,9 @@
       "units": [
         {
           "unit_id": "AMR123",
-          "status_code": "OS",
-          "status": "On Scene",
-          "status_color": "red"
+          "status_code": "TA",
+          "status": "Transport Arrived",
+          "status_color": "blue"
         },
         {
           "unit_id": "E05",
@@ -637,15 +973,15 @@
         },
         {
           "unit_id": "T05",
-          "status_code": "OS",
-          "status": "On Scene",
-          "status_color": "red"
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
         }
       ],
       "unit_count": 3,
       "units_display": "AMR123, E05, T05",
       "is_active": true,
-      "fetched_at": "2026-02-01T22:00:29.793579+00:00"
+      "fetched_at": "2026-02-01T22:57:48.217966+00:00"
     },
     {
       "incident_id": "2406540324",
@@ -661,9 +997,9 @@
       "units": [
         {
           "unit_id": "AMR151",
-          "status_code": "OS",
-          "status": "On Scene",
-          "status_color": "red"
+          "status_code": "TA",
+          "status": "Transport Arrived",
+          "status_color": "blue"
         },
         {
           "unit_id": "E67",
@@ -681,37 +1017,7 @@
       "unit_count": 3,
       "units_display": "AMR151, E67, T67",
       "is_active": true,
-      "fetched_at": "2026-02-01T22:00:29.793583+00:00"
-    },
-    {
-      "incident_id": "2406527182",
-      "agency_id": "00485",
-      "agency_name": "Cornelius Fire Department",
-      "call_type": "IFT",
-      "call_type_description": "IFT",
-      "address": "SW GRAHAMS FERRY RD, SHERWOOD, OR",
-      "latitude": "45.3426470000",
-      "longitude": "-122.7882670000",
-      "received_time": "2026-02-01T21:00:01Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR222",
-          "status_code": "TA",
-          "status": "Transport Arrived",
-          "status_color": "blue"
-        },
-        {
-          "unit_id": "AMRDS",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "AMR222, AMRDS",
-      "is_active": true,
-      "fetched_at": "2026-02-01T22:00:29.793588+00:00"
+      "fetched_at": "2026-02-01T22:57:48.217970+00:00"
     },
     {
       "incident_id": "2405992328",
@@ -963,8 +1269,732 @@
       "unit_count": 39,
       "units_display": "1ALMV, 2ALMV1, 2582, BR333, C6, C7, E19, E20, E21, E31, E33, E35, E52, E53, E57, E69, FDL, FI02585, HR51, M023, MED20, R035, RHB39, RHB350, T51, T56, TSKFOR, TVIMT1, TVINV, UT333, WT030, WT34A, WT34B, WT50A, WT50B, WT62A, WT62B, WT65A, WT65B",
       "is_active": true,
-      "fetched_at": "2026-02-01T22:00:29.793609+00:00"
+      "fetched_at": "2026-02-01T22:57:48.217996+00:00"
+    }
+  ],
+  "unit_status": [
+    {
+      "unit_id": "M9",
+      "agency_id": "00321",
+      "incident_id": "2406595615",
+      "status_code": "ER",
+      "status": "Enroute",
+      "status_color": "green",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
     },
+    {
+      "unit_id": "E3",
+      "agency_id": "00321",
+      "incident_id": "2406593479",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M10",
+      "agency_id": "00321",
+      "incident_id": "2406593479",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E2",
+      "agency_id": "00321",
+      "incident_id": "2406592888",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M5",
+      "agency_id": "00321",
+      "incident_id": "2406592888",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E9",
+      "agency_id": "00321",
+      "incident_id": "2406592046",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M38",
+      "agency_id": "00321",
+      "incident_id": "2406592046",
+      "status_code": "ER",
+      "status": "Enroute",
+      "status_color": "green",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E7",
+      "agency_id": "00321",
+      "incident_id": "2406585304",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M4",
+      "agency_id": "00321",
+      "incident_id": "2406585304",
+      "status_code": "TR",
+      "status": "Transport",
+      "status_color": "yellow",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E7",
+      "agency_id": "00321",
+      "incident_id": "2406582982",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M7",
+      "agency_id": "00321",
+      "incident_id": "2406582982",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M3",
+      "agency_id": "00321",
+      "incident_id": "2406568196",
+      "status_code": "TR",
+      "status": "Transport",
+      "status_color": "yellow",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E1",
+      "agency_id": "00321",
+      "incident_id": "2406564290",
+      "status_code": "ER",
+      "status": "Enroute",
+      "status_color": "green",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E4",
+      "agency_id": "00321",
+      "incident_id": "2406564290",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M1",
+      "agency_id": "00321",
+      "incident_id": "2406564290",
+      "status_code": "TA",
+      "status": "Transport Arrived",
+      "status_color": "blue",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M4",
+      "agency_id": "00321",
+      "incident_id": "2406564290",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "RANGER1",
+      "agency_id": "00321",
+      "incident_id": "2406564290",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E19",
+      "agency_id": "00291",
+      "incident_id": "2406601029",
+      "status_code": "ER",
+      "status": "Enroute",
+      "status_color": "green",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M324",
+      "agency_id": "00291",
+      "incident_id": "2406601029",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR121",
+      "agency_id": "00485",
+      "incident_id": "2406592342",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E50",
+      "agency_id": "00485",
+      "incident_id": "2406592342",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR124",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "BE16",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "BR17",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "C5",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "CAR53",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E015",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E17",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E64",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E421",
+      "agency_id": "00485",
+      "incident_id": "2406575831",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR125",
+      "agency_id": "00485",
+      "incident_id": "2406575135",
+      "status_code": "TA",
+      "status": "Transport Arrived",
+      "status_color": "blue",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR160",
+      "agency_id": "00485",
+      "incident_id": "2406575135",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E53",
+      "agency_id": "00485",
+      "incident_id": "2406575135",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR112",
+      "agency_id": "00485",
+      "incident_id": "2406555937",
+      "status_code": "TA",
+      "status": "Transport Arrived",
+      "status_color": "blue",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E17",
+      "agency_id": "00485",
+      "incident_id": "2406555937",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR123",
+      "agency_id": "00485",
+      "incident_id": "2406551150",
+      "status_code": "TA",
+      "status": "Transport Arrived",
+      "status_color": "blue",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E05",
+      "agency_id": "00485",
+      "incident_id": "2406551150",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "T05",
+      "agency_id": "00485",
+      "incident_id": "2406551150",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "AMR151",
+      "agency_id": "00485",
+      "incident_id": "2406540324",
+      "status_code": "TA",
+      "status": "Transport Arrived",
+      "status_color": "blue",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E67",
+      "agency_id": "00485",
+      "incident_id": "2406540324",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "T67",
+      "agency_id": "00485",
+      "incident_id": "2406540324",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "1ALMV",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "2ALMV1",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "2582",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "BR333",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "C6",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "C7",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E19",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E20",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E21",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E31",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E33",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E35",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E52",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E53",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E57",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "E69",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "FDL",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "FI02585",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "HR51",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "M023",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "MED20",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "R035",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "RHB39",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "RHB350",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "T51",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "T56",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "TSKFOR",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "TVIMT1",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "TVINV",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "UT333",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT030",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT34A",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT34B",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT50A",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT50B",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "OS",
+      "status": "On Scene",
+      "status_color": "red",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT62A",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT62B",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT65A",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    },
+    {
+      "unit_id": "WT65B",
+      "agency_id": "00485",
+      "incident_id": "2405992328",
+      "status_code": "AR",
+      "status": "Available",
+      "status_color": "gray",
+      "last_update": "2026-02-01T22:59:09.200561+00:00"
+    }
+  ],
+  "recent_incidents": [
     {
       "incident_id": "2406454121",
       "agency_id": "00234",
@@ -986,499 +2016,111 @@
       ],
       "unit_count": 1,
       "units_display": "SQ984",
-      "is_active": true,
-      "fetched_at": "2026-02-01T22:00:52.994415+00:00"
-    }
-  ],
-  "unit_status": [
-    {
-      "unit_id": "E8",
-      "agency_id": "00321",
-      "incident_id": "2406555138",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:55:49.039717+00:00"
     },
     {
-      "unit_id": "M3",
-      "agency_id": "00321",
-      "incident_id": "2406555138",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "M10",
-      "agency_id": "00321",
-      "incident_id": "2406537853",
-      "status_code": "TA",
-      "status": "Transport Arrived",
-      "status_color": "blue",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E61",
-      "agency_id": "00485",
-      "incident_id": "2406560334",
-      "status_code": "ER",
-      "status": "Enroute",
-      "status_color": "green",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "AMR112",
-      "agency_id": "00485",
-      "incident_id": "2406555937",
-      "status_code": "ER",
-      "status": "Enroute",
-      "status_color": "green",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E17",
-      "agency_id": "00485",
-      "incident_id": "2406555937",
-      "status_code": "ER",
-      "status": "Enroute",
-      "status_color": "green",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "AMR123",
-      "agency_id": "00485",
-      "incident_id": "2406551150",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E05",
-      "agency_id": "00485",
-      "incident_id": "2406551150",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "T05",
-      "agency_id": "00485",
-      "incident_id": "2406551150",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "AMR151",
-      "agency_id": "00485",
-      "incident_id": "2406540324",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E67",
-      "agency_id": "00485",
-      "incident_id": "2406540324",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "T67",
-      "agency_id": "00485",
-      "incident_id": "2406540324",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "AMR222",
-      "agency_id": "00485",
-      "incident_id": "2406527182",
-      "status_code": "TA",
-      "status": "Transport Arrived",
-      "status_color": "blue",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "AMRDS",
-      "agency_id": "00485",
-      "incident_id": "2406527182",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "1ALMV",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "2ALMV1",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "2582",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "BR333",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "C6",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "C7",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E19",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E20",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E21",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E31",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E33",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E35",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E52",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E53",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E57",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "E69",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "FDL",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "FI02585",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "HR51",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "M023",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "MED20",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "R035",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "RHB39",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "RHB350",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "T51",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "T56",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "TSKFOR",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "TVIMT1",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "TVINV",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "UT333",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT030",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT34A",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT34B",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT50A",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT50B",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "OS",
-      "status": "On Scene",
-      "status_color": "red",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT62A",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT62B",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT65A",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "WT65B",
-      "agency_id": "00485",
-      "incident_id": "2405992328",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    },
-    {
-      "unit_id": "SQ984",
+      "incident_id": "2406131213",
       "agency_id": "00234",
-      "incident_id": "2406454121",
-      "status_code": "AR",
-      "status": "Available",
-      "status_color": "gray",
-      "last_update": "2026-02-01T22:01:51.479915+00:00"
-    }
-  ],
-  "recent_incidents": [
+      "agency_name": "Sunriver Fire",
+      "call_type": "RF",
+      "call_type_description": "RF",
+      "address": "1232 ASTOR WAY, WOODBURN, OR",
+      "latitude": "45.1537683801",
+      "longitude": "-122.8636028183",
+      "received_time": "2026-02-01T05:44:18Z",
+      "alarm_level": "1",
+      "units": [
+        {
+          "unit_id": "E985",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 1,
+      "units_display": "E985",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:55:49.039735+00:00"
+    },
+    {
+      "incident_id": "2406021482",
+      "agency_id": "00234",
+      "agency_name": "Sunriver Fire",
+      "call_type": "LA",
+      "call_type_description": "Lift Assist",
+      "address": "S SCONCE RD, CLACKAMAS COUNTY, OR",
+      "latitude": "45.1586913662",
+      "longitude": "-122.7208898402",
+      "received_time": "2026-02-01T02:33:42Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E995",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "R983",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "SQ463",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "SQ994",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 4,
+      "units_display": "E995, R983, SQ463, SQ994",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:55:49.039743+00:00"
+    },
+    {
+      "incident_id": "2405908419",
+      "agency_id": "00234",
+      "agency_name": "Sunriver Fire",
+      "call_type": "SI",
+      "call_type_description": "SI",
+      "address": "34900 S HWY 213, OR",
+      "latitude": "45.1018133118",
+      "longitude": "-122.6481352136",
+      "received_time": "2026-01-31T23:50:18Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E985",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E995",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "STA990",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 3,
+      "units_display": "E985, E995, STA990",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:55:49.039748+00:00"
+    },
     {
       "incident_id": "2406089474",
       "agency_id": "00237",
@@ -1561,7 +2203,7 @@
       "unit_count": 11,
       "units_display": "JCFD, MONROE, PHILO, W210, W231, W244, W1710, W1731, W1741, W1761, W1765",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:58:51.821162+00:00"
+      "fetched_at": "2026-02-01T22:55:55.926873+00:00"
     },
     {
       "incident_id": "2405925663",
@@ -1603,7 +2245,7 @@
       "unit_count": 4,
       "units_display": "MONROE, W124, W1710, W1764",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:58:51.821177+00:00"
+      "fetched_at": "2026-02-01T22:55:55.926890+00:00"
     },
     {
       "incident_id": "2405892210",
@@ -1651,7 +2293,7 @@
       "unit_count": 5,
       "units_display": "MONROE, W124, W1710, W1763, W1764",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:58:51.821183+00:00"
+      "fetched_at": "2026-02-01T22:55:55.926897+00:00"
     },
     {
       "incident_id": "2405812492",
@@ -1705,7 +2347,229 @@
       "unit_count": 6,
       "units_display": "JCFD, MONROE, W124, W1710, W1733, W1764",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:58:51.821189+00:00"
+      "fetched_at": "2026-02-01T22:55:55.926903+00:00"
+    },
+    {
+      "incident_id": "2406258529",
+      "agency_id": "00740",
+      "agency_name": "Brownsville Rural Fire District",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "S 10TH AVE, CORNELIUS, OR",
+      "latitude": "45.5177100000",
+      "longitude": "-123.0598350000",
+      "received_time": "2026-02-01T11:22:36Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR149",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "AMRSAM3",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E08",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E081",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 4,
+      "units_display": "AMR149, AMRSAM3, E08, E081",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:47.700762+00:00"
+    },
+    {
+      "incident_id": "2406048254",
+      "agency_id": "00740",
+      "agency_name": "Brownsville Rural Fire District",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "S MAGNOLIA ST, CORNELIUS, OR",
+      "latitude": "45.5104530000",
+      "longitude": "-123.0629700000",
+      "received_time": "2026-02-01T03:13:41Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR102",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        },
+        {
+          "unit_id": "E08",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "AMR102, E08",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:47.700778+00:00"
+    },
+    {
+      "incident_id": "2406013148",
+      "agency_id": "00740",
+      "agency_name": "Brownsville Rural Fire District",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "N 26TH AVE, CORNELIUS, OR",
+      "latitude": "45.5215860000",
+      "longitude": "-123.0387380000",
+      "received_time": "2026-02-01T02:21:49Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR122",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "E08",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "AMR122, E08",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:47.700783+00:00"
+    },
+    {
+      "incident_id": "2406593077",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "COMMERCIAL ST SE, SALEM, OR",
+      "latitude": "44.9062234119",
+      "longitude": "-123.0409793367",
+      "received_time": "2026-02-01T22:40:26Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E4",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        },
+        {
+          "unit_id": "M38",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E4, M38",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:59.782324+00:00"
+    },
+    {
+      "incident_id": "2406566227",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "TC",
+      "call_type_description": "Traffic Collision",
+      "address": "UNKNOWN & BRENTWOOD DR SE, BATTLE CREEK RD SE, OR",
+      "latitude": "44.8646212500",
+      "longitude": "-123.0074028200",
+      "received_time": "2026-02-01T22:00:45Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E9",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        },
+        {
+          "unit_id": "E10",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M9",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        }
+      ],
+      "unit_count": 3,
+      "units_display": "E9, E10, M9",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:59.782340+00:00"
+    },
+    {
+      "incident_id": "2406555138",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "ASTORIA WAY NE, SALEM, OR",
+      "latitude": "44.9862081470",
+      "longitude": "-122.9926183950",
+      "received_time": "2026-02-01T21:44:07Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E8",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        },
+        {
+          "unit_id": "M3",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E8, M3",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:59.782344+00:00"
+    },
+    {
+      "incident_id": "2406537853",
+      "agency_id": "00321",
+      "agency_name": "Salem Fire Department",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "WINTER ST NE, SALEM, OR",
+      "latitude": "44.9412874089",
+      "longitude": "-123.0312143317",
+      "received_time": "2026-02-01T21:16:56Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "M10",
+          "status_code": "AC",
+          "status": "AC",
+          "status_color": "unknown"
+        }
+      ],
+      "unit_count": 1,
+      "units_display": "M10",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:56:59.782347+00:00"
     },
     {
       "incident_id": "2406535597",
@@ -1729,7 +2593,7 @@
       "unit_count": 1,
       "units_display": "E7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351809+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782351+00:00"
     },
     {
       "incident_id": "2406531103",
@@ -1753,7 +2617,7 @@
       "unit_count": 1,
       "units_display": "M9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351814+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782354+00:00"
     },
     {
       "incident_id": "2406528134",
@@ -1783,7 +2647,7 @@
       "unit_count": 2,
       "units_display": "E3, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351817+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782357+00:00"
     },
     {
       "incident_id": "2406516326",
@@ -1807,7 +2671,7 @@
       "unit_count": 1,
       "units_display": "M5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351821+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782360+00:00"
     },
     {
       "incident_id": "2406515086",
@@ -1837,7 +2701,7 @@
       "unit_count": 2,
       "units_display": "E3, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351824+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782364+00:00"
     },
     {
       "incident_id": "2406514419",
@@ -1867,7 +2731,7 @@
       "unit_count": 2,
       "units_display": "E10, M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351832+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782367+00:00"
     },
     {
       "incident_id": "2406503496",
@@ -1891,7 +2755,7 @@
       "unit_count": 1,
       "units_display": "E3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351835+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782370+00:00"
     },
     {
       "incident_id": "2406498124",
@@ -1921,7 +2785,7 @@
       "unit_count": 2,
       "units_display": "E6, M38",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351839+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782374+00:00"
     },
     {
       "incident_id": "2406497062",
@@ -1951,7 +2815,7 @@
       "unit_count": 2,
       "units_display": "E2, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351842+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782377+00:00"
     },
     {
       "incident_id": "2406495721",
@@ -1975,7 +2839,7 @@
       "unit_count": 1,
       "units_display": "E10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351845+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782380+00:00"
     },
     {
       "incident_id": "2406490394",
@@ -2005,7 +2869,7 @@
       "unit_count": 2,
       "units_display": "E4, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351849+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782384+00:00"
     },
     {
       "incident_id": "2406491203",
@@ -2035,7 +2899,7 @@
       "unit_count": 2,
       "units_display": "L4, M9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351855+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782387+00:00"
     },
     {
       "incident_id": "2406485253",
@@ -2065,7 +2929,7 @@
       "unit_count": 2,
       "units_display": "E1, E4",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351858+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782391+00:00"
     },
     {
       "incident_id": "2406482271",
@@ -2107,7 +2971,7 @@
       "unit_count": 4,
       "units_display": "E1, E2, M5, M9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351864+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782395+00:00"
     },
     {
       "incident_id": "2406482839",
@@ -2137,7 +3001,7 @@
       "unit_count": 2,
       "units_display": "M5, M9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351868+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782399+00:00"
     },
     {
       "incident_id": "2406482184",
@@ -2161,7 +3025,7 @@
       "unit_count": 1,
       "units_display": "M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351873+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782404+00:00"
     },
     {
       "incident_id": "2406478906",
@@ -2191,7 +3055,7 @@
       "unit_count": 2,
       "units_display": "E7, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351876+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782407+00:00"
     },
     {
       "incident_id": "2406476312",
@@ -2215,7 +3079,7 @@
       "unit_count": 1,
       "units_display": "E1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351880+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782410+00:00"
     },
     {
       "incident_id": "2406471939",
@@ -2239,7 +3103,7 @@
       "unit_count": 1,
       "units_display": "L2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351883+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782414+00:00"
     },
     {
       "incident_id": "2406473438",
@@ -2275,7 +3139,7 @@
       "unit_count": 3,
       "units_display": "E1, E5, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351886+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782418+00:00"
     },
     {
       "incident_id": "2406463511",
@@ -2299,7 +3163,7 @@
       "unit_count": 1,
       "units_display": "E2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351890+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782421+00:00"
     },
     {
       "incident_id": "2406461761",
@@ -2323,7 +3187,7 @@
       "unit_count": 1,
       "units_display": "M5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351893+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782426+00:00"
     },
     {
       "incident_id": "2406460987",
@@ -2347,7 +3211,7 @@
       "unit_count": 1,
       "units_display": "M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351896+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782429+00:00"
     },
     {
       "incident_id": "2406452302",
@@ -2371,7 +3235,7 @@
       "unit_count": 1,
       "units_display": "M4",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351899+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782432+00:00"
     },
     {
       "incident_id": "2406450388",
@@ -2395,7 +3259,7 @@
       "unit_count": 1,
       "units_display": "M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351902+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782435+00:00"
     },
     {
       "incident_id": "2406446961",
@@ -2419,7 +3283,7 @@
       "unit_count": 1,
       "units_display": "M9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351906+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782438+00:00"
     },
     {
       "incident_id": "2406443775",
@@ -2449,7 +3313,7 @@
       "unit_count": 2,
       "units_display": "E2, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351910+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782441+00:00"
     },
     {
       "incident_id": "2406412731",
@@ -2479,7 +3343,7 @@
       "unit_count": 2,
       "units_display": "M1, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351913+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782445+00:00"
     },
     {
       "incident_id": "2406403636",
@@ -2503,7 +3367,7 @@
       "unit_count": 1,
       "units_display": "E8",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351916+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782448+00:00"
     },
     {
       "incident_id": "2406402750",
@@ -2527,7 +3391,7 @@
       "unit_count": 1,
       "units_display": "M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351919+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782451+00:00"
     },
     {
       "incident_id": "2406401493",
@@ -2551,7 +3415,7 @@
       "unit_count": 1,
       "units_display": "M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351922+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782454+00:00"
     },
     {
       "incident_id": "2406392845",
@@ -2575,7 +3439,7 @@
       "unit_count": 1,
       "units_display": "M9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351925+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782457+00:00"
     },
     {
       "incident_id": "2406389378",
@@ -2617,7 +3481,7 @@
       "unit_count": 4,
       "units_display": "E2, L2, M1, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351929+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782477+00:00"
     },
     {
       "incident_id": "2406387604",
@@ -2641,7 +3505,7 @@
       "unit_count": 1,
       "units_display": "M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351932+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782480+00:00"
     },
     {
       "incident_id": "2406382110",
@@ -2671,7 +3535,7 @@
       "unit_count": 2,
       "units_display": "E4, M4",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351938+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782484+00:00"
     },
     {
       "incident_id": "2406375484",
@@ -2725,7 +3589,7 @@
       "unit_count": 6,
       "units_display": "BC2, E4, E7, E9, L4, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351947+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782492+00:00"
     },
     {
       "incident_id": "2406363269",
@@ -2749,7 +3613,7 @@
       "unit_count": 1,
       "units_display": "E1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351950+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782496+00:00"
     },
     {
       "incident_id": "2406355167",
@@ -2779,7 +3643,7 @@
       "unit_count": 2,
       "units_display": "E3, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351953+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782499+00:00"
     },
     {
       "incident_id": "2406352349",
@@ -2809,7 +3673,7 @@
       "unit_count": 2,
       "units_display": "E6, M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351956+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782503+00:00"
     },
     {
       "incident_id": "2406344093",
@@ -2839,7 +3703,7 @@
       "unit_count": 2,
       "units_display": "E11, M5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351959+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782506+00:00"
     },
     {
       "incident_id": "2406326964",
@@ -2887,7 +3751,7 @@
       "unit_count": 5,
       "units_display": "E1, E2, E10, L2, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351964+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782511+00:00"
     },
     {
       "incident_id": "2406318738",
@@ -2911,7 +3775,7 @@
       "unit_count": 1,
       "units_display": "M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351967+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782514+00:00"
     },
     {
       "incident_id": "2406316123",
@@ -2941,7 +3805,7 @@
       "unit_count": 2,
       "units_display": "E9, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351971+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782517+00:00"
     },
     {
       "incident_id": "2406311401",
@@ -2965,7 +3829,7 @@
       "unit_count": 1,
       "units_display": "E8",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351973+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782520+00:00"
     },
     {
       "incident_id": "2406307987",
@@ -2995,7 +3859,7 @@
       "unit_count": 2,
       "units_display": "E3, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351977+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782526+00:00"
     },
     {
       "incident_id": "2406305633",
@@ -3019,7 +3883,7 @@
       "unit_count": 1,
       "units_display": "M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351984+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782530+00:00"
     },
     {
       "incident_id": "2406297547",
@@ -3043,7 +3907,7 @@
       "unit_count": 1,
       "units_display": "M5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351986+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782533+00:00"
     },
     {
       "incident_id": "2406260005",
@@ -3073,7 +3937,7 @@
       "unit_count": 2,
       "units_display": "E5, M5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351990+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782536+00:00"
     },
     {
       "incident_id": "2406259199",
@@ -3097,7 +3961,7 @@
       "unit_count": 1,
       "units_display": "E11",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351992+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782539+00:00"
     },
     {
       "incident_id": "2406258839",
@@ -3121,7 +3985,7 @@
       "unit_count": 1,
       "units_display": "M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351995+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782542+00:00"
     },
     {
       "incident_id": "2406255958",
@@ -3151,7 +4015,7 @@
       "unit_count": 2,
       "units_display": "E2, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.351998+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782546+00:00"
     },
     {
       "incident_id": "2406251772",
@@ -3181,7 +4045,7 @@
       "unit_count": 2,
       "units_display": "E1, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352004+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782550+00:00"
     },
     {
       "incident_id": "2406239182",
@@ -3205,7 +4069,7 @@
       "unit_count": 1,
       "units_display": "E1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352007+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782555+00:00"
     },
     {
       "incident_id": "2406219578",
@@ -3229,7 +4093,7 @@
       "unit_count": 1,
       "units_display": "E5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352011+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782559+00:00"
     },
     {
       "incident_id": "2406215061",
@@ -3253,7 +4117,7 @@
       "unit_count": 1,
       "units_display": "M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352014+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782564+00:00"
     },
     {
       "incident_id": "2406211965",
@@ -3277,7 +4141,7 @@
       "unit_count": 1,
       "units_display": "E10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352019+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782571+00:00"
     },
     {
       "incident_id": "2406201668",
@@ -3301,7 +4165,7 @@
       "unit_count": 1,
       "units_display": "M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352022+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782574+00:00"
     },
     {
       "incident_id": "2406198015",
@@ -3337,7 +4201,7 @@
       "unit_count": 3,
       "units_display": "E7, E9, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352025+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782577+00:00"
     },
     {
       "incident_id": "2406192184",
@@ -3367,7 +4231,7 @@
       "unit_count": 2,
       "units_display": "E4, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352030+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782582+00:00"
     },
     {
       "incident_id": "2406191781",
@@ -3397,7 +4261,7 @@
       "unit_count": 2,
       "units_display": "E9, M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352034+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782586+00:00"
     },
     {
       "incident_id": "2406183878",
@@ -3433,7 +4297,7 @@
       "unit_count": 3,
       "units_display": "E9, M3, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352037+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782589+00:00"
     },
     {
       "incident_id": "2406181539",
@@ -3457,7 +4321,7 @@
       "unit_count": 1,
       "units_display": "E7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352040+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782592+00:00"
     },
     {
       "incident_id": "2406173723",
@@ -3487,7 +4351,7 @@
       "unit_count": 2,
       "units_display": "E7, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352043+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782596+00:00"
     },
     {
       "incident_id": "2406170692",
@@ -3517,7 +4381,7 @@
       "unit_count": 2,
       "units_display": "E1, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352047+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782599+00:00"
     },
     {
       "incident_id": "2406156962",
@@ -3547,7 +4411,7 @@
       "unit_count": 2,
       "units_display": "E3, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352051+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782602+00:00"
     },
     {
       "incident_id": "2406154011",
@@ -3571,7 +4435,7 @@
       "unit_count": 1,
       "units_display": "E1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352055+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782607+00:00"
     },
     {
       "incident_id": "2406144472",
@@ -3601,7 +4465,7 @@
       "unit_count": 2,
       "units_display": "PC2, PCALL",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352059+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782610+00:00"
     },
     {
       "incident_id": "2406144366",
@@ -3625,7 +4489,7 @@
       "unit_count": 1,
       "units_display": "M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352061+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782613+00:00"
     },
     {
       "incident_id": "2406142030",
@@ -3649,7 +4513,7 @@
       "unit_count": 1,
       "units_display": "E3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352065+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782616+00:00"
     },
     {
       "incident_id": "2406134222",
@@ -3673,7 +4537,7 @@
       "unit_count": 1,
       "units_display": "M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352068+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782619+00:00"
     },
     {
       "incident_id": "2406131669",
@@ -3697,7 +4561,7 @@
       "unit_count": 1,
       "units_display": "M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352070+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782622+00:00"
     },
     {
       "incident_id": "2406128547",
@@ -3721,7 +4585,7 @@
       "unit_count": 1,
       "units_display": "M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352073+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782626+00:00"
     },
     {
       "incident_id": "2406127400",
@@ -3751,7 +4615,7 @@
       "unit_count": 2,
       "units_display": "E7, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352080+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782629+00:00"
     },
     {
       "incident_id": "2406114703",
@@ -3811,7 +4675,7 @@
       "unit_count": 7,
       "units_display": "BC2, E1, E2, E3, E10, L2, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352086+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782637+00:00"
     },
     {
       "incident_id": "2406109486",
@@ -3835,7 +4699,7 @@
       "unit_count": 1,
       "units_display": "E2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352088+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782640+00:00"
     },
     {
       "incident_id": "2406107036",
@@ -3865,7 +4729,7 @@
       "unit_count": 2,
       "units_display": "E6, M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352093+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782645+00:00"
     },
     {
       "incident_id": "2406099870",
@@ -3889,7 +4753,7 @@
       "unit_count": 1,
       "units_display": "M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352096+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782648+00:00"
     },
     {
       "incident_id": "2406086909",
@@ -3913,7 +4777,7 @@
       "unit_count": 1,
       "units_display": "E8",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352104+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782650+00:00"
     },
     {
       "incident_id": "2406081465",
@@ -3943,7 +4807,7 @@
       "unit_count": 2,
       "units_display": "E7, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352107+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782654+00:00"
     },
     {
       "incident_id": "2406081681",
@@ -3967,7 +4831,7 @@
       "unit_count": 1,
       "units_display": "E3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352110+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782656+00:00"
     },
     {
       "incident_id": "2406067083",
@@ -3991,7 +4855,7 @@
       "unit_count": 1,
       "units_display": "E9",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352113+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782659+00:00"
     },
     {
       "incident_id": "2406062063",
@@ -4027,7 +4891,7 @@
       "unit_count": 3,
       "units_display": "E5, M7, M37",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352117+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782663+00:00"
     },
     {
       "incident_id": "2406058188",
@@ -4051,7 +4915,7 @@
       "unit_count": 1,
       "units_display": "M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352120+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782666+00:00"
     },
     {
       "incident_id": "2406045331",
@@ -4075,7 +4939,7 @@
       "unit_count": 1,
       "units_display": "M5",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352123+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782668+00:00"
     },
     {
       "incident_id": "2406042600",
@@ -4105,7 +4969,7 @@
       "unit_count": 2,
       "units_display": "E6, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352127+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782673+00:00"
     },
     {
       "incident_id": "2406036920",
@@ -4135,7 +4999,7 @@
       "unit_count": 2,
       "units_display": "E10, M10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352133+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782678+00:00"
     },
     {
       "incident_id": "2406033776",
@@ -4159,7 +5023,7 @@
       "unit_count": 1,
       "units_display": "M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352135+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782681+00:00"
     },
     {
       "incident_id": "2406032006",
@@ -4189,7 +5053,7 @@
       "unit_count": 2,
       "units_display": "E2, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352139+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782684+00:00"
     },
     {
       "incident_id": "2406031088",
@@ -4219,7 +5083,7 @@
       "unit_count": 2,
       "units_display": "E7, M7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352142+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782687+00:00"
     },
     {
       "incident_id": "2406020722",
@@ -4249,7 +5113,7 @@
       "unit_count": 2,
       "units_display": "E1, M1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352147+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782690+00:00"
     },
     {
       "incident_id": "2406021632",
@@ -4273,7 +5137,7 @@
       "unit_count": 1,
       "units_display": "BC2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352150+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782696+00:00"
     },
     {
       "incident_id": "2406000514",
@@ -4303,7 +5167,7 @@
       "unit_count": 2,
       "units_display": "E2, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352153+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782700+00:00"
     },
     {
       "incident_id": "2405997825",
@@ -4333,7 +5197,7 @@
       "unit_count": 2,
       "units_display": "E9, M2",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352156+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782703+00:00"
     },
     {
       "incident_id": "2405994742",
@@ -4369,7 +5233,7 @@
       "unit_count": 3,
       "units_display": "E4, M2, M4",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352160+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782707+00:00"
     },
     {
       "incident_id": "2405990126",
@@ -4399,7 +5263,7 @@
       "unit_count": 2,
       "units_display": "E3, M3",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352163+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782710+00:00"
     },
     {
       "incident_id": "2405988107",
@@ -4423,48 +5287,249 @@
       "unit_count": 1,
       "units_display": "E10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352171+00:00"
+      "fetched_at": "2026-02-01T22:56:59.782716+00:00"
     },
     {
-      "incident_id": "2405985990",
-      "agency_id": "00321",
-      "agency_name": "Salem Fire Department",
+      "incident_id": "2406596649",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "LA",
+      "call_type_description": "Lift Assist",
+      "address": "NE 99TH AVE, MAYWOOD PARK, OR",
+      "latitude": "45.5551201001",
+      "longitude": "-122.5605427629",
+      "received_time": "2026-02-01T22:46:52Z",
+      "alarm_level": "",
+      "units": [],
+      "unit_count": 0,
+      "units_display": "",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315128+00:00"
+    },
+    {
+      "incident_id": "2406586306",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
       "call_type": "ME",
       "call_type_description": "Medical Emergency",
-      "address": "CENTER ST NE, SALEM, OR",
-      "latitude": "44.9389474065",
-      "longitude": "-123.0048263363",
-      "received_time": "2026-02-01T01:39:08Z",
+      "address": "N DENVER AVE, PORTLAND, OR",
+      "latitude": "45.5828505575",
+      "longitude": "-122.6863189052",
+      "received_time": "2026-02-01T22:30:16Z",
       "alarm_level": "",
       "units": [
         {
-          "unit_id": "M3",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
+          "unit_id": "E26",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
         },
         {
-          "unit_id": "M10",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
+          "unit_id": "M314",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
         }
       ],
       "unit_count": 2,
-      "units_display": "M3, M10",
+      "units_display": "E26, M314",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352174+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315134+00:00"
     },
     {
-      "incident_id": "2405972625",
-      "agency_id": "00321",
-      "agency_name": "Salem Fire Department",
+      "incident_id": "2406584152",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
       "call_type": "ME",
       "call_type_description": "Medical Emergency",
-      "address": "MELINDA CT S, SALEM, OR",
-      "latitude": "44.8831564154",
-      "longitude": "-123.0631598375",
-      "received_time": "2026-02-01T01:19:17Z",
+      "address": "NE 37TH AVE, PORTLAND, OR",
+      "latitude": "45.5345277687",
+      "longitude": "-122.6258636543",
+      "received_time": "2026-02-01T22:26:09Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E28",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M302",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E28, M302",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315139+00:00"
+    },
+    {
+      "incident_id": "2406582699",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "WR",
+      "call_type_description": "Water Rescue",
+      "address": "COLUMBIA RIVER AT & I5 BRG, MULTNOMAH COUNTY, OR",
+      "latitude": "45.6170607610",
+      "longitude": "-122.6757533682",
+      "received_time": "2026-02-01T22:25:56Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "C2",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "FB17",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M308",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "RB17",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "T8",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "VA1",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "VABC1",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "VAT1",
+          "status_code": "AQ",
+          "status": "Available In Quarters",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 8,
+      "units_display": "C2, FB17, M308, RB17, T8, VA1, VABC1, VAT1",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315145+00:00"
+    },
+    {
+      "incident_id": "2406581037",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "FA",
+      "call_type_description": "Fire Alarm",
+      "address": "4780 SE MILWAUKIE AVE, STE 201, PORTLAND, OR",
+      "latitude": "45.4877426959",
+      "longitude": "-122.6502004928",
+      "received_time": "2026-02-01T22:22:57Z",
+      "alarm_level": "",
+      "units": [],
+      "unit_count": 0,
+      "units_display": "",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315148+00:00"
+    },
+    {
+      "incident_id": "2406578154",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "FA",
+      "call_type_description": "Fire Alarm",
+      "address": "3102 SE HOLGATE BLVD, PORTLAND, OR",
+      "latitude": "45.4900188438",
+      "longitude": "-122.6333453177",
+      "received_time": "2026-02-01T22:20:09Z",
+      "alarm_level": "",
+      "units": [],
+      "unit_count": 0,
+      "units_display": "",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315151+00:00"
+    },
+    {
+      "incident_id": "2406575810",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "NE 37TH AVE, PORTLAND, OR",
+      "latitude": "45.5345277687",
+      "longitude": "-122.6258636543",
+      "received_time": "2026-02-01T22:13:49Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "E28",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "M302",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "E28, M302",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315155+00:00"
+    },
+    {
+      "incident_id": "2406574595",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "SE BELMONT ST, PORTLAND, OR",
+      "latitude": "45.5163987967",
+      "longitude": "-122.6010589013",
+      "received_time": "2026-02-01T22:12:18Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "M316",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 1,
+      "units_display": "M316",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:15.315158+00:00"
+    },
+    {
+      "incident_id": "2406566931",
+      "agency_id": "00291",
+      "agency_name": "Portland Fire & Rescue",
+      "call_type": "ME",
+      "call_type_description": "Medical Emergency",
+      "address": "SE 134TH PL, PORTLAND, OR",
+      "latitude": "45.5014652574",
+      "longitude": "-122.5243798909",
+      "received_time": "2026-02-01T22:03:00Z",
       "alarm_level": "",
       "units": [
         {
@@ -4474,172 +5539,16 @@
           "status_color": "gray"
         },
         {
-          "unit_id": "M1",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "E7, M1",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352178+00:00"
-    },
-    {
-      "incident_id": "2405970819",
-      "agency_id": "00321",
-      "agency_name": "Salem Fire Department",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "WOODSIDE DR SE, SALEM, OR",
-      "latitude": "44.8698814129",
-      "longitude": "-123.0276728456",
-      "received_time": "2026-02-01T01:18:01Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "E9",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "M7",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "E9, M7",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352181+00:00"
-    },
-    {
-      "incident_id": "2405960043",
-      "agency_id": "00321",
-      "agency_name": "Salem Fire Department",
-      "call_type": "CMA",
-      "call_type_description": "CMA",
-      "address": "5220 SALAL ST SE, STE 312, SALEM, OR",
-      "latitude": "44.8799383820",
-      "longitude": "-123.0111173000",
-      "received_time": "2026-02-01T01:02:22Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "L4",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
-        }
-      ],
-      "unit_count": 1,
-      "units_display": "L4",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:18.352184+00:00"
-    },
-    {
-      "incident_id": "2406258529",
-      "agency_id": "00740",
-      "agency_name": "Brownsville Rural Fire District",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "S 10TH AVE, CORNELIUS, OR",
-      "latitude": "45.5177100000",
-      "longitude": "-123.0598350000",
-      "received_time": "2026-02-01T11:22:36Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR149",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "AMRSAM3",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "E08",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "E081",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 4,
-      "units_display": "AMR149, AMRSAM3, E08, E081",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:21.668913+00:00"
-    },
-    {
-      "incident_id": "2406048254",
-      "agency_id": "00740",
-      "agency_name": "Brownsville Rural Fire District",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "S MAGNOLIA ST, CORNELIUS, OR",
-      "latitude": "45.5104530000",
-      "longitude": "-123.0629700000",
-      "received_time": "2026-02-01T03:13:41Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR102",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
-        },
-        {
-          "unit_id": "E08",
+          "unit_id": "M320",
           "status_code": "AR",
           "status": "Available",
           "status_color": "gray"
         }
       ],
       "unit_count": 2,
-      "units_display": "AMR102, E08",
+      "units_display": "E7, M320",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:21.668925+00:00"
-    },
-    {
-      "incident_id": "2406013148",
-      "agency_id": "00740",
-      "agency_name": "Brownsville Rural Fire District",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "N 26TH AVE, CORNELIUS, OR",
-      "latitude": "45.5215860000",
-      "longitude": "-123.0387380000",
-      "received_time": "2026-02-01T02:21:49Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR122",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "E08",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "AMR122, E08",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:21.668930+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315162+00:00"
     },
     {
       "incident_id": "2406551440",
@@ -4656,7 +5565,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925385+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315165+00:00"
     },
     {
       "incident_id": "2406551194",
@@ -4680,7 +5589,7 @@
       "unit_count": 1,
       "units_display": "E14",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925399+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315168+00:00"
     },
     {
       "incident_id": "2406547271",
@@ -4710,7 +5619,7 @@
       "unit_count": 2,
       "units_display": "M330, T25",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925408+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315171+00:00"
     },
     {
       "incident_id": "2406545509",
@@ -4746,7 +5655,7 @@
       "unit_count": 3,
       "units_display": "E19, M1355, R19",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925417+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315175+00:00"
     },
     {
       "incident_id": "2406540026",
@@ -4776,7 +5685,7 @@
       "unit_count": 2,
       "units_display": "E1, M1323",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925421+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315178+00:00"
     },
     {
       "incident_id": "2406535353",
@@ -4806,7 +5715,7 @@
       "unit_count": 2,
       "units_display": "E26, M301",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925424+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315181+00:00"
     },
     {
       "incident_id": "2406521016",
@@ -4830,7 +5739,7 @@
       "unit_count": 1,
       "units_display": "E13",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925428+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315184+00:00"
     },
     {
       "incident_id": "2406520623",
@@ -4860,7 +5769,7 @@
       "unit_count": 2,
       "units_display": "E4, M1329",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925431+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315188+00:00"
     },
     {
       "incident_id": "2406511332",
@@ -4884,7 +5793,7 @@
       "unit_count": 1,
       "units_display": "E13",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925434+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315191+00:00"
     },
     {
       "incident_id": "2406507881",
@@ -4914,7 +5823,7 @@
       "unit_count": 2,
       "units_display": "E29, M1312",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925438+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315194+00:00"
     },
     {
       "incident_id": "2406505903",
@@ -4944,7 +5853,7 @@
       "unit_count": 2,
       "units_display": "M317, T25",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925441+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315198+00:00"
     },
     {
       "incident_id": "2406498253",
@@ -4974,7 +5883,7 @@
       "unit_count": 2,
       "units_display": "M308, T8",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925445+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315202+00:00"
     },
     {
       "incident_id": "2406495007",
@@ -4991,7 +5900,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925448+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315204+00:00"
     },
     {
       "incident_id": "2406485682",
@@ -5021,7 +5930,7 @@
       "unit_count": 2,
       "units_display": "E25, M302",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925452+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315207+00:00"
     },
     {
       "incident_id": "2406483156",
@@ -5038,7 +5947,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925458+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315210+00:00"
     },
     {
       "incident_id": "2406480437",
@@ -5055,7 +5964,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925461+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315212+00:00"
     },
     {
       "incident_id": "2406467793",
@@ -5085,7 +5994,7 @@
       "unit_count": 2,
       "units_display": "E1, M326",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925464+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315220+00:00"
     },
     {
       "incident_id": "2406461876",
@@ -5102,7 +6011,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925467+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315222+00:00"
     },
     {
       "incident_id": "2406446304",
@@ -5126,7 +6035,7 @@
       "unit_count": 1,
       "units_display": "E1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925470+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315225+00:00"
     },
     {
       "incident_id": "2406444060",
@@ -5156,7 +6065,7 @@
       "unit_count": 2,
       "units_display": "E1, T1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925474+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315229+00:00"
     },
     {
       "incident_id": "2406443435",
@@ -5192,7 +6101,7 @@
       "unit_count": 3,
       "units_display": "E13, M1322, T13",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925478+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315232+00:00"
     },
     {
       "incident_id": "2406438277",
@@ -5216,7 +6125,7 @@
       "unit_count": 1,
       "units_display": "T1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925481+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315235+00:00"
     },
     {
       "incident_id": "2406436273",
@@ -5246,7 +6155,7 @@
       "unit_count": 2,
       "units_display": "M320, T8",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925484+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315238+00:00"
     },
     {
       "incident_id": "2406435964",
@@ -5276,7 +6185,7 @@
       "unit_count": 2,
       "units_display": "M313, T25",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925488+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315241+00:00"
     },
     {
       "incident_id": "2406433065",
@@ -5306,7 +6215,7 @@
       "unit_count": 2,
       "units_display": "M317, T10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925493+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315245+00:00"
     },
     {
       "incident_id": "2406429813",
@@ -5330,7 +6239,7 @@
       "unit_count": 1,
       "units_display": "T1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925526+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315248+00:00"
     },
     {
       "incident_id": "2406430232",
@@ -5366,7 +6275,7 @@
       "unit_count": 3,
       "units_display": "M324, S1, T1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925533+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315256+00:00"
     },
     {
       "incident_id": "2406427268",
@@ -5390,7 +6299,7 @@
       "unit_count": 1,
       "units_display": "E1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925536+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315259+00:00"
     },
     {
       "incident_id": "2406425623",
@@ -5414,7 +6323,7 @@
       "unit_count": 1,
       "units_display": "E13",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925618+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315262+00:00"
     },
     {
       "incident_id": "2406424541",
@@ -5456,7 +6365,7 @@
       "unit_count": 4,
       "units_display": "E21, M309, M324, M326",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925624+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315268+00:00"
     },
     {
       "incident_id": "2406435278",
@@ -5486,7 +6395,7 @@
       "unit_count": 2,
       "units_display": "E20, M310",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925630+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315272+00:00"
     },
     {
       "incident_id": "2406408782",
@@ -5516,7 +6425,7 @@
       "unit_count": 2,
       "units_display": "E7, M302",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925635+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315275+00:00"
     },
     {
       "incident_id": "2406395191",
@@ -5546,7 +6455,7 @@
       "unit_count": 2,
       "units_display": "E31, M306",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925638+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315278+00:00"
     },
     {
       "incident_id": "2406392746",
@@ -5576,7 +6485,7 @@
       "unit_count": 2,
       "units_display": "M315, T25",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925642+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315282+00:00"
     },
     {
       "incident_id": "2406389026",
@@ -5606,7 +6515,7 @@
       "unit_count": 2,
       "units_display": "E13, M317",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925648+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315285+00:00"
     },
     {
       "incident_id": "2406387370",
@@ -5630,7 +6539,7 @@
       "unit_count": 1,
       "units_display": "M303",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925651+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315289+00:00"
     },
     {
       "incident_id": "2406387065",
@@ -5647,7 +6556,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925654+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315294+00:00"
     },
     {
       "incident_id": "2406380930",
@@ -5664,7 +6573,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925657+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315296+00:00"
     },
     {
       "incident_id": "2406374314",
@@ -5681,7 +6590,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925659+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315299+00:00"
     },
     {
       "incident_id": "2406373296",
@@ -5698,7 +6607,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925662+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315302+00:00"
     },
     {
       "incident_id": "2406370961",
@@ -5734,7 +6643,7 @@
       "unit_count": 3,
       "units_display": "E26, M320, M1360",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925666+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315305+00:00"
     },
     {
       "incident_id": "2406361579",
@@ -5764,7 +6673,7 @@
       "unit_count": 2,
       "units_display": "E5, M313",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925670+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315309+00:00"
     },
     {
       "incident_id": "2406357652",
@@ -5794,7 +6703,7 @@
       "unit_count": 2,
       "units_display": "E14, M317",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925673+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315312+00:00"
     },
     {
       "incident_id": "2406344663",
@@ -5811,7 +6720,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925676+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315314+00:00"
     },
     {
       "incident_id": "2406343575",
@@ -5828,7 +6737,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925680+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315319+00:00"
     },
     {
       "incident_id": "2406342295",
@@ -5912,7 +6821,7 @@
       "unit_count": 11,
       "units_display": "C1, C4, E1, E3, E13, E21, I376, S1, S12, T1, T13",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925690+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315327+00:00"
     },
     {
       "incident_id": "2406342213",
@@ -5948,7 +6857,7 @@
       "unit_count": 3,
       "units_display": "E4, M352, S1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925694+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315333+00:00"
     },
     {
       "incident_id": "2406338782",
@@ -5978,7 +6887,7 @@
       "unit_count": 2,
       "units_display": "E4, M1305",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925698+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315336+00:00"
     },
     {
       "incident_id": "2406334949",
@@ -5995,7 +6904,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925700+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315339+00:00"
     },
     {
       "incident_id": "2406329208",
@@ -6012,7 +6921,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925702+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315341+00:00"
     },
     {
       "incident_id": "2406324397",
@@ -6048,7 +6957,7 @@
       "unit_count": 3,
       "units_display": "E19, M350, R19",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925708+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315345+00:00"
     },
     {
       "incident_id": "2406320439",
@@ -6065,7 +6974,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925711+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315347+00:00"
     },
     {
       "incident_id": "2406318283",
@@ -6095,7 +7004,7 @@
       "unit_count": 2,
       "units_display": "M1312, S12",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925714+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315352+00:00"
     },
     {
       "incident_id": "2406316393",
@@ -6125,7 +7034,7 @@
       "unit_count": 2,
       "units_display": "M302, NOBOEC",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925717+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315355+00:00"
     },
     {
       "incident_id": "2406313070",
@@ -6155,7 +7064,7 @@
       "unit_count": 2,
       "units_display": "E20, M353",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925722+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315428+00:00"
     },
     {
       "incident_id": "2406314567",
@@ -6185,7 +7094,7 @@
       "unit_count": 2,
       "units_display": "E1, M310",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925726+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315432+00:00"
     },
     {
       "incident_id": "2406310586",
@@ -6215,7 +7124,7 @@
       "unit_count": 2,
       "units_display": "E19, M304",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925731+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315436+00:00"
     },
     {
       "incident_id": "2406294289",
@@ -6245,7 +7154,7 @@
       "unit_count": 2,
       "units_display": "E28, M353",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925734+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315439+00:00"
     },
     {
       "incident_id": "2406293422",
@@ -6275,7 +7184,7 @@
       "unit_count": 2,
       "units_display": "E19, M1348",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925737+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315443+00:00"
     },
     {
       "incident_id": "2406291739",
@@ -6305,7 +7214,7 @@
       "unit_count": 2,
       "units_display": "E24, M308",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925742+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315446+00:00"
     },
     {
       "incident_id": "2406288010",
@@ -6322,7 +7231,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925745+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315449+00:00"
     },
     {
       "incident_id": "2406286096",
@@ -6352,7 +7261,7 @@
       "unit_count": 2,
       "units_display": "M306, T7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925748+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315452+00:00"
     },
     {
       "incident_id": "2406279055",
@@ -6388,7 +7297,7 @@
       "unit_count": 3,
       "units_display": "M1344, M1347, S1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925752+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315456+00:00"
     },
     {
       "incident_id": "2406277980",
@@ -6405,7 +7314,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925755+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315458+00:00"
     },
     {
       "incident_id": "2406273474",
@@ -6441,7 +7350,7 @@
       "unit_count": 3,
       "units_display": "M302, M1343, T1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925760+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315479+00:00"
     },
     {
       "incident_id": "2406270374",
@@ -6471,7 +7380,7 @@
       "unit_count": 2,
       "units_display": "E26, M353",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925764+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315482+00:00"
     },
     {
       "incident_id": "2406269722",
@@ -6495,7 +7404,7 @@
       "unit_count": 1,
       "units_display": "B406",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925767+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315485+00:00"
     },
     {
       "incident_id": "2406273802",
@@ -6525,7 +7434,7 @@
       "unit_count": 2,
       "units_display": "M346, T22",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925770+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315489+00:00"
     },
     {
       "incident_id": "2406263749",
@@ -6542,7 +7451,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925775+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315492+00:00"
     },
     {
       "incident_id": "2406261770",
@@ -6572,7 +7481,7 @@
       "unit_count": 2,
       "units_display": "E1, M340",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925780+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315495+00:00"
     },
     {
       "incident_id": "2406259944",
@@ -6589,7 +7498,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925782+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315498+00:00"
     },
     {
       "incident_id": "2406258671",
@@ -6643,7 +7552,7 @@
       "unit_count": 6,
       "units_display": "C4, E11, E25, E29, R11, T25",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925787+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315503+00:00"
     },
     {
       "incident_id": "2406254151",
@@ -6673,7 +7582,7 @@
       "unit_count": 2,
       "units_display": "E19, M1345",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925791+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315508+00:00"
     },
     {
       "incident_id": "2406250329",
@@ -6690,7 +7599,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925793+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315510+00:00"
     },
     {
       "incident_id": "2406249655",
@@ -6707,7 +7616,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925797+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315513+00:00"
     },
     {
       "incident_id": "2406249462",
@@ -6737,7 +7646,7 @@
       "unit_count": 2,
       "units_display": "M1343, T1",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925801+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315516+00:00"
     },
     {
       "incident_id": "2406246135",
@@ -6773,7 +7682,7 @@
       "unit_count": 3,
       "units_display": "E26, M353, T8",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925804+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315520+00:00"
     },
     {
       "incident_id": "2406242525",
@@ -6815,7 +7724,7 @@
       "unit_count": 4,
       "units_display": "E7, E30, M1339, T7",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925810+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315523+00:00"
     },
     {
       "incident_id": "2406243008",
@@ -6832,7 +7741,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925813+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315526+00:00"
     },
     {
       "incident_id": "2406242027",
@@ -6862,7 +7771,7 @@
       "unit_count": 2,
       "units_display": "E26, M340",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925816+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315529+00:00"
     },
     {
       "incident_id": "2406239161",
@@ -6879,7 +7788,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925819+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315531+00:00"
     },
     {
       "incident_id": "2406240539",
@@ -6921,7 +7830,7 @@
       "unit_count": 4,
       "units_display": "B408, E7, E19, M1345",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925823+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315537+00:00"
     },
     {
       "incident_id": "2406241786",
@@ -6951,7 +7860,7 @@
       "unit_count": 2,
       "units_display": "E7, M1344",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925828+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315540+00:00"
     },
     {
       "incident_id": "2406239393",
@@ -6981,7 +7890,7 @@
       "unit_count": 2,
       "units_display": "E31, M1339",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925831+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315543+00:00"
     },
     {
       "incident_id": "2406232056",
@@ -7011,7 +7920,7 @@
       "unit_count": 2,
       "units_display": "E23, M1347",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925836+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315546+00:00"
     },
     {
       "incident_id": "2406229800",
@@ -7035,7 +7944,7 @@
       "unit_count": 1,
       "units_display": "INFOF",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925838+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315549+00:00"
     },
     {
       "incident_id": "2406229181",
@@ -7052,7 +7961,7 @@
       "unit_count": 0,
       "units_display": "",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925841+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315552+00:00"
     },
     {
       "incident_id": "2406227546",
@@ -7082,7 +7991,7 @@
       "unit_count": 2,
       "units_display": "E23, M338",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925844+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315557+00:00"
     },
     {
       "incident_id": "2406225523",
@@ -7106,7 +8015,7 @@
       "unit_count": 1,
       "units_display": "INFOF",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925847+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315562+00:00"
     },
     {
       "incident_id": "2406219252",
@@ -7136,7 +8045,7 @@
       "unit_count": 2,
       "units_display": "M1337, T10",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925850+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315565+00:00"
     },
     {
       "incident_id": "2406218891",
@@ -7166,219 +8075,85 @@
       "unit_count": 2,
       "units_display": "E5, M350",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925853+00:00"
+      "fetched_at": "2026-02-01T22:57:15.315568+00:00"
     },
     {
-      "incident_id": "2406215342",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "SE POWELL BLVD, PORTLAND, OR",
-      "latitude": "45.4968581058",
-      "longitude": "-122.6341210807",
-      "received_time": "2026-02-01T09:08:09Z",
+      "incident_id": "2406581913",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
+      "call_type": "TC",
+      "call_type_description": "Traffic Collision",
+      "address": "SW SCHOLLS FERRY RD, TIGARD, OR",
+      "latitude": "45.4427280000",
+      "longitude": "-122.8110530000",
+      "received_time": "2026-02-01T22:25:13Z",
       "alarm_level": "",
       "units": [
         {
-          "unit_id": "E23",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "M1362",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "E23, M1362",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925856+00:00"
-    },
-    {
-      "incident_id": "2406213882",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "FA",
-      "call_type_description": "Fire Alarm",
-      "address": "335 NW 19TH AVE, PORTLAND, OR",
-      "latitude": "45.5253099763",
-      "longitude": "-122.6905237244",
-      "received_time": "2026-02-01T09:04:45Z",
-      "alarm_level": "",
-      "units": [],
-      "unit_count": 0,
-      "units_display": "",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925859+00:00"
-    },
-    {
-      "incident_id": "2406206376",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "SW MONTGOMERY ST, PORTLAND, OR",
-      "latitude": "45.5140972413",
-      "longitude": "-122.6914921479",
-      "received_time": "2026-02-01T08:40:49Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "M331",
+          "unit_id": "E50",
           "status_code": "AR",
           "status": "Available",
           "status_color": "gray"
         }
       ],
       "unit_count": 1,
-      "units_display": "M331",
+      "units_display": "E50",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925862+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218000+00:00"
     },
     {
-      "incident_id": "2406197010",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "OF",
-      "call_type_description": "Outside Fire",
-      "address": "1613 NW KEARNEY ST, PORTLAND, OR",
-      "latitude": "45.5294895540",
-      "longitude": "-122.6878822266",
-      "received_time": "2026-02-01T08:20:20Z",
-      "alarm_level": "1",
-      "units": [],
-      "unit_count": 0,
-      "units_display": "",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925866+00:00"
-    },
-    {
-      "incident_id": "2406196855",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
+      "incident_id": "2406570304",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
       "call_type": "ME",
       "call_type_description": "Medical Emergency",
-      "address": "N LOMBARD ST, PORTLAND, OR",
-      "latitude": "45.6018211636",
-      "longitude": "-122.7634370163",
-      "received_time": "2026-02-01T08:19:12Z",
+      "address": "E FULTON ST, NEWBERG, OR",
+      "latitude": "45.3060490000",
+      "longitude": "-122.9607810000",
+      "received_time": "2026-02-01T22:08:01Z",
       "alarm_level": "",
       "units": [
         {
-          "unit_id": "M1333",
+          "unit_id": "E20",
           "status_code": "AR",
           "status": "Available",
           "status_color": "gray"
         },
         {
-          "unit_id": "T22",
+          "unit_id": "M023",
           "status_code": "AR",
           "status": "Available",
           "status_color": "gray"
         }
       ],
       "unit_count": 2,
-      "units_display": "M1333, T22",
+      "units_display": "E20, M023",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925870+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218005+00:00"
     },
     {
-      "incident_id": "2406191025",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "OF",
-      "call_type_description": "Outside Fire",
-      "address": "3902 SE HAWTHORNE BLVD, PORTLAND, OR",
-      "latitude": "45.5117835562",
-      "longitude": "-122.6224248832",
-      "received_time": "2026-02-01T08:05:23Z",
-      "alarm_level": "1",
-      "units": [],
-      "unit_count": 0,
-      "units_display": "",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925879+00:00"
-    },
-    {
-      "incident_id": "2406189249",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "SE POWELL BLVD, PORTLAND, OR",
-      "latitude": "45.4977261448",
-      "longitude": "-122.6359834344",
-      "received_time": "2026-02-01T08:00:51Z",
+      "incident_id": "2406560334",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
+      "call_type": "PS",
+      "call_type_description": "Public Service",
+      "address": "1597 SW 173RD TER, BEAVERTON, OR",
+      "latitude": "45.5083330000",
+      "longitude": "-122.8556110000",
+      "received_time": "2026-02-01T21:52:10Z",
       "alarm_level": "",
       "units": [
         {
-          "unit_id": "E23",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "M353",
+          "unit_id": "E61",
           "status_code": "AR",
           "status": "Available",
           "status_color": "gray"
         }
       ],
-      "unit_count": 2,
-      "units_display": "E23, M353",
+      "unit_count": 1,
+      "units_display": "E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925882+00:00"
-    },
-    {
-      "incident_id": "2406185863",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "SI",
-      "call_type_description": "SI",
-      "address": "SE MCLOUGHLIN BLVD & SE TENINO ST, PORTLAND, OR",
-      "latitude": "45.4642742367",
-      "longitude": "-122.6382469674",
-      "received_time": "2026-02-01T07:53:25Z",
-      "alarm_level": "",
-      "units": [],
-      "unit_count": 0,
-      "units_display": "",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925885+00:00"
-    },
-    {
-      "incident_id": "2406185356",
-      "agency_id": "00291",
-      "agency_name": "Portland Fire & Rescue",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "N EMERSON DR, PORTLAND, OR",
-      "latitude": "45.5608337143",
-      "longitude": "-122.6960589411",
-      "received_time": "2026-02-01T07:51:11Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "E24",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "M1342",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "E24, M1342",
-      "is_active": false,
-      "fetched_at": "2026-02-01T21:59:39.925888+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218010+00:00"
     },
     {
       "incident_id": "2406544494",
@@ -7408,7 +8183,7 @@
       "unit_count": 2,
       "units_display": "AMR153, E66",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793615+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218014+00:00"
     },
     {
       "incident_id": "2406528973",
@@ -7438,7 +8213,7 @@
       "unit_count": 2,
       "units_display": "AMR115, E60",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793619+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218017+00:00"
     },
     {
       "incident_id": "2406527624",
@@ -7474,7 +8249,37 @@
       "unit_count": 3,
       "units_display": "AMR103, HR51, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793623+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218021+00:00"
+    },
+    {
+      "incident_id": "2406527182",
+      "agency_id": "00485",
+      "agency_name": "Cornelius Fire Department",
+      "call_type": "IFT",
+      "call_type_description": "IFT",
+      "address": "SW GRAHAMS FERRY RD, SHERWOOD, OR",
+      "latitude": "45.3426470000",
+      "longitude": "-122.7882670000",
+      "received_time": "2026-02-01T21:00:01Z",
+      "alarm_level": "",
+      "units": [
+        {
+          "unit_id": "AMR222",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        },
+        {
+          "unit_id": "AMRDS",
+          "status_code": "AR",
+          "status": "Available",
+          "status_color": "gray"
+        }
+      ],
+      "unit_count": 2,
+      "units_display": "AMR222, AMRDS",
+      "is_active": false,
+      "fetched_at": "2026-02-01T22:57:48.218025+00:00"
     },
     {
       "incident_id": "2406524891",
@@ -7504,7 +8309,7 @@
       "unit_count": 2,
       "units_display": "AMR122, E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793627+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218029+00:00"
     },
     {
       "incident_id": "2406521167",
@@ -7534,7 +8339,7 @@
       "unit_count": 2,
       "units_display": "AMR118, E39",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793632+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218032+00:00"
     },
     {
       "incident_id": "2406510207",
@@ -7564,7 +8369,7 @@
       "unit_count": 2,
       "units_display": "AMR124, E35",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793636+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218035+00:00"
     },
     {
       "incident_id": "2406509513",
@@ -7600,7 +8405,7 @@
       "unit_count": 3,
       "units_display": "AMR118, AMR119, E60",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793640+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218041+00:00"
     },
     {
       "incident_id": "2406507978",
@@ -7630,7 +8435,7 @@
       "unit_count": 2,
       "units_display": "AMR120, R035",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793644+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218045+00:00"
     },
     {
       "incident_id": "2406496560",
@@ -7660,7 +8465,7 @@
       "unit_count": 2,
       "units_display": "AMR123, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793647+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218050+00:00"
     },
     {
       "incident_id": "2406483667",
@@ -7684,7 +8489,7 @@
       "unit_count": 1,
       "units_display": "AMR103",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793651+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218053+00:00"
     },
     {
       "incident_id": "2406481514",
@@ -7726,7 +8531,7 @@
       "unit_count": 4,
       "units_display": "AMR127, AMR128, AMR151, E62",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793655+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218058+00:00"
     },
     {
       "incident_id": "2406478880",
@@ -7762,7 +8567,7 @@
       "unit_count": 3,
       "units_display": "AMR122, E61, E64",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793659+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218062+00:00"
     },
     {
       "incident_id": "2406467492",
@@ -7798,7 +8603,7 @@
       "unit_count": 3,
       "units_display": "AMR220, AMRDS, E52",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793664+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218065+00:00"
     },
     {
       "incident_id": "2406464701",
@@ -7822,7 +8627,7 @@
       "unit_count": 1,
       "units_display": "AMR113",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793667+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218068+00:00"
     },
     {
       "incident_id": "2406463074",
@@ -7858,7 +8663,7 @@
       "unit_count": 3,
       "units_display": "AMR226, AMRDS, T55",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793671+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218072+00:00"
     },
     {
       "incident_id": "2406464077",
@@ -7894,7 +8699,7 @@
       "unit_count": 3,
       "units_display": "AMR110, AMR160, E34",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793675+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218075+00:00"
     },
     {
       "incident_id": "2406461547",
@@ -7936,7 +8741,7 @@
       "unit_count": 4,
       "units_display": "E21, M023, MED21, T21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793681+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218080+00:00"
     },
     {
       "incident_id": "2406453434",
@@ -7966,7 +8771,7 @@
       "unit_count": 2,
       "units_display": "AMR119, E62",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793685+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218083+00:00"
     },
     {
       "incident_id": "2406453883",
@@ -7990,7 +8795,7 @@
       "unit_count": 1,
       "units_display": "AMR125",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793688+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218088+00:00"
     },
     {
       "incident_id": "2406445063",
@@ -8032,7 +8837,7 @@
       "unit_count": 4,
       "units_display": "AMR113, AMR124, E35, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793693+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218092+00:00"
     },
     {
       "incident_id": "2406443190",
@@ -8062,7 +8867,7 @@
       "unit_count": 2,
       "units_display": "AMR115, E67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793696+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218097+00:00"
     },
     {
       "incident_id": "2406436538",
@@ -8092,7 +8897,7 @@
       "unit_count": 2,
       "units_display": "AMR126, E35",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793699+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218108+00:00"
     },
     {
       "incident_id": "2406435159",
@@ -8122,7 +8927,7 @@
       "unit_count": 2,
       "units_display": "AMR122, E64",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793703+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218116+00:00"
     },
     {
       "incident_id": "2406430437",
@@ -8152,7 +8957,7 @@
       "unit_count": 2,
       "units_display": "MED20, MED21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793706+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218122+00:00"
     },
     {
       "incident_id": "2406426827",
@@ -8188,7 +8993,7 @@
       "unit_count": 3,
       "units_display": "AMR153, HR51, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793710+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218129+00:00"
     },
     {
       "incident_id": "2406416860",
@@ -8224,7 +9029,7 @@
       "unit_count": 3,
       "units_display": "AMR113, AMR160, E34",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793716+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218136+00:00"
     },
     {
       "incident_id": "2406409790",
@@ -8260,7 +9065,7 @@
       "unit_count": 3,
       "units_display": "AMR125, E67, T67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793720+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218143+00:00"
     },
     {
       "incident_id": "2406408948",
@@ -8302,7 +9107,7 @@
       "unit_count": 4,
       "units_display": "AMR123, AMR125, AMR151, E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793724+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218148+00:00"
     },
     {
       "incident_id": "2406405976",
@@ -8326,7 +9131,7 @@
       "unit_count": 1,
       "units_display": "E33",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793727+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218155+00:00"
     },
     {
       "incident_id": "2406403901",
@@ -8362,7 +9167,7 @@
       "unit_count": 3,
       "units_display": "AMR124, E61, E64",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793731+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218158+00:00"
     },
     {
       "incident_id": "2406400353",
@@ -8392,7 +9197,7 @@
       "unit_count": 2,
       "units_display": "AMR125, E67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793737+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218162+00:00"
     },
     {
       "incident_id": "2406402038",
@@ -8416,7 +9221,7 @@
       "unit_count": 1,
       "units_display": "T68",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793740+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218165+00:00"
     },
     {
       "incident_id": "2406400665",
@@ -8446,7 +9251,7 @@
       "unit_count": 2,
       "units_display": "AMR121, E53",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793745+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218168+00:00"
     },
     {
       "incident_id": "2406399791",
@@ -8476,7 +9281,7 @@
       "unit_count": 2,
       "units_display": "E20, M023",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793749+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218173+00:00"
     },
     {
       "incident_id": "2406394096",
@@ -8506,7 +9311,7 @@
       "unit_count": 2,
       "units_display": "AMR151, E64",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793752+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218177+00:00"
     },
     {
       "incident_id": "2406388742",
@@ -8542,7 +9347,7 @@
       "unit_count": 3,
       "units_display": "E20, M023, MED20",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793756+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218188+00:00"
     },
     {
       "incident_id": "2406385354",
@@ -8572,7 +9377,7 @@
       "unit_count": 2,
       "units_display": "AMR110, E53",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793759+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218194+00:00"
     },
     {
       "incident_id": "2406384001",
@@ -8596,7 +9401,7 @@
       "unit_count": 1,
       "units_display": "MED21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793764+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218199+00:00"
     },
     {
       "incident_id": "2406382007",
@@ -8638,7 +9443,7 @@
       "unit_count": 4,
       "units_display": "AMR123, CAR53, E66, E69",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793768+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218208+00:00"
     },
     {
       "incident_id": "2406378594",
@@ -8668,7 +9473,7 @@
       "unit_count": 2,
       "units_display": "AMR119, E64",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793772+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218213+00:00"
     },
     {
       "incident_id": "2406376570",
@@ -8698,7 +9503,7 @@
       "unit_count": 2,
       "units_display": "AMR120, E67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793775+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218217+00:00"
     },
     {
       "incident_id": "2406367432",
@@ -8728,7 +9533,7 @@
       "unit_count": 2,
       "units_display": "AMR115, E53",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793779+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218220+00:00"
     },
     {
       "incident_id": "2406359468",
@@ -8758,7 +9563,7 @@
       "unit_count": 2,
       "units_display": "AMR121, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793784+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218223+00:00"
     },
     {
       "incident_id": "2406356140",
@@ -8788,7 +9593,7 @@
       "unit_count": 2,
       "units_display": "AMR115, E53",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793788+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218226+00:00"
     },
     {
       "incident_id": "2406351497",
@@ -8824,7 +9629,7 @@
       "unit_count": 3,
       "units_display": "AMR226, AMRDS, E59",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793793+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218230+00:00"
     },
     {
       "incident_id": "2406340841",
@@ -8848,7 +9653,7 @@
       "unit_count": 1,
       "units_display": "E66",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793796+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218233+00:00"
     },
     {
       "incident_id": "2406316190",
@@ -8872,7 +9677,7 @@
       "unit_count": 1,
       "units_display": "E59",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793799+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218236+00:00"
     },
     {
       "incident_id": "2406311459",
@@ -8902,7 +9707,7 @@
       "unit_count": 2,
       "units_display": "AMR137, E62",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793802+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218241+00:00"
     },
     {
       "incident_id": "2406311261",
@@ -8932,7 +9737,7 @@
       "unit_count": 2,
       "units_display": "AMR116, E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793805+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218246+00:00"
     },
     {
       "incident_id": "2406309635",
@@ -8962,7 +9767,7 @@
       "unit_count": 2,
       "units_display": "AMR115, E66",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793811+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218249+00:00"
     },
     {
       "incident_id": "2406300959",
@@ -8992,7 +9797,7 @@
       "unit_count": 2,
       "units_display": "AMR160, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793814+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218252+00:00"
     },
     {
       "incident_id": "2406295035",
@@ -9022,7 +9827,7 @@
       "unit_count": 2,
       "units_display": "AMR139, HR51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793817+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218256+00:00"
     },
     {
       "incident_id": "2406294826",
@@ -9052,7 +9857,7 @@
       "unit_count": 2,
       "units_display": "AMR112, E66",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793822+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218259+00:00"
     },
     {
       "incident_id": "2406288298",
@@ -9082,7 +9887,7 @@
       "unit_count": 2,
       "units_display": "AMR110, E60",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793827+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218262+00:00"
     },
     {
       "incident_id": "2406277077",
@@ -9106,7 +9911,7 @@
       "unit_count": 1,
       "units_display": "E62",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793830+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218265+00:00"
     },
     {
       "incident_id": "2406272596",
@@ -9136,7 +9941,7 @@
       "unit_count": 2,
       "units_display": "AMR139, E35",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793833+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218268+00:00"
     },
     {
       "incident_id": "2406267478",
@@ -9208,7 +10013,7 @@
       "unit_count": 9,
       "units_display": "2582, AMR137, C5, E66, E69, T67, T68, TSKFR1, TVINV",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793840+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218274+00:00"
     },
     {
       "incident_id": "2406262177",
@@ -9244,7 +10049,7 @@
       "unit_count": 3,
       "units_display": "AMR134, E61, E65",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793845+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218278+00:00"
     },
     {
       "incident_id": "2406256582",
@@ -9280,7 +10085,7 @@
       "unit_count": 3,
       "units_display": "AMR133, HR51, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793849+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218283+00:00"
     },
     {
       "incident_id": "2406247324",
@@ -9310,7 +10115,7 @@
       "unit_count": 2,
       "units_display": "AMR137, HR51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793854+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218292+00:00"
     },
     {
       "incident_id": "2406247081",
@@ -9340,7 +10145,7 @@
       "unit_count": 2,
       "units_display": "AMR139, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793857+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218297+00:00"
     },
     {
       "incident_id": "2406234851",
@@ -9376,7 +10181,7 @@
       "unit_count": 3,
       "units_display": "AMR135, E57, E59",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793861+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218301+00:00"
     },
     {
       "incident_id": "2406225555",
@@ -9406,7 +10211,7 @@
       "unit_count": 2,
       "units_display": "AMR156, E60",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793866+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218306+00:00"
     },
     {
       "incident_id": "2406221122",
@@ -9436,7 +10241,7 @@
       "unit_count": 2,
       "units_display": "AMR155, E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793870+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218309+00:00"
     },
     {
       "incident_id": "2406215838",
@@ -9472,7 +10277,7 @@
       "unit_count": 3,
       "units_display": "AMR137, E67, T67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793873+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218312+00:00"
     },
     {
       "incident_id": "2406208530",
@@ -9502,7 +10307,7 @@
       "unit_count": 2,
       "units_display": "AMR129, T56",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793877+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218315+00:00"
     },
     {
       "incident_id": "2406206624",
@@ -9532,7 +10337,7 @@
       "unit_count": 2,
       "units_display": "AMR137, E34",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793880+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218318+00:00"
     },
     {
       "incident_id": "2406204125",
@@ -9568,7 +10373,7 @@
       "unit_count": 3,
       "units_display": "E20, MED20, MM12",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793885+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218322+00:00"
     },
     {
       "incident_id": "2406198598",
@@ -9598,7 +10403,7 @@
       "unit_count": 2,
       "units_display": "AMR134, E62",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793889+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218327+00:00"
     },
     {
       "incident_id": "2406199843",
@@ -9628,7 +10433,7 @@
       "unit_count": 2,
       "units_display": "AMR155, HR51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793892+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218330+00:00"
     },
     {
       "incident_id": "2406196602",
@@ -9658,7 +10463,7 @@
       "unit_count": 2,
       "units_display": "AMR133, E67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793895+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218333+00:00"
     },
     {
       "incident_id": "2406193361",
@@ -9700,7 +10505,7 @@
       "unit_count": 4,
       "units_display": "AMR133, AMR135, HR51, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793902+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218337+00:00"
     },
     {
       "incident_id": "2406192803",
@@ -9724,7 +10529,7 @@
       "unit_count": 1,
       "units_display": "MED21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793911+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218342+00:00"
     },
     {
       "incident_id": "2406189001",
@@ -9754,7 +10559,7 @@
       "unit_count": 2,
       "units_display": "AMR139, T56",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793914+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218345+00:00"
     },
     {
       "incident_id": "2406188603",
@@ -9784,7 +10589,7 @@
       "unit_count": 2,
       "units_display": "M023, MED21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793917+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218349+00:00"
     },
     {
       "incident_id": "2406185484",
@@ -9814,7 +10619,7 @@
       "unit_count": 2,
       "units_display": "AMR130, E34",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793921+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218352+00:00"
     },
     {
       "incident_id": "2406169970",
@@ -9838,7 +10643,7 @@
       "unit_count": 1,
       "units_display": "E59",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793924+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218357+00:00"
     },
     {
       "incident_id": "2406162572",
@@ -9868,7 +10673,7 @@
       "unit_count": 2,
       "units_display": "AMR135, E67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793929+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218360+00:00"
     },
     {
       "incident_id": "2406156577",
@@ -9898,7 +10703,7 @@
       "unit_count": 2,
       "units_display": "AMR133, E64",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793933+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218365+00:00"
     },
     {
       "incident_id": "2406153165",
@@ -9928,7 +10733,7 @@
       "unit_count": 2,
       "units_display": "AMR139, E53",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793936+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218368+00:00"
     },
     {
       "incident_id": "2406153157",
@@ -9952,7 +10757,7 @@
       "unit_count": 1,
       "units_display": "AMR155",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793939+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218371+00:00"
     },
     {
       "incident_id": "2406147495",
@@ -9976,7 +10781,7 @@
       "unit_count": 1,
       "units_display": "T67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793942+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218374+00:00"
     },
     {
       "incident_id": "2406144944",
@@ -10000,7 +10805,7 @@
       "unit_count": 1,
       "units_display": "E67",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793947+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218376+00:00"
     },
     {
       "incident_id": "2406132641",
@@ -10030,7 +10835,7 @@
       "unit_count": 2,
       "units_display": "BC303, E315",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793950+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218380+00:00"
     },
     {
       "incident_id": "2406132305",
@@ -10060,7 +10865,7 @@
       "unit_count": 2,
       "units_display": "AMR137, E60",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793953+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218383+00:00"
     },
     {
       "incident_id": "2406131250",
@@ -10096,7 +10901,7 @@
       "unit_count": 3,
       "units_display": "AMR132, AMR134, E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793959+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218386+00:00"
     },
     {
       "incident_id": "2406131547",
@@ -10126,7 +10931,7 @@
       "unit_count": 2,
       "units_display": "MED21, R54",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793962+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218391+00:00"
     },
     {
       "incident_id": "2406129048",
@@ -10162,7 +10967,7 @@
       "unit_count": 3,
       "units_display": "AMR131, E53, S70",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793966+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218395+00:00"
     },
     {
       "incident_id": "2406130236",
@@ -10198,7 +11003,7 @@
       "unit_count": 3,
       "units_display": "AMR128, AMR134, E60",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793971+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218400+00:00"
     },
     {
       "incident_id": "2406125781",
@@ -10228,7 +11033,7 @@
       "unit_count": 2,
       "units_display": "AMR135, AMRDV",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793974+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218403+00:00"
     },
     {
       "incident_id": "2406125058",
@@ -10252,7 +11057,7 @@
       "unit_count": 1,
       "units_display": "E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793977+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218406+00:00"
     },
     {
       "incident_id": "2406122641",
@@ -10276,7 +11081,7 @@
       "unit_count": 1,
       "units_display": "AMR155",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793980+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218409+00:00"
     },
     {
       "incident_id": "2406121340",
@@ -10306,7 +11111,7 @@
       "unit_count": 2,
       "units_display": "AMR130, E34",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793985+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218412+00:00"
     },
     {
       "incident_id": "2406117710",
@@ -10342,7 +11147,7 @@
       "unit_count": 3,
       "units_display": "AMR237, AMRDS, E59",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793989+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218417+00:00"
     },
     {
       "incident_id": "2406117648",
@@ -10372,7 +11177,7 @@
       "unit_count": 2,
       "units_display": "AMR136, E61",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793992+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218420+00:00"
     },
     {
       "incident_id": "2406118110",
@@ -10402,235 +11207,7 @@
       "unit_count": 2,
       "units_display": "AMR129, T51",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793995+00:00"
-    },
-    {
-      "incident_id": "2406116369",
-      "agency_id": "00485",
-      "agency_name": "Cornelius Fire Department",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "SW LINCOLN ST, TIGARD, OR",
-      "latitude": "45.4456630000",
-      "longitude": "-122.7708190000",
-      "received_time": "2026-02-01T05:14:33Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR139",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "S70",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 2,
-      "units_display": "AMR139, S70",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.793999+00:00"
-    },
-    {
-      "incident_id": "2406108859",
-      "agency_id": "00485",
-      "agency_name": "Cornelius Fire Department",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "SW WASHINGTON SQUARE RD, TIGARD, OR",
-      "latitude": "45.4455530000",
-      "longitude": "-122.7770380000",
-      "received_time": "2026-02-01T04:58:43Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR128",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "E53",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "S70",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 3,
-      "units_display": "AMR128, E53, S70",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.794002+00:00"
-    },
-    {
-      "incident_id": "2406108966",
-      "agency_id": "00485",
-      "agency_name": "Cornelius Fire Department",
-      "call_type": "FA",
-      "call_type_description": "Fire Alarm",
-      "address": "11655 SW ALLEN BLVD, BEAVERTON, OR",
-      "latitude": "45.4769050000",
-      "longitude": "-122.7972550000",
-      "received_time": "2026-02-01T04:56:46Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "E67",
-          "status_code": "AC",
-          "status": "AC",
-          "status_color": "unknown"
-        }
-      ],
-      "unit_count": 1,
-      "units_display": "E67",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.794005+00:00"
-    },
-    {
-      "incident_id": "2406107632",
-      "agency_id": "00485",
-      "agency_name": "Cornelius Fire Department",
-      "call_type": "ME",
-      "call_type_description": "Medical Emergency",
-      "address": "DEBOK RD, WEST LINN, OR",
-      "latitude": "45.3528620000",
-      "longitude": "-122.6605430000",
-      "received_time": "2026-02-01T04:54:58Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "AMR238",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "AMRDS",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "E58",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 3,
-      "units_display": "AMR238, AMRDS, E58",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:29.794010+00:00"
-    },
-    {
-      "incident_id": "2406131213",
-      "agency_id": "00234",
-      "agency_name": "Sunriver Fire",
-      "call_type": "RF",
-      "call_type_description": "RF",
-      "address": "1232 ASTOR WAY, WOODBURN, OR",
-      "latitude": "45.1537683801",
-      "longitude": "-122.8636028183",
-      "received_time": "2026-02-01T05:44:18Z",
-      "alarm_level": "1",
-      "units": [
-        {
-          "unit_id": "E985",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 1,
-      "units_display": "E985",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:52.994429+00:00"
-    },
-    {
-      "incident_id": "2406021482",
-      "agency_id": "00234",
-      "agency_name": "Sunriver Fire",
-      "call_type": "LA",
-      "call_type_description": "Lift Assist",
-      "address": "S SCONCE RD, CLACKAMAS COUNTY, OR",
-      "latitude": "45.1586913662",
-      "longitude": "-122.7208898402",
-      "received_time": "2026-02-01T02:33:42Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "E995",
-          "status_code": "AQ",
-          "status": "Available In Quarters",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "R983",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "SQ463",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "SQ994",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 4,
-      "units_display": "E995, R983, SQ463, SQ994",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:52.994436+00:00"
-    },
-    {
-      "incident_id": "2405908419",
-      "agency_id": "00234",
-      "agency_name": "Sunriver Fire",
-      "call_type": "SI",
-      "call_type_description": "SI",
-      "address": "34900 S HWY 213, OR",
-      "latitude": "45.1018133118",
-      "longitude": "-122.6481352136",
-      "received_time": "2026-01-31T23:50:18Z",
-      "alarm_level": "",
-      "units": [
-        {
-          "unit_id": "E985",
-          "status_code": "AR",
-          "status": "Available",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "E995",
-          "status_code": "AQ",
-          "status": "Available In Quarters",
-          "status_color": "gray"
-        },
-        {
-          "unit_id": "STA990",
-          "status_code": "AQ",
-          "status": "Available In Quarters",
-          "status_color": "gray"
-        }
-      ],
-      "unit_count": 3,
-      "units_display": "E985, E995, STA990",
-      "is_active": false,
-      "fetched_at": "2026-02-01T22:00:52.994441+00:00"
+      "fetched_at": "2026-02-01T22:57:48.218423+00:00"
     },
     {
       "incident_id": "2406364960",
@@ -10660,7 +11237,7 @@
       "unit_count": 2,
       "units_display": "E21, MED22",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141868+00:00"
+      "fetched_at": "2026-02-01T22:59:00.606986+00:00"
     },
     {
       "incident_id": "2406349169",
@@ -10696,7 +11273,7 @@
       "unit_count": 3,
       "units_display": "E21, MED23, MED29",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141890+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607003+00:00"
     },
     {
       "incident_id": "2406230556",
@@ -10720,7 +11297,7 @@
       "unit_count": 1,
       "units_display": "E21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141898+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607008+00:00"
     },
     {
       "incident_id": "2406133191",
@@ -10750,7 +11327,7 @@
       "unit_count": 2,
       "units_display": "BR21, E87",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141905+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607012+00:00"
     },
     {
       "incident_id": "2406131220",
@@ -10816,7 +11393,7 @@
       "unit_count": 8,
       "units_display": "201, 202, 2023, A21, E21, E22, LA21, STA21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141915+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607019+00:00"
     },
     {
       "incident_id": "2406122772",
@@ -10840,7 +11417,7 @@
       "unit_count": 1,
       "units_display": "E22",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141920+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607023+00:00"
     },
     {
       "incident_id": "2406082793",
@@ -10906,7 +11483,7 @@
       "unit_count": 8,
       "units_display": "201, 202, 2022, A21, E21, E22, LA21, STA21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141927+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607029+00:00"
     },
     {
       "incident_id": "2406080648",
@@ -10930,7 +11507,7 @@
       "unit_count": 1,
       "units_display": "E22",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141931+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607032+00:00"
     },
     {
       "incident_id": "2406015310",
@@ -10954,7 +11531,7 @@
       "unit_count": 1,
       "units_display": "E21",
       "is_active": false,
-      "fetched_at": "2026-02-01T22:01:48.141935+00:00"
+      "fetched_at": "2026-02-01T22:59:00.607035+00:00"
     }
   ]
 }
