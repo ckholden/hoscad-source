@@ -1,0 +1,41 @@
+name: ADS-B Proxy
+
+on:
+  schedule:
+    # Run every 5 minutes (max frequency for GitHub Actions)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch ADS-B data from adsb.lol
+        run: |
+          curl -s --max-time 15 \
+            "https://api.adsb.lol/v2/lat/44.254/lon/-121.150/dist/75" \
+            -o adsb_data.json
+          # Verify it's valid JSON
+          python3 -c "import json,sys; json.load(open('adsb_data.json'))" || \
+            (echo "Invalid JSON from adsb.lol, aborting" && exit 1)
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          mkdir -p docs
+          cp adsb_data.json docs/adsb_data.json
+
+          git add adsb_data.json docs/adsb_data.json
+
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "Update ADS-B data [skip ci]"
+          git push
