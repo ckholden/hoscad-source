@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a3576b","type":"adsb_icao","flight":"AJI605  ","r":"N314TW","t":"FA20","alt_baro":27000,"alt_geom":27775,"gs":427.0,"track":143.00,"geom_rate":0,"squawk":"3577","category":"A2","lat":44.326575,"lon":-119.611035,"nic":9,"rc":75,"seen_pos":14.291,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":31623,"seen":6.0,"rssi":-20.3,"dst":66.137,"dir":85.7}
 ]
 ,"msg": "No error"
-,"now": 1772186151501
-,"total": 0
-,"ctime": 1772186151501
+,"now": 1772189444002
+,"total": 1
+,"ctime": 1772189444002
 ,"ptime": 0
 }
