@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"c080ac","type":"adsb_icao","flight":"WJA2154 ","r":"C-GWSX","t":"B738","alt_baro":37000,"alt_geom":37525,"gs":485.0,"track":137.92,"baro_rate":0,"squawk":"4544","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":127.27,"lat":44.713028,"lon":-119.793876,"nic":8,"rc":186,"seen_pos":0.345,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":39543,"seen":0.3,"rssi":-24.2,"dst":64.193,"dir":64.1}
 ]
 ,"msg": "No error"
-,"now": 1772269133500
-,"total": 0
-,"ctime": 1772269133500
+,"now": 1772271397500
+,"total": 1
+,"ctime": 1772271397500
 ,"ptime": 0
 }
