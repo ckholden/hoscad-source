@@ -1,10 +1,11 @@
 {"ac":[
-{"hex":"abad94","type":"adsb_icao","flight":"SWA4474 ","r":"N8511K","t":"B738","alt_baro":16775,"alt_geom":16925,"gs":353.8,"track":312.94,"baro_rate":-1920,"squawk":"7227","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":10016,"nav_heading":203.91,"lat":43.868827,"lon":-122.208056,"nic":8,"rc":186,"seen_pos":0.136,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":43966,"seen":0.0,"rssi":-19.5,"dst":51.094,"dir":243.5},
-{"hex":"0d10fe","type":"adsb_icao","flight":"VOI1871 ","r":"XA-VUR","t":"A20N","alt_baro":37050,"alt_geom":37500,"gs":505.7,"track":133.80,"baro_rate":0,"squawk":"3563","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":36992,"lat":43.521594,"lon":-120.002420,"nic":8,"rc":186,"seen_pos":0.064,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":24096,"seen":0.1,"rssi":-20.6,"dst":66.279,"dir":131.1}
+{"hex":"a1334b","type":"adsb_icao","flight":"N177BD  ","r":"N177BD","t":"C152","alt_baro":5800,"alt_geom":5725,"gs":93.1,"track":171.35,"geom_rate":-384,"squawk":"1200","emergency":"none","category":"A1","lat":44.344451,"lon":-121.168749,"nic":9,"rc":75,"seen_pos":0.277,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16665,"seen":0.0,"rssi":-22.9,"dst":5.496,"dir":351.6},
+{"hex":"c080ac","type":"adsb_icao","flight":"WJA2155 ","r":"C-GWSX","t":"B738","alt_baro":36000,"alt_geom":36200,"gs":436.4,"track":344.72,"baro_rate":0,"squawk":"3224","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":317.81,"lat":45.144079,"lon":-121.153207,"nic":8,"rc":186,"seen_pos":0.195,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":109848,"seen":0.2,"rssi":-12.1,"dst":53.501,"dir":359.9},
+{"hex":"0d0dd1","type":"adsb_icao","flight":"AMX697  ","r":"XA-DAP","t":"B38M","alt_baro":35000,"alt_geom":35300,"gs":490.0,"track":143.71,"baro_rate":0,"squawk":"3502","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":139.22,"lat":44.574373,"lon":-119.485295,"nic":8,"rc":186,"seen_pos":0.155,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":40038,"seen":0.0,"rssi":-20.8,"dst":73.791,"dir":74.3}
 ]
 ,"msg": "No error"
-,"now": 1772351301000
-,"total": 2
-,"ctime": 1772351301000
+,"now": 1772353033000
+,"total": 3
+,"ctime": 1772353033000
 ,"ptime": 0
 }
