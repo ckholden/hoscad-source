@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"0d113b","type":"adsb_icao","flight":"AMX694  ","alt_baro":36000,"alt_geom":35875,"gs":441.0,"track":317.67,"baro_rate":0,"squawk":"3273","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":303.05,"lat":44.714262,"lon":-119.796195,"nic":8,"rc":186,"seen_pos":0.154,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":70970,"seen":0.2,"rssi":-20.5,"dst":64.135,"dir":64.0}
 ]
 ,"msg": "No error"
-,"now": 1772451684500
-,"total": 0
-,"ctime": 1772451684500
+,"now": 1772452935500
+,"total": 1
+,"ctime": 1772452935500
 ,"ptime": 0
 }
