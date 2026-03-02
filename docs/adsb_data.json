@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a67d2f","type":"adsb_icao","flight":"YEL51   ","r":"N517TX","t":"E55P","dbFlags":8,"alt_baro":33000,"alt_geom":32900,"gs":467.0,"track":176.19,"baro_rate":64,"squawk":"6615","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":161.72,"nav_modes":["autopilot","althold","lnav","tcas"],"lat":44.238785,"lon":-122.597874,"nic":9,"rc":75,"seen_pos":0.286,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":14308,"seen":0.0,"rssi":-17.1,"dst":62.140,"dir":269.7}
 ]
 ,"msg": "No error"
-,"now": 1772449397501
-,"total": 1
-,"ctime": 1772449397501
+,"now": 1772451684500
+,"total": 0
+,"ctime": 1772451684500
 ,"ptime": 0
 }
