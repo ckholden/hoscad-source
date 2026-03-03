@@ -1,8 +1,10 @@
 {"ac":[
+{"hex":"ae5c5d","type":"mlat","r":"169331","t":"P8","dbFlags":1,"alt_baro":32025,"calc_track":325,"baro_rate":0,"lat":43.949040,"lon":-121.175556,"nic":0,"rc":0,"seen_pos":5.153,"alert":0,"spi":0,"mlat":["baro_rate","lat","lon","nic","rc"],"tisb":[],"messages":62579,"seen":0.3,"rssi":-19.2,"dst":18.363,"dir":183.5},
+{"hex":"a348a1","type":"adsb_icao","flight":"UPS984  ","r":"N310UP","t":"B763","alt_baro":36000,"alt_geom":36300,"gs":429.6,"track":335.52,"baro_rate":0,"squawk":"7343","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":36000,"nav_heading":319.22,"nav_modes":["vnav","tcas"],"lat":43.493042,"lon":-121.120818,"nic":8,"rc":186,"seen_pos":0.019,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":58570,"seen":0.0,"rssi":-20.5,"dst":45.757,"dir":178.4}
 ]
 ,"msg": "No error"
-,"now": 1772535230000
-,"total": 0
-,"ctime": 1772535230000
+,"now": 1772537727503
+,"total": 2
+,"ctime": 1772537727503
 ,"ptime": 0
 }
