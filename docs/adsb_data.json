@@ -1,9 +1,9 @@
 {"ac":[
-{"hex":"a2a686","type":"adsb_icao","flight":"ASA172  ","r":"N270AK","t":"B739","alt_baro":35000,"alt_geom":34825,"gs":419.4,"track":149.95,"baro_rate":0,"squawk":"5721","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":146.25,"lat":45.166098,"lon":-120.578971,"nic":8,"rc":186,"seen_pos":0.226,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":53963,"seen":0.2,"rssi":-19.0,"dst":59.973,"dir":23.8}
+{"hex":"ae6803","type":"mlat","dbFlags":1,"alt_baro":32000,"calc_track":356,"baro_rate":0,"squawk":"6635","lat":44.952403,"lon":-121.455484,"nic":0,"rc":0,"seen_pos":5.394,"alert":0,"spi":0,"mlat":["baro_rate","squawk","lat","lon","nic","rc"],"tisb":[],"messages":81138,"seen":0.4,"rssi":-19.0,"dst":43.955,"dir":342.8}
 ]
 ,"msg": "No error"
-,"now": 1772622350000
+,"now": 1772624690000
 ,"total": 1
-,"ctime": 1772622350000
+,"ctime": 1772624690000
 ,"ptime": 0
 }
