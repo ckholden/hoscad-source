@@ -1,9 +1,12 @@
 {"ac":[
-{"hex":"a4482e","type":"adsb_icao","flight":"UPS972  ","r":"N375UP","t":"B763","alt_baro":22225,"alt_geom":22000,"gs":460.3,"track":4.36,"baro_rate":-1984,"squawk":"7362","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":4992,"nav_heading":348.05,"lat":44.351062,"lon":-122.733296,"nic":8,"rc":186,"seen_pos":0.045,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":73406,"seen":0.0,"rssi":-11.1,"dst":68.130,"dir":275.4}
+{"hex":"ac61db","type":"adsb_icao","flight":"SWA4818 ","r":"N8971L","t":"B38M","alt_baro":35075,"alt_geom":34775,"gs":413.1,"track":147.66,"baro_rate":384,"squawk":"6665","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":139.92,"lat":43.990860,"lon":-121.191335,"nic":8,"rc":186,"seen_pos":0.269,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":18034,"seen":0.3,"rssi":-13.2,"dst":15.916,"dir":186.4},
+{"hex":"a33a55","type":"adsb_icao","flight":"ENY3722 ","r":"N307LH","t":"E75L","alt_baro":12075,"alt_geom":12025,"gs":341.8,"track":132.75,"baro_rate":2624,"squawk":"3505","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":23008,"nav_modes":["tcas"],"lat":44.055688,"lon":-120.961958,"nic":8,"rc":186,"seen_pos":0.416,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2324,"seen":0.1,"rssi":-16.1,"dst":14.402,"dir":145.7},
+{"hex":"a7e18a","type":"adsb_icao","flight":"SKW3708 ","r":"N607CZ","t":"E75L","alt_baro":33425,"alt_geom":33275,"gs":439.4,"track":99.83,"baro_rate":768,"squawk":"3547","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_modes":["autopilot","vnav","tcas"],"lat":43.669968,"lon":-120.752649,"nic":8,"rc":186,"seen_pos":0.432,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16211,"seen":0.3,"rssi":-19.0,"dst":39.063,"dir":153.8},
+{"hex":"a55024","type":"adsb_icao","flight":"UPS2977 ","r":"N441UP","t":"B752","alt_baro":35050,"alt_geom":34675,"gs":453.2,"track":110.67,"baro_rate":-64,"squawk":"3570","emergency":"none","category":"A4","nav_qnh":1012.8,"nav_altitude_mcp":35008,"nav_heading":106.17,"nav_modes":["vnav","tcas"],"lat":44.924973,"lon":-120.719016,"nic":8,"rc":186,"seen_pos":0.274,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":13277,"seen":0.1,"rssi":-21.2,"dst":44.324,"dir":24.4}
 ]
 ,"msg": "No error"
-,"now": 1772627066500
-,"total": 1
-,"ctime": 1772627066500
+,"now": 1772631482502
+,"total": 4
+,"ctime": 1772631482502
 ,"ptime": 0
 }
