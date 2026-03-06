@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a5d007","type":"adsb_icao","flight":"ASA172  ","r":"N474AS","t":"B739","alt_baro":35000,"alt_geom":35125,"gs":546.4,"track":155.45,"baro_rate":0,"squawk":"5732","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":134.30,"lat":43.262252,"lon":-120.775975,"nic":8,"rc":186,"seen_pos":0.262,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":86063,"seen":0.3,"rssi":-22.5,"dst":61.769,"dir":164.6}
 ]
 ,"msg": "No error"
-,"now": 1772792388501
-,"total": 0
-,"ctime": 1772792388501
+,"now": 1772794835006
+,"total": 1
+,"ctime": 1772794835006
 ,"ptime": 0
 }
