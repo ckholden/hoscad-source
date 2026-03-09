@@ -1,9 +1,9 @@
 {"ac":[
-{"hex":"a9fa04","type":"adsb_icao","flight":"AMX058  ","r":"N742AM","t":"B789","alt_baro":35975,"alt_geom":35750,"gs":391.3,"track":317.17,"geom_rate":-64,"squawk":"1711","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":36000,"nav_heading":310.78,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.687576,"lon":-119.761374,"nic":8,"rc":186,"seen_pos":0.025,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":64368,"seen":0.0,"rssi":-25.2,"dst":64.832,"dir":65.9}
+{"hex":"c01e1a","type":"adsb_icao","flight":"FLE2821 ","r":"C-FLKJ","t":"B38M","alt_baro":40000,"alt_geom":39800,"gs":413.8,"track":332.20,"baro_rate":-64,"squawk":"4251","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":40000,"nav_heading":293.91,"lat":45.081070,"lon":-120.031324,"nic":8,"rc":186,"seen_pos":0.030,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":71367,"seen":0.0,"rssi":-19.8,"dst":68.870,"dir":43.5}
 ]
 ,"msg": "No error"
-,"now": 1773054661500
+,"now": 1773057070000
 ,"total": 1
-,"ctime": 1773054661500
+,"ctime": 1773057070000
 ,"ptime": 0
 }
