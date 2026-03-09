@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a9fa04","type":"adsb_icao","flight":"AMX058  ","r":"N742AM","t":"B789","alt_baro":35975,"alt_geom":35750,"gs":391.3,"track":317.17,"geom_rate":-64,"squawk":"1711","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":36000,"nav_heading":310.78,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.687576,"lon":-119.761374,"nic":8,"rc":186,"seen_pos":0.025,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":64368,"seen":0.0,"rssi":-25.2,"dst":64.832,"dir":65.9}
 ]
 ,"msg": "No error"
-,"now": 1773051994003
-,"total": 0
-,"ctime": 1773051994003
+,"now": 1773054661500
+,"total": 1
+,"ctime": 1773054661500
 ,"ptime": 0
 }
