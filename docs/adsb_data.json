@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a7d2ae","type":"adsb_icao","flight":"SKW3781 ","r":"N603CZ","t":"E75L","alt_baro":29400,"alt_geom":30025,"gs":392.6,"track":356.79,"baro_rate":896,"squawk":"4614","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_modes":["autopilot","vnav","tcas"],"lat":43.762070,"lon":-122.435409,"nic":8,"rc":186,"seen_pos":0.414,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5182,"seen":0.2,"rssi":-17.1,"dst":62.783,"dir":242.4}
 ]
 ,"msg": "No error"
-,"now": 1773316626500
-,"total": 0
-,"ctime": 1773316626500
+,"now": 1773321726501
+,"total": 1
+,"ctime": 1773321726501
 ,"ptime": 0
 }
