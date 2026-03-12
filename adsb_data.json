@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"ae5c56","type":"mode_s","r":"169324","t":"P8","dbFlags":1,"alt_baro":31975,"calc_track":335,"baro_rate":0,"lat":43.837239,"lon":-121.121551,"nic":0,"rc":0,"seen_pos":54.791,"alert":0,"spi":0,"mlat":["baro_rate","lat","lon","nic","rc"],"tisb":[],"messages":58546,"seen":0.7,"rssi":-17.2,"dst":25.080,"dir":177.2}
 ]
 ,"msg": "No error"
-,"now": 1773309477000
-,"total": 0
-,"ctime": 1773309477000
+,"now": 1773312845500
+,"total": 1
+,"ctime": 1773312845500
 ,"ptime": 0
 }
