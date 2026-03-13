@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a3866a","type":"adsb_icao","flight":"UPS972  ","r":"N326UP","t":"B763","alt_baro":15600,"alt_geom":15800,"gs":359.8,"track":343.53,"baro_rate":-2368,"squawk":"7220","emergency":"none","category":"A5","nav_qnh":1020.0,"nav_altitude_mcp":4992,"nav_heading":319.22,"nav_modes":["vnav","tcas"],"lat":44.772171,"lon":-122.593362,"nic":8,"rc":186,"seen_pos":0.247,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":81175,"seen":0.2,"rssi":-16.5,"dst":69.078,"dir":297.2}
 ]
 ,"msg": "No error"
-,"now": 1773400677500
-,"total": 1
-,"ctime": 1773400677500
+,"now": 1773402548000
+,"total": 0
+,"ctime": 1773402548000
 ,"ptime": 0
 }
