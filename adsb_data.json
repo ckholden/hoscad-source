@@ -1,9 +1,9 @@
 {"ac":[
-{"hex":"a449af","type":"adsb_icao","flight":"DAL2447 ","r":"N3757D","t":"B738","alt_baro":37000,"alt_geom":36925,"gs":495.7,"track":145.19,"baro_rate":64,"squawk":"6626","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":139.22,"lat":44.988602,"lon":-120.278778,"nic":8,"rc":186,"seen_pos":0.357,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":22133,"seen":0.2,"rssi":-23.5,"dst":57.703,"dir":39.9}
+{"hex":"0d0bba","type":"adsb_icao","flight":"AMX058  ","r":"XA-MFG","t":"B789","alt_baro":34000,"alt_geom":33900,"gs":422.5,"track":317.21,"geom_rate":-64,"squawk":"1704","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":34016,"nav_heading":303.05,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":45.234055,"lon":-120.466200,"nic":8,"rc":186,"seen_pos":0.144,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":61731,"seen":0.1,"rssi":-20.7,"dst":65.702,"dir":26.1}
 ]
 ,"msg": "No error"
-,"now": 1773485111000
+,"now": 1773486722001
 ,"total": 1
-,"ctime": 1773485111000
+,"ctime": 1773486722001
 ,"ptime": 0
 }
