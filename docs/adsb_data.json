@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a449af","type":"adsb_icao","flight":"DAL2447 ","r":"N3757D","t":"B738","alt_baro":37000,"alt_geom":36925,"gs":495.7,"track":145.19,"baro_rate":64,"squawk":"6626","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":139.22,"lat":44.988602,"lon":-120.278778,"nic":8,"rc":186,"seen_pos":0.357,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":22133,"seen":0.2,"rssi":-23.5,"dst":57.703,"dir":39.9}
 ]
 ,"msg": "No error"
-,"now": 1773482535501
-,"total": 0
-,"ctime": 1773482535501
+,"now": 1773485111000
+,"total": 1
+,"ctime": 1773485111000
 ,"ptime": 0
 }
