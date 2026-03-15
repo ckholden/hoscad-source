@@ -1,10 +1,11 @@
 {"ac":[
-{"hex":"a89c29","type":"adsb_icao","flight":"LXJ654  ","r":"N654FX","t":"GLF6","alt_baro":47000,"alt_geom":47525,"gs":564.4,"track":103.84,"baro_rate":0,"squawk":"1442","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":47008,"nav_modes":["autopilot","althold","tcas"],"lat":44.892418,"lon":-122.637902,"nic":8,"rc":186,"seen_pos":0.173,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":17867,"seen":0.1,"rssi":-12.9,"dst":74.190,"dir":301.6},
-{"hex":"a11ce5","type":"adsb_icao","flight":"N171AA  ","r":"N171AA","t":"C510","alt_baro":41000,"alt_geom":41475,"gs":364.5,"track":147.09,"baro_rate":0,"squawk":"6617","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":40992,"lat":45.149340,"lon":-120.319251,"nic":9,"rc":75,"seen_pos":0.443,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":27795,"seen":0.4,"rssi":-26.7,"dst":64.401,"dir":33.1}
+{"hex":"ae57cd","type":"mlat","r":"169008","t":"P8","dbFlags":1,"alt_baro":32000,"gs":317.0,"track":352.00,"baro_rate":0,"squawk":"1066","lat":45.088084,"lon":-121.500831,"nic":0,"rc":0,"seen_pos":2.096,"alert":0,"spi":0,"mlat":["gs","track","baro_rate","squawk","lat","lon","nic","rc"],"tisb":[],"messages":46600,"seen":0.3,"rssi":-21.9,"dst":52.315,"dir":343.5},
+{"hex":"aafbdf","type":"adsb_icao","flight":"AAL74   ","r":"N807AA","t":"B788","alt_baro":39000,"alt_geom":39800,"gs":513.0,"track":82.83,"geom_rate":-64,"squawk":"1427","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":39008,"nav_heading":52.73,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.053711,"lon":-120.666291,"nic":8,"rc":186,"seen_pos":0.034,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":23614,"seen":0.0,"rssi":-15.8,"dst":24.024,"dir":119.8},
+{"hex":"a1280a","type":"adsb_icao","flight":"N174AA  ","r":"N174AA","t":"C25B","alt_baro":31000,"alt_geom":31525,"gs":494.1,"track":107.19,"geom_rate":0,"squawk":"3557","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":31008,"nav_heading":83.67,"lat":44.856262,"lon":-120.620924,"nic":8,"rc":186,"seen_pos":0.034,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16248,"seen":0.0,"rssi":-21.5,"dst":42.668,"dir":31.9}
 ]
 ,"msg": "No error"
-,"now": 1773573187001
-,"total": 2
-,"ctime": 1773573187001
+,"now": 1773574968501
+,"total": 3
+,"ctime": 1773574968501
 ,"ptime": 0
 }
