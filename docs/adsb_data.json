@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a0af44","type":"adsb_icao","flight":"N143QS  ","r":"N143QS","t":"GLEX","alt_baro":32850,"alt_geom":33475,"gs":538.2,"track":181.70,"geom_rate":1024,"squawk":"6636","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":39008,"nav_heading":135.00,"lat":45.294800,"lon":-121.955566,"nic":8,"rc":186,"seen_pos":0.216,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":19087,"seen":0.1,"rssi":-11.3,"dst":71.326,"dir":331.5}
 ]
 ,"msg": "No error"
-,"now": 1773568724500
-,"total": 0
-,"ctime": 1773568724500
+,"now": 1773571452500
+,"total": 1
+,"ctime": 1773571452500
 ,"ptime": 0
 }
