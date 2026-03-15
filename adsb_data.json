@@ -1,11 +1,9 @@
 {"ac":[
-{"hex":"ae57cd","type":"mlat","r":"169008","t":"P8","dbFlags":1,"alt_baro":32000,"gs":317.0,"track":352.00,"baro_rate":0,"squawk":"1066","lat":45.088084,"lon":-121.500831,"nic":0,"rc":0,"seen_pos":2.096,"alert":0,"spi":0,"mlat":["gs","track","baro_rate","squawk","lat","lon","nic","rc"],"tisb":[],"messages":46600,"seen":0.3,"rssi":-21.9,"dst":52.315,"dir":343.5},
-{"hex":"aafbdf","type":"adsb_icao","flight":"AAL74   ","r":"N807AA","t":"B788","alt_baro":39000,"alt_geom":39800,"gs":513.0,"track":82.83,"geom_rate":-64,"squawk":"1427","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":39008,"nav_heading":52.73,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.053711,"lon":-120.666291,"nic":8,"rc":186,"seen_pos":0.034,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":23614,"seen":0.0,"rssi":-15.8,"dst":24.024,"dir":119.8},
-{"hex":"a1280a","type":"adsb_icao","flight":"N174AA  ","r":"N174AA","t":"C25B","alt_baro":31000,"alt_geom":31525,"gs":494.1,"track":107.19,"geom_rate":0,"squawk":"3557","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":31008,"nav_heading":83.67,"lat":44.856262,"lon":-120.620924,"nic":8,"rc":186,"seen_pos":0.034,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16248,"seen":0.0,"rssi":-21.5,"dst":42.668,"dir":31.9}
+{"hex":"a5ef0e","type":"adsb_icao","flight":"UAL376  ","r":"N48127","t":"B752","alt_baro":39000,"alt_geom":39825,"gs":481.4,"track":92.26,"baro_rate":0,"squawk":"2427","emergency":"none","category":"A4","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":65.39,"lat":43.355496,"lon":-120.391584,"nic":8,"rc":186,"seen_pos":0.145,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":24643,"seen":0.1,"rssi":-22.6,"dst":63.182,"dir":148.4}
 ]
 ,"msg": "No error"
-,"now": 1773574968501
-,"total": 3
-,"ctime": 1773574968501
+,"now": 1773575998519
+,"total": 1
+,"ctime": 1773575998519
 ,"ptime": 0
 }
