@@ -1,9 +1,12 @@
 {"ac":[
-{"hex":"a5ef0e","type":"adsb_icao","flight":"UAL376  ","r":"N48127","t":"B752","alt_baro":39000,"alt_geom":39825,"gs":481.4,"track":92.26,"baro_rate":0,"squawk":"2427","emergency":"none","category":"A4","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":65.39,"lat":43.355496,"lon":-120.391584,"nic":8,"rc":186,"seen_pos":0.145,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":24643,"seen":0.1,"rssi":-22.6,"dst":63.182,"dir":148.4}
+{"hex":"a79386","type":"adsb_icao","flight":"ASA2607 ","r":"N5879K","t":"A333","alt_baro":26850,"alt_geom":27550,"gs":526.2,"track":147.34,"baro_rate":1600,"squawk":"3521","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":36992,"lat":44.547638,"lon":-121.686140,"nic":8,"rc":186,"seen_pos":0.085,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":13912,"seen":0.0,"rssi":-12.1,"dst":28.950,"dir":307.7},
+{"hex":"a51b58","type":"adsb_icao","flight":"SWA935  ","r":"N428WN","t":"B737","alt_baro":41000,"alt_geom":41875,"gs":507.9,"track":162.35,"baro_rate":0,"squawk":"3564","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":40992,"nav_heading":123.05,"lat":43.774047,"lon":-121.051679,"nic":8,"rc":186,"seen_pos":0.085,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16799,"seen":0.0,"rssi":-22.9,"dst":29.158,"dir":171.6},
+{"hex":"a50a88","type":"adsb_icao","flight":"AAL2104 ","r":"N424AN","t":"A21N","alt_baro":31550,"alt_geom":32250,"gs":564.4,"track":112.61,"baro_rate":1280,"squawk":"6645","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35008,"nav_heading":102.66,"lat":44.816584,"lon":-120.674230,"nic":8,"rc":186,"seen_pos":0.344,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":15612,"seen":0.0,"rssi":-23.7,"dst":39.449,"dir":30.9},
+{"hex":"a768c2","type":"adsb_icao","flight":"DAL1270 ","r":"N577DN","t":"A21N","alt_baro":29875,"alt_geom":30525,"gs":522.2,"track":112.05,"baro_rate":640,"squawk":"6665","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.00,"lat":44.902039,"lon":-120.497851,"nic":8,"rc":186,"seen_pos":0.108,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16368,"seen":0.1,"rssi":-20.4,"dst":47.871,"dir":35.4}
 ]
 ,"msg": "No error"
-,"now": 1773575998519
-,"total": 1
-,"ctime": 1773575998519
+,"now": 1773580473501
+,"total": 4
+,"ctime": 1773580473501
 ,"ptime": 0
 }
