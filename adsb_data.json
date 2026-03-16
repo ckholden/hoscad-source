@@ -1,11 +1,10 @@
 {"ac":[
-{"hex":"a9cecd","type":"adsb_icao","flight":"ASA652  ","r":"N731AL","t":"B39M","alt_baro":32000,"alt_geom":33225,"gs":403.6,"track":335.09,"baro_rate":0,"squawk":"2004","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_heading":317.11,"lat":44.650314,"lon":-121.859828,"nic":8,"rc":186,"seen_pos":0.217,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":91872,"seen":0.0,"rssi":-16.3,"dst":38.586,"dir":308.3},
-{"hex":"0d1139","type":"adsb_icao","flight":"AMX697  ","r":"XA-AMD","t":"B38M","alt_baro":35000,"alt_geom":36150,"gs":547.2,"track":150.44,"baro_rate":0,"squawk":"2654","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":141.33,"lat":44.618774,"lon":-119.696568,"nic":8,"rc":186,"seen_pos":0.321,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":37102,"seen":0.2,"rssi":-20.3,"dst":65.923,"dir":70.1},
-{"hex":"a0e431","type":"adsb_icao","flight":"AAL3062 ","r":"N157AA","t":"A321","alt_baro":29300,"alt_geom":30325,"gs":509.0,"track":111.68,"baro_rate":320,"squawk":"6616","emergency":"none","category":"A3","nav_altitude_mcp":32992,"nav_heading":0.00,"lat":44.610032,"lon":-119.580287,"nic":8,"rc":186,"seen_pos":0.374,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":152941,"seen":0.0,"rssi":-11.5,"dst":70.477,"dir":71.8}
+{"hex":"abf025","type":"adsb_icao","flight":"SWA2934 ","r":"N8689C","t":"B738","alt_baro":16550,"alt_geom":17175,"gs":369.7,"track":342.20,"baro_rate":-2880,"squawk":"7253","emergency":"none","category":"A3","nav_qnh":1024.8,"nav_altitude_mcp":15008,"nav_heading":322.73,"lat":44.676602,"lon":-122.541571,"nic":8,"rc":186,"seen_pos":0.008,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":54695,"seen":0.0,"rssi":-9.5,"dst":64.690,"dir":293.5},
+{"hex":"a556c2","type":"adsb_icao","flight":"N443LF  ","r":"N443LF","t":"B407","alt_baro":"ground","gs":0.0,"true_heading":295.31,"squawk":"1200","emergency":"none","category":"A7","lat":44.068348,"lon":-121.267601,"nic":8,"rc":186,"seen_pos":14.812,"version":2,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","sda":2,"mlat":[],"tisb":[],"messages":587,"seen":9.8,"rssi":-19.5,"dst":12.250,"dir":204.5}
 ]
 ,"msg": "No error"
-,"now": 1773648745004
-,"total": 3
-,"ctime": 1773648745004
+,"now": 1773652582500
+,"total": 2
+,"ctime": 1773652582500
 ,"ptime": 0
 }
