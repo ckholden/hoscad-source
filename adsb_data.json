@@ -1,8 +1,11 @@
 {"ac":[
+{"hex":"a6452d","type":"adsb_icao","flight":"ATN6755 ","r":"N503AZ","t":"B763","alt_baro":38000,"alt_geom":39200,"gs":445.7,"track":350.05,"baro_rate":0,"squawk":"1025","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":24000,"nav_heading":326.25,"lat":44.647553,"lon":-122.315480,"nic":8,"rc":186,"seen_pos":0.131,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":80019,"seen":0.0,"rssi":-5.4,"dst":55.170,"dir":295.7},
+{"hex":"ae6832","type":"mlat","dbFlags":1,"alt_baro":31975,"gs":372.0,"track":349.00,"baro_rate":0,"squawk":"3555","lat":44.954145,"lon":-121.464596,"nic":0,"rc":0,"seen_pos":3.030,"alert":0,"spi":0,"mlat":["gs","track","baro_rate","squawk","lat","lon","nic","rc"],"tisb":[],"messages":80406,"seen":0.7,"rssi":-23.1,"dst":44.171,"dir":342.4},
+{"hex":"a4eff1","type":"adsb_icao","flight":"UPS996  ","r":"N417UP","t":"B752","alt_baro":30375,"alt_geom":31475,"gs":404.6,"track":298.97,"baro_rate":-4608,"squawk":"6745","emergency":"none","category":"A4","nav_qnh":1012.8,"nav_altitude_mcp":6016,"nav_heading":279.14,"nav_modes":["vnav","tcas"],"lat":45.252918,"lon":-120.742895,"nic":8,"rc":186,"seen_pos":0.131,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":163995,"seen":0.1,"rssi":-18.5,"dst":62.491,"dir":16.0}
 ]
 ,"msg": "No error"
-,"now": 1773738401501
-,"total": 0
-,"ctime": 1773738401501
+,"now": 1773742123000
+,"total": 3
+,"ctime": 1773742123000
 ,"ptime": 0
 }
