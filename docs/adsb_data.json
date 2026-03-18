@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a0c628","type":"adsb_icao","flight":"N149WW  ","r":"N149WW","t":"C25B","alt_baro":33000,"alt_geom":34150,"gs":387.4,"track":163.81,"geom_rate":0,"squawk":"3543","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":158.20,"lat":44.458365,"lon":-122.639309,"nic":8,"rc":186,"seen_pos":0.082,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":15194,"seen":0.1,"rssi":-7.1,"dst":64.964,"dir":281.4}
 ]
 ,"msg": "No error"
-,"now": 1773822382001
-,"total": 1
-,"ctime": 1773822382001
+,"now": 1773826235000
+,"total": 0
+,"ctime": 1773826235000
 ,"ptime": 0
 }
