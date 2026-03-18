@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a26a93","type":"adsb_icao","flight":"FDX1885 ","r":"N255FE","t":"B763","alt_baro":34025,"alt_geom":35350,"gs":501.5,"track":357.49,"baro_rate":64,"squawk":"3334","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":34016,"nav_heading":334.69,"lat":43.800613,"lon":-122.474947,"nic":8,"rc":186,"seen_pos":0.168,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":103560,"seen":0.1,"rssi":-9.7,"dst":63.242,"dir":245.0}
 ]
 ,"msg": "No error"
-,"now": 1773826235000
-,"total": 0
-,"ctime": 1773826235000
+,"now": 1773829937000
+,"total": 1
+,"ctime": 1773829937000
 ,"ptime": 0
 }
