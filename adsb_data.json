@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a4009e","type":"adsb_icao","flight":"UPS974  ","r":"N357UP","t":"B763","alt_baro":22400,"alt_geom":23125,"gs":337.0,"track":298.54,"baro_rate":-1792,"squawk":"6660","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":6688,"nav_heading":276.33,"nav_modes":["vnav","tcas"],"lat":45.288205,"lon":-120.834537,"nic":8,"rc":186,"seen_pos":0.506,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":160398,"seen":0.0,"rssi":-19.0,"dst":63.595,"dir":12.1}
 ]
 ,"msg": "No error"
-,"now": 1773920433501
-,"total": 0
-,"ctime": 1773920433501
+,"now": 1773921858510
+,"total": 1
+,"ctime": 1773921858510
 ,"ptime": 0
 }
