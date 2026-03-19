@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"ac4c8a","type":"adsb_icao","flight":"SWA399  ","r":"N8918Q","t":"B38M","alt_baro":38000,"alt_geom":39225,"gs":463.9,"track":334.87,"baro_rate":0,"squawk":"7302","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":24000,"nav_heading":310.78,"lat":45.231857,"lon":-122.243565,"nic":8,"rc":186,"seen_pos":0.207,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":67245,"seen":0.1,"rssi":-14.3,"dst":74.966,"dir":321.9}
 ]
 ,"msg": "No error"
-,"now": 1773904569000
-,"total": 0
-,"ctime": 1773904569000
+,"now": 1773907189002
+,"total": 1
+,"ctime": 1773907189002
 ,"ptime": 0
 }
