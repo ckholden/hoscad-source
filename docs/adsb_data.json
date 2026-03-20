@@ -1,10 +1,8 @@
 {"ac":[
-{"hex":"ac4749","type":"adsb_icao","flight":"N890WA  ","r":"N890WA","t":"PC12","dbFlags":8,"alt_baro":24000,"alt_geom":24900,"gs":291.2,"track":2.16,"baro_rate":0,"squawk":"4741","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":24000,"nav_heading":331.88,"nav_modes":["autopilot","althold","lnav"],"lat":43.994146,"lon":-122.844151,"nic":8,"rc":186,"seen_pos":0.171,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":9018,"seen":0.2,"rssi":-7.9,"dst":74.509,"dir":258.5},
-{"hex":"a25b3f","type":"adsb_icao","flight":"ASA141  ","r":"N251AK","t":"B739","alt_baro":34000,"alt_geom":35100,"gs":462.0,"track":333.66,"baro_rate":0,"squawk":"0705","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_heading":312.89,"lat":44.529419,"lon":-122.487619,"nic":8,"rc":186,"seen_pos":0.034,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":78809,"seen":0.0,"rssi":-8.5,"dst":59.605,"dir":286.5}
 ]
 ,"msg": "No error"
-,"now": 1773997125500
-,"total": 2
-,"ctime": 1773997125500
+,"now": 1774000522005
+,"total": 0
+,"ctime": 1774000522005
 ,"ptime": 0
 }
