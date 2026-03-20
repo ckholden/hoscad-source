@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a3a67b","type":"adsb_icao","flight":"UPS972  ","r":"N334UP","t":"B763","alt_baro":27200,"alt_geom":28125,"gs":432.7,"track":344.04,"baro_rate":-2112,"squawk":"1075","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":4992,"nav_heading":317.81,"nav_modes":["vnav","tcas"],"lat":44.177170,"lon":-122.354289,"nic":8,"rc":186,"seen_pos":0.449,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":69493,"seen":0.1,"rssi":-9.5,"dst":51.913,"dir":265.3}
 ]
 ,"msg": "No error"
-,"now": 1774005757501
-,"total": 1
-,"ctime": 1774005757501
+,"now": 1774007564003
+,"total": 0
+,"ctime": 1774007564003
 ,"ptime": 0
 }
