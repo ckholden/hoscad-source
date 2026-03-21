@@ -1,9 +1,9 @@
 {"ac":[
-{"hex":"a0c538","type":"adsb_icao","flight":"N149MF  ","r":"N149MF","t":"BE9L","alt_baro":6225,"alt_geom":6350,"gs":134.6,"track":218.06,"geom_rate":1984,"squawk":"6616","emergency":"none","category":"A1","nav_qnh":1015.2,"nav_altitude_mcp":14496,"nav_heading":208.12,"lat":44.034367,"lon":-121.234523,"nic":8,"rc":186,"seen_pos":0.334,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1339,"seen":0.1,"rssi":-5.0,"dst":13.693,"dir":195.5}
+{"hex":"a0c538","type":"adsb_icao","flight":"N149MF  ","r":"N149MF","t":"BE9L","alt_baro":14375,"alt_geom":14650,"gs":186.2,"track":215.82,"geom_rate":64,"category":"A1","nav_qnh":1017.6,"nav_altitude_mcp":14496,"nav_heading":207.42,"lat":43.199266,"lon":-122.073146,"nic":8,"rc":186,"seen_pos":0.367,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":14934,"seen":0.4,"rssi":-28.2,"dst":74.942,"dir":212.6}
 ]
 ,"msg": "No error"
-,"now": 1774089506511
+,"now": 1774090802506
 ,"total": 1
-,"ctime": 1774089506511
+,"ctime": 1774090802506
 ,"ptime": 0
 }
