@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"8990f3","type":"adsb_icao","flight":"CAL035  ","r":"B-18906","t":"A359","alt_baro":36000,"alt_geom":36700,"gs":479.3,"track":326.58,"baro_rate":64,"squawk":"2652","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":299.53,"lat":43.690155,"lon":-121.569405,"nic":8,"rc":186,"seen_pos":0.434,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":65113,"seen":0.2,"rssi":-20.2,"dst":38.413,"dir":208.3}
 ]
 ,"msg": "No error"
-,"now": 1774085570001
-,"total": 0
-,"ctime": 1774085570001
+,"now": 1774087029500
+,"total": 1
+,"ctime": 1774087029500
 ,"ptime": 0
 }
