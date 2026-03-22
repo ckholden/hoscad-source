@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a24dc1","type":"adsb_icao","flight":"ASA56   ","r":"N248AK","t":"B739","alt_baro":35025,"alt_geom":35575,"gs":482.0,"track":159.35,"baro_rate":0,"squawk":"7252","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":156.09,"lat":43.439896,"lon":-120.987130,"nic":8,"rc":186,"seen_pos":0.454,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":57461,"seen":0.5,"rssi":-17.5,"dst":49.437,"dir":171.7}
 ]
 ,"msg": "No error"
-,"now": 1774175768501
-,"total": 0
-,"ctime": 1774175768501
+,"now": 1774177191000
+,"total": 1
+,"ctime": 1774177191000
 ,"ptime": 0
 }
