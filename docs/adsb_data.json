@@ -1,8 +1,10 @@
 {"ac":[
+{"hex":"ad8fe3","type":"adsb_icao","flight":"N973MF  ","r":"N973MF","t":"B407","alt_baro":3600,"alt_geom":3825,"gs":127.0,"track":0.90,"baro_rate":-192,"squawk":"1200","emergency":"none","category":"A7","nav_qnh":1024.8,"nav_altitude_mcp":3008,"nav_heading":343.83,"lat":44.688629,"lon":-122.722386,"nic":9,"rc":75,"seen_pos":0.203,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":17840,"seen":0.2,"rssi":-11.0,"dst":72.116,"dir":291.7},
+{"hex":"a79386","type":"adsb_icao","flight":"ASA2602 ","r":"N5879K","t":"A333","alt_baro":17000,"alt_geom":17350,"gs":351.7,"track":287.71,"baro_rate":-2816,"squawk":"6724","emergency":"none","category":"A5","nav_qnh":1030.4,"nav_altitude_mcp":6688,"lat":45.396485,"lon":-121.137398,"nic":8,"rc":186,"seen_pos":0.076,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":164932,"seen":0.1,"rssi":-13.5,"dst":68.674,"dir":0.4}
 ]
 ,"msg": "No error"
-,"now": 1774169367501
-,"total": 0
-,"ctime": 1774169367501
+,"now": 1774171426501
+,"total": 2
+,"ctime": 1774171426501
 ,"ptime": 0
 }
