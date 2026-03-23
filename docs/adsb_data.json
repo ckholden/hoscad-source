@@ -1,12 +1,9 @@
 {"ac":[
-{"hex":"ad21bc","type":"adsb_icao","flight":"SWA3496 ","r":"N945WN","t":"B737","alt_baro":40025,"alt_geom":40725,"gs":405.1,"track":350.05,"baro_rate":0,"squawk":"3330","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":40000,"nav_heading":350.86,"lat":43.381714,"lon":-122.011094,"nic":8,"rc":186,"seen_pos":0.218,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":50999,"seen":0.2,"rssi":-20.5,"dst":64.299,"dir":215.8},
-{"hex":"abb5e7","type":"adsb_icao","flight":"SKW5579 ","r":"N85374","t":"E75L","alt_baro":30000,"alt_geom":30850,"gs":430.0,"track":0.80,"baro_rate":-64,"squawk":"3364","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":30016,"nav_modes":["autopilot","vnav","tcas"],"lat":43.249217,"lon":-122.006182,"nic":8,"rc":186,"seen_pos":0.443,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":35931,"seen":0.3,"rssi":-22.8,"dst":70.854,"dir":211.9},
-{"hex":"4cac46","type":"adsb_icao","flight":"MAA3228 ","r":"EI-MYY","t":"A332","alt_baro":35000,"alt_geom":35425,"gs":532.1,"track":137.13,"baro_rate":0,"squawk":"7240","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":35008,"lat":45.437347,"lon":-120.733664,"nic":8,"rc":186,"seen_pos":0.135,"version":2,"nic_baro":1,"nac_p":10,"nac_v":4,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":48085,"seen":0.1,"rssi":-20.7,"dst":73.294,"dir":13.9},
-{"hex":"c0488a","type":"adsb_icao","flight":"FSY127  ","r":"C-GBMF","t":"PC12","alt_baro":26000,"alt_geom":26700,"gs":234.8,"track":345.19,"baro_rate":0,"squawk":"3240","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":26016,"nav_heading":315.00,"nav_modes":["autopilot","althold","lnav"],"lat":43.200803,"lon":-120.725032,"nic":8,"rc":186,"seen_pos":0.242,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":343,"seen":0.2,"rssi":-26.5,"dst":65.924,"dir":163.6}
+{"hex":"a324b0","type":"adsb_icao","flight":"SKW137C ","r":"N301SY","t":"E75L","alt_baro":33675,"alt_geom":34450,"gs":348.7,"track":294.21,"baro_rate":-1024,"squawk":"6021","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_modes":["autopilot","vnav","tcas"],"lat":43.406204,"lon":-120.221536,"nic":8,"rc":186,"seen_pos":0.202,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":46393,"seen":0.2,"rssi":-25.8,"dst":64.860,"dir":141.4}
 ]
 ,"msg": "No error"
-,"now": 1774248276500
-,"total": 4
-,"ctime": 1774248276500
+,"now": 1774252259500
+,"total": 1
+,"ctime": 1774252259500
 ,"ptime": 0
 }
