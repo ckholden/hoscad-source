@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a324b0","type":"adsb_icao","flight":"SKW137C ","r":"N301SY","t":"E75L","alt_baro":33675,"alt_geom":34450,"gs":348.7,"track":294.21,"baro_rate":-1024,"squawk":"6021","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_modes":["autopilot","vnav","tcas"],"lat":43.406204,"lon":-120.221536,"nic":8,"rc":186,"seen_pos":0.202,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":46393,"seen":0.2,"rssi":-25.8,"dst":64.860,"dir":141.4}
 ]
 ,"msg": "No error"
-,"now": 1774252259500
-,"total": 1
-,"ctime": 1774252259500
+,"now": 1774255789000
+,"total": 0
+,"ctime": 1774255789000
 ,"ptime": 0
 }
