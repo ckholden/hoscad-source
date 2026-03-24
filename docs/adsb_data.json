@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a5320b","type":"adsb_icao","flight":"ASA172  ","r":"N434AS","t":"B739","alt_baro":35000,"alt_geom":36000,"gs":487.6,"track":142.33,"baro_rate":0,"squawk":"4165","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":139.92,"lat":44.794510,"lon":-119.869930,"nic":8,"rc":186,"seen_pos":0.353,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":55444,"seen":0.1,"rssi":-16.4,"dst":63.597,"dir":58.9}
 ]
 ,"msg": "No error"
-,"now": 1774343265500
-,"total": 0
-,"ctime": 1774343265500
+,"now": 1774346984500
+,"total": 1
+,"ctime": 1774346984500
 ,"ptime": 0
 }
