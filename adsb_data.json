@@ -1,11 +1,10 @@
 {"ac":[
-{"hex":"a11eb7","type":"adsb_icao","flight":"AAL2400 ","r":"N171US","t":"A321","alt_baro":15825,"alt_geom":15875,"gs":301.4,"track":288.37,"baro_rate":-1728,"squawk":"2333","emergency":"none","category":"A3","nav_altitude_mcp":6688,"nav_heading":0.00,"lat":45.446411,"lon":-121.353542,"nic":8,"rc":186,"seen_pos":0.225,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":125194,"seen":0.0,"rssi":-14.6,"dst":72.193,"dir":353.2},
-{"hex":"a8bbe1","type":"adsb_icao","flight":"N662CH  ","r":"N662CH","t":"GLF6","dbFlags":8,"alt_baro":41000,"alt_geom":41875,"gs":452.1,"track":187.75,"baro_rate":64,"squawk":"1332","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":41024,"nav_modes":["autopilot","althold","tcas"],"lat":43.296387,"lon":-121.211519,"nic":8,"rc":186,"seen_pos":0.108,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":71201,"seen":0.1,"rssi":-24.5,"dst":57.621,"dir":182.7},
-{"hex":"a76c79","type":"adsb_icao","flight":"DAL1373 ","r":"N578DN","t":"A21N","alt_baro":32000,"alt_geom":32750,"gs":395.7,"track":312.23,"baro_rate":0,"squawk":"6050","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":24000,"lat":44.835484,"lon":-120.000313,"nic":8,"rc":186,"seen_pos":0.239,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":51181,"seen":0.0,"rssi":-23.9,"dst":60.258,"dir":54.2}
+{"hex":"ac04c6","type":"adsb_icao","flight":"SKW5579 ","r":"N87368","t":"E75L","alt_baro":34000,"alt_geom":34475,"gs":480.2,"track":350.05,"baro_rate":0,"squawk":"3202","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_modes":["autopilot","vnav","tcas"],"lat":44.804214,"lon":-122.354213,"nic":8,"rc":186,"seen_pos":0.576,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":53029,"seen":0.1,"rssi":-8.3,"dst":61.144,"dir":303.1},
+{"hex":"a67b07","type":"adsb_icao","flight":"SCX3054 ","r":"N5167A","t":"B738","alt_baro":26450,"alt_geom":26825,"gs":344.6,"track":298.80,"baro_rate":-2048,"squawk":"0532","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":6688,"nav_heading":284.77,"lat":45.191391,"lon":-120.583845,"nic":8,"rc":186,"seen_pos":0.107,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":113727,"seen":0.1,"rssi":-17.3,"dst":61.281,"dir":23.0}
 ]
 ,"msg": "No error"
-,"now": 1774419263501
-,"total": 3
-,"ctime": 1774419263501
+,"now": 1774423928500
+,"total": 2
+,"ctime": 1774423928500
 ,"ptime": 0
 }
