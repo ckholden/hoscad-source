@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a3133c","type":"adsb_icao","flight":"ASA53   ","r":"N298AK","t":"B739","alt_baro":34000,"alt_geom":34500,"gs":429.0,"track":330.39,"baro_rate":0,"squawk":"7276","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_heading":305.16,"lat":44.602630,"lon":-122.183443,"nic":8,"rc":186,"seen_pos":0.441,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":47319,"seen":0.2,"rssi":-12.8,"dst":48.926,"dir":295.6}
 ]
 ,"msg": "No error"
-,"now": 1774604035032
-,"total": 0
-,"ctime": 1774604035032
+,"now": 1774607396000
+,"total": 1
+,"ctime": 1774607396000
 ,"ptime": 0
 }
