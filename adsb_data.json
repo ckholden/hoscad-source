@@ -1,9 +1,9 @@
 {"ac":[
-{"hex":"a9d63b","type":"adsb_icao","flight":"ASA53   ","r":"N733AL","t":"B39M","alt_baro":34000,"alt_geom":33700,"gs":450.9,"track":338.67,"baro_rate":0,"squawk":"7236","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_heading":319.92,"lat":44.725845,"lon":-121.664690,"nic":8,"rc":186,"seen_pos":0.024,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":49631,"seen":0.0,"rssi":-13.9,"dst":35.891,"dir":322.3}
+{"hex":"a0f5e7","type":"adsb_icao","flight":"FDX1885 ","r":"N161FE","t":"B763","alt_baro":34000,"alt_geom":33650,"gs":473.3,"track":349.90,"baro_rate":0,"squawk":"3304","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":24000,"nav_heading":333.28,"lat":45.025976,"lon":-122.409065,"nic":8,"rc":186,"seen_pos":0.175,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":113078,"seen":0.2,"rssi":-4.2,"dst":70.946,"dir":311.2}
 ]
 ,"msg": "No error"
-,"now": 1774948567501
+,"now": 1774953022003
 ,"total": 1
-,"ctime": 1774948567501
+,"ctime": 1774953022003
 ,"ptime": 0
 }
