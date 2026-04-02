@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a8320e","type":"adsb_icao","flight":"UPS32   ","r":"N627UP","t":"B748","alt_baro":36000,"alt_geom":35150,"gs":473.8,"track":245.17,"baro_rate":128,"squawk":"6652","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":234.14,"lat":45.357101,"lon":-121.010350,"nic":8,"rc":186,"seen_pos":0.205,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":36119,"seen":0.2,"rssi":-19.1,"dst":66.570,"dir":5.1}
 ]
 ,"msg": "No error"
-,"now": 1775128354004
-,"total": 0
-,"ctime": 1775128354004
+,"now": 1775131246501
+,"total": 1
+,"ctime": 1775131246501
 ,"ptime": 0
 }
