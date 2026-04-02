@@ -1,10 +1,10 @@
 {"ac":[
-{"hex":"ac370b","type":"adsb_icao","flight":"SWA3247 ","r":"N8864H","t":"B38M","alt_baro":34000,"alt_geom":33100,"gs":435.1,"track":318.73,"baro_rate":0,"squawk":"1542","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_heading":302.34,"lat":44.672012,"lon":-119.904327,"nic":8,"rc":186,"seen_pos":0.021,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":66609,"seen":0.0,"rssi":-21.8,"dst":58.888,"dir":64.4},
-{"hex":"a29908","type":"adsb_icao","flight":"ASA398  ","r":"N267AK","t":"B739","alt_baro":33000,"alt_geom":32025,"gs":468.0,"track":132.14,"baro_rate":0,"squawk":"6641","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":121.64,"lat":44.907944,"lon":-119.758301,"nic":8,"rc":186,"seen_pos":0.139,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":27408,"seen":0.1,"rssi":-16.0,"dst":71.213,"dir":56.1}
+{"hex":"ac81d2","type":"adsb_icao","flight":"AAL3062 ","r":"N905AU","t":"A321","alt_baro":20800,"alt_geom":19850,"gs":371.0,"track":109.85,"baro_rate":1920,"squawk":"6625","emergency":"none","category":"A3","nav_altitude_mcp":32992,"nav_heading":0.00,"lat":45.245682,"lon":-121.943992,"nic":8,"rc":186,"seen_pos":0.082,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":357123,"seen":0.1,"rssi":-7.9,"dst":68.514,"dir":330.7},
+{"hex":"a3f4d7","type":"adsb_icao","flight":"DAL2459 ","r":"N354NB","t":"A319","alt_baro":35000,"alt_geom":34275,"gs":478.5,"track":169.16,"baro_rate":-64,"squawk":"3561","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.00,"lat":43.471550,"lon":-121.922869,"nic":8,"rc":186,"seen_pos":0.109,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":21086,"seen":0.1,"rssi":-16.2,"dst":57.674,"dir":215.7}
 ]
 ,"msg": "No error"
-,"now": 1775112701501
+,"now": 1775117113501
 ,"total": 2
-,"ctime": 1775112701501
+,"ctime": 1775117113501
 ,"ptime": 0
 }
