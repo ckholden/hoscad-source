@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a8b539","type":"adsb_icao","flight":"N660LF  ","r":"N660LF","t":"PC12","dbFlags":8,"alt_baro":3825,"alt_geom":3575,"gs":103.4,"track":299.54,"baro_rate":-1024,"category":"A1","nav_qnh":1005.6,"nav_altitude_mcp":3712,"nav_heading":284.06,"nav_modes":["vnav","lnav"],"lat":44.239011,"lon":-121.116296,"nic":8,"rc":186,"seen_pos":37.941,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":7384,"seen":13.7,"rssi":-27.5,"dst":1.704,"dir":121.8}
 ]
 ,"msg": "No error"
-,"now": 1775124846501
-,"total": 1
-,"ctime": 1775124846501
+,"now": 1775128354004
+,"total": 0
+,"ctime": 1775128354004
 ,"ptime": 0
 }
