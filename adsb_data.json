@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a2b1ab","type":"adsb_icao","flight":"ASA172  ","r":"N273AK","t":"B739","alt_baro":35000,"alt_geom":35500,"gs":495.8,"track":149.45,"baro_rate":0,"squawk":"5711","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":128.67,"lat":44.645319,"lon":-119.713730,"nic":8,"rc":186,"seen_pos":0.284,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":53915,"seen":0.1,"rssi":-19.2,"dst":65.772,"dir":68.6}
 ]
 ,"msg": "No error"
-,"now": 1775294667002
-,"total": 0
-,"ctime": 1775294667002
+,"now": 1775296923001
+,"total": 1
+,"ctime": 1775296923001
 ,"ptime": 0
 }
