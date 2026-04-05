@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a42466","type":"adsb_icao","flight":"UPS9301 ","r":"N366UP","t":"B763","alt_baro":31025,"alt_geom":31700,"gs":475.1,"track":164.12,"baro_rate":0,"squawk":"6612","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":31008,"nav_heading":151.88,"lat":43.459076,"lon":-121.880216,"nic":8,"rc":186,"seen_pos":0.044,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":18676,"seen":0.0,"rssi":-17.5,"dst":57.254,"dir":213.8}
 ]
 ,"msg": "No error"
-,"now": 1775382717500
-,"total": 0
-,"ctime": 1775382717500
+,"now": 1775385113504
+,"total": 1
+,"ctime": 1775385113504
 ,"ptime": 0
 }
