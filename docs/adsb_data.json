@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a48499","type":"adsb_icao","flight":"UPS972  ","r":"N390UP","t":"B763","alt_baro":22125,"alt_geom":22575,"gs":384.2,"track":345.53,"baro_rate":-2112,"squawk":"1040","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":4992,"nav_heading":327.66,"lat":44.510038,"lon":-122.505463,"nic":8,"rc":186,"seen_pos":0.197,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":75570,"seen":0.1,"rssi":-11.1,"dst":60.039,"dir":285.3}
 ]
 ,"msg": "No error"
-,"now": 1775556626500
-,"total": 0
-,"ctime": 1775556626500
+,"now": 1775560509000
+,"total": 1
+,"ctime": 1775560509000
 ,"ptime": 0
 }
