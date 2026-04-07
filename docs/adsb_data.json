@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a233ce","type":"adsb_icao","flight":"ATN3378 ","r":"N241AZ","t":"B763","alt_baro":36000,"alt_geom":36250,"gs":407.5,"track":334.88,"baro_rate":0,"squawk":"7310","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":315.00,"lat":44.893256,"lon":-122.018983,"nic":8,"rc":186,"seen_pos":0.246,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":81737,"seen":0.2,"rssi":-17.2,"dst":53.400,"dir":316.2}
 ]
 ,"msg": "No error"
-,"now": 1775552068500
-,"total": 1
-,"ctime": 1775552068500
+,"now": 1775556626500
+,"total": 0
+,"ctime": 1775556626500
 ,"ptime": 0
 }
