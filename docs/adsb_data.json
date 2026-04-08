@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"a431e8","type":"adsb_icao","flight":"N37ET   ","r":"N37ET","t":"C550","alt_baro":40000,"alt_geom":40425,"gs":334.8,"track":302.93,"baro_rate":64,"squawk":"6036","emergency":"none","category":"A1","lat":44.420929,"lon":-119.643925,"nic":8,"rc":186,"seen_pos":0.474,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":50222,"seen":0.1,"rssi":-20.4,"dst":65.306,"dir":80.7}
 ]
 ,"msg": "No error"
-,"now": 1775628624500
-,"total": 1
-,"ctime": 1775628624500
+,"now": 1775634837000
+,"total": 0
+,"ctime": 1775634837000
 ,"ptime": 0
 }
