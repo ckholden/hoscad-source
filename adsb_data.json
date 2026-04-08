@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"aa2bc4","type":"adsb_icao","flight":"UAL1241 ","r":"N75435","t":"B739","alt_baro":18350,"alt_geom":18600,"gs":397.6,"track":95.19,"baro_rate":2176,"squawk":"3533","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":23008,"nav_heading":78.05,"lat":44.133570,"lon":-122.410583,"nic":8,"rc":186,"seen_pos":0.103,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":6420,"seen":0.1,"rssi":-14.1,"dst":54.626,"dir":262.9}
 ]
 ,"msg": "No error"
-,"now": 1775647644500
-,"total": 0
-,"ctime": 1775647644500
+,"now": 1775650217500
+,"total": 1
+,"ctime": 1775650217500
 ,"ptime": 0
 }
