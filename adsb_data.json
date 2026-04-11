@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"0d0b67","type":"adsb_icao","flight":"AMX694  ","r":"XA-DRC","t":"B738","alt_baro":38000,"alt_geom":37625,"gs":465.6,"track":317.26,"baro_rate":0,"squawk":"4357","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":38016,"nav_heading":300.23,"lat":45.047390,"lon":-120.222920,"nic":8,"rc":186,"seen_pos":0.333,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":72162,"seen":0.0,"rssi":-15.4,"dst":61.929,"dir":39.4}
 ]
 ,"msg": "No error"
-,"now": 1775906566514
-,"total": 0
-,"ctime": 1775906566514
+,"now": 1775908430501
+,"total": 1
+,"ctime": 1775908430501
 ,"ptime": 0
 }
