@@ -1,8 +1,13 @@
 {"ac":[
+{"hex":"aa76a8","type":"adsb_icao","flight":"SWA2862 ","r":"N7731A","t":"B737","alt_baro":37000,"alt_geom":37075,"gs":482.1,"track":176.08,"baro_rate":0,"squawk":"3540","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":163.12,"lat":43.392365,"lon":-121.845049,"nic":8,"rc":186,"seen_pos":0.343,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":29391,"seen":0.0,"rssi":-22.1,"dst":59.873,"dir":210.4},
+{"hex":"a16534","type":"adsb_icao","flight":"GLH2    ","r":"N1895T","t":"GLF6","dbFlags":8,"alt_baro":45000,"alt_geom":45000,"gs":529.5,"track":104.32,"baro_rate":-64,"squawk":"1475","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":45024,"nav_modes":["autopilot","althold","tcas"],"lat":44.717972,"lon":-121.728385,"nic":8,"rc":186,"seen_pos":0.032,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":22660,"seen":0.0,"rssi":-17.1,"dst":37.267,"dir":318.6},
+{"hex":"a21c4c","type":"adsb_icao","flight":"ENY3543 ","r":"N235NN","t":"E75L","alt_baro":18150,"alt_geom":18275,"gs":417.4,"track":138.79,"baro_rate":1792,"squawk":"6611","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":23008,"nav_modes":["autopilot","tcas"],"lat":43.895416,"lon":-120.464769,"nic":8,"rc":186,"seen_pos":0.000,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":3572,"seen":0.0,"rssi":-24.3,"dst":36.528,"dir":125.8},
+{"hex":"a43ec9","type":"adsb_icao","flight":"UAL1188 ","r":"N37287","t":"B738","alt_baro":27125,"alt_geom":27175,"gs":468.1,"track":98.48,"baro_rate":1472,"category":"A3","lat":44.024323,"lon":-119.983414,"nic":8,"rc":186,"seen_pos":45.074,"version":2,"nac_v":1,"sil_type":"perhour","alert":0,"spi":0,"mlat":[],"tisb":[],"messages":5439,"seen":45.1,"rssi":-26.6,"dst":52.019,"dir":104.9},
+{"hex":"a14380","type":"adsb_icao","flight":"SWA3709 ","r":"N1803U","t":"B38M","alt_baro":35000,"alt_geom":34925,"gs":507.8,"track":130.53,"baro_rate":0,"squawk":"3514","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":113.20,"lat":43.936188,"lon":-119.764775,"nic":8,"rc":186,"seen_pos":5.786,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":20284,"seen":0.3,"rssi":-25.7,"dst":62.584,"dir":107.2}
 ]
 ,"msg": "No error"
-,"now": 1776425297000
-,"total": 0
-,"ctime": 1776425297000
+,"now": 1776429518505
+,"total": 5
+,"ctime": 1776429518505
 ,"ptime": 0
 }
