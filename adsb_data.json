@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"abb288","type":"adsb_icao","flight":"N853AL  ","r":"N853AL","t":"PC12","alt_baro":15000,"alt_geom":15275,"gs":277.3,"track":12.28,"baro_rate":0,"squawk":"4702","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":15008,"nav_heading":355.78,"nav_modes":["autopilot","althold","lnav"],"lat":43.220901,"lon":-121.466760,"nic":9,"rc":75,"seen_pos":0.278,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1057,"seen":0.3,"rssi":-29.0,"dst":63.593,"dir":192.6}
 ]
 ,"msg": "No error"
-,"now": 1776586485501
-,"total": 1
-,"ctime": 1776586485501
+,"now": 1776589770501
+,"total": 0
+,"ctime": 1776589770501
 ,"ptime": 0
 }
