@@ -1,8 +1,10 @@
 {"ac":[
+{"hex":"abb288","type":"adsb_icao","flight":"N853AL  ","r":"N853AL","t":"PC12","alt_baro":7900,"alt_geom":7800,"gs":207.6,"track":159.12,"baro_rate":-1088,"squawk":"4750","emergency":"none","category":"A1","nav_qnh":1008.8,"nav_altitude_mcp":7008,"nav_heading":144.84,"nav_modes":["autopilot","vnav","lnav"],"lat":44.357998,"lon":-121.220867,"nic":9,"rc":75,"seen_pos":0.239,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":27165,"seen":0.2,"rssi":-22.3,"dst":6.950,"dir":334.0},
+{"hex":"0d0dda","type":"adsb_icao","flight":"AMX694  ","r":"XA-CCO","t":"B38M","alt_baro":36000,"alt_geom":36300,"gs":497.8,"track":332.61,"baro_rate":0,"squawk":"3237","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":314.30,"lat":45.255665,"lon":-120.210929,"nic":8,"rc":186,"seen_pos":0.324,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":70598,"seen":0.1,"rssi":-21.0,"dst":72.256,"dir":33.3}
 ]
 ,"msg": "No error"
-,"now": 1776768971500
-,"total": 0
-,"ctime": 1776768971500
+,"now": 1776773096501
+,"total": 2
+,"ctime": 1776773096501
 ,"ptime": 0
 }
