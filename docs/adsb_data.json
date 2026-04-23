@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"0d09d0","type":"adsb_icao","flight":"AMX090  ","r":"XA-ADL","t":"B789","alt_baro":34000,"alt_geom":33975,"gs":453.7,"track":321.89,"geom_rate":64,"squawk":"1770","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":34016,"nav_heading":307.97,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.886599,"lon":-120.525044,"nic":8,"rc":186,"seen_pos":0.212,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":95058,"seen":0.0,"rssi":-18.8,"dst":46.445,"dir":34.9}
 ]
 ,"msg": "No error"
-,"now": 1776938496001
-,"total": 1
-,"ctime": 1776938496001
+,"now": 1776943246002
+,"total": 0
+,"ctime": 1776943246002
 ,"ptime": 0
 }
