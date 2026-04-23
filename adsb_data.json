@@ -1,8 +1,10 @@
 {"ac":[
+{"hex":"a0b7bd","type":"adsb_icao","flight":"UAL459  ","r":"N14509","t":"A21N","alt_baro":21800,"alt_geom":22025,"gs":432.3,"track":114.31,"baro_rate":1600,"squawk":"6612","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":0.00,"lat":45.276893,"lon":-122.050134,"nic":8,"rc":186,"seen_pos":0.148,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":10119,"seen":0.1,"rssi":-10.1,"dst":72.430,"dir":328.3},
+{"hex":"a4aaea","type":"adsb_icao","flight":"N40GM   ","r":"N40GM","t":"BE35","alt_baro":8400,"alt_geom":8550,"gs":146.0,"track":359.61,"geom_rate":256,"squawk":"6673","emergency":"none","category":"A2","lat":44.381228,"lon":-121.212560,"nic":10,"rc":25,"seen_pos":2.071,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":4574,"seen":0.3,"rssi":-25.2,"dst":8.104,"dir":340.6}
 ]
 ,"msg": "No error"
-,"now": 1776943246002
-,"total": 0
-,"ctime": 1776943246002
+,"now": 1776946413000
+,"total": 2
+,"ctime": 1776946413000
 ,"ptime": 0
 }
