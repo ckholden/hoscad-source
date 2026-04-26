@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a2ebbd","type":"adsb_icao","flight":"ASA256  ","r":"N288AK","t":"B739","alt_baro":37000,"alt_geom":36500,"gs":469.2,"track":159.67,"baro_rate":0,"squawk":"4125","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":144.84,"lat":44.323084,"lon":-121.488424,"nic":8,"rc":186,"seen_pos":0.058,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":772890,"seen":0.1,"rssi":-11.9,"dst":15.095,"dir":286.0}
 ]
 ,"msg": "No error"
-,"now": 1777194800001
-,"total": 0
-,"ctime": 1777194800001
+,"now": 1777198182501
+,"total": 1
+,"ctime": 1777198182501
 ,"ptime": 0
 }
