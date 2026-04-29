@@ -1,9 +1,8 @@
 {"ac":[
-{"hex":"ae6a3a","type":"adsb_icao","r":"170013","t":"P8","dbFlags":1,"alt_baro":32000,"alt_geom":32325,"gs":395.8,"track":346.56,"baro_rate":-64,"squawk":"1013","emergency":"none","nav_qnh":1012.8,"nav_altitude_fms":32000,"nav_heading":331.17,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.954773,"lon":-121.445095,"nic":8,"rc":186,"seen_pos":0.530,"version":2,"nic_baro":1,"nac_p":11,"nac_v":4,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":71257,"seen":0.2,"rssi":-12.9,"dst":43.962,"dir":343.4}
 ]
 ,"msg": "No error"
-,"now": 1777447617503
-,"total": 1
-,"ctime": 1777447617503
+,"now": 1777455325500
+,"total": 0
+,"ctime": 1777455325500
 ,"ptime": 0
 }
