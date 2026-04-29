@@ -1,8 +1,10 @@
 {"ac":[
+{"hex":"a47ad2","type":"adsb_icao","flight":"UPS972  ","r":"N388UP","t":"B763","alt_baro":28000,"alt_geom":28475,"gs":429.1,"track":348.17,"baro_rate":0,"squawk":"1042","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":4992,"nav_heading":333.28,"lat":44.043677,"lon":-122.466038,"nic":8,"rc":186,"seen_pos":0.115,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":70256,"seen":0.0,"rssi":-11.5,"dst":57.965,"dir":257.9},
+{"hex":"7380cb","type":"adsb_icao","flight":"ELY005  ","r":"4X-EDM","t":"B789","alt_baro":39000,"alt_geom":39375,"gs":521.1,"track":195.13,"geom_rate":0,"squawk":"1721","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":39008,"nav_heading":182.81,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":43.877626,"lon":-120.002943,"nic":8,"rc":186,"seen_pos":0.550,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":73256,"seen":0.1,"rssi":-26.0,"dst":54.311,"dir":114.1}
 ]
 ,"msg": "No error"
-,"now": 1777455325500
-,"total": 0
-,"ctime": 1777455325500
+,"now": 1777461512001
+,"total": 2
+,"ctime": 1777461512001
 ,"ptime": 0
 }
