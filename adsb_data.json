@@ -1,8 +1,10 @@
 {"ac":[
+{"hex":"a6977a","type":"adsb_icao","flight":"N52371  ","r":"N52371","t":"C172","alt_baro":6300,"alt_geom":6450,"gs":100.7,"track":285.55,"geom_rate":128,"squawk":"1200","emergency":"none","category":"A1","lat":44.558173,"lon":-121.259721,"nic":9,"rc":75,"seen_pos":0.441,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":11114,"seen":0.1,"rssi":-16.9,"dst":18.877,"dir":345.6},
+{"hex":"a19aaa","type":"adsb_icao","flight":"ENY3543 ","r":"N202NN","t":"E75L","alt_baro":12975,"alt_geom":13325,"gs":341.5,"track":138.56,"baro_rate":1408,"squawk":"6667","emergency":"none","category":"A3","nav_qnh":1021.6,"nav_altitude_mcp":23008,"nav_modes":["tcas"],"lat":44.133041,"lon":-120.719881,"nic":8,"rc":186,"seen_pos":0.219,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2865,"seen":0.2,"rssi":-11.6,"dst":19.854,"dir":111.3}
 ]
 ,"msg": "No error"
-,"now": 1777547021501
-,"total": 0
-,"ctime": 1777547021501
+,"now": 1777551773501
+,"total": 2
+,"ctime": 1777551773501
 ,"ptime": 0
 }
