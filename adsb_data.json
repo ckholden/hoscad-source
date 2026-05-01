@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"ac2308","type":"adsb_icao","flight":"N881RE  ","r":"N881RE","t":"E55P","dbFlags":8,"alt_baro":15975,"alt_geom":16375,"gs":281.9,"track":99.60,"baro_rate":3392,"squawk":"3553","emergency":"none","category":"A2","nav_qnh":1018.4,"nav_altitude_mcp":17504,"nav_heading":85.08,"lat":44.208755,"lon":-120.786961,"nic":8,"rc":186,"seen_pos":0.000,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2416,"seen":0.0,"rssi":-18.9,"dst":15.783,"dir":99.7}
 ]
 ,"msg": "No error"
-,"now": 1777632720500
-,"total": 0
-,"ctime": 1777632720500
+,"now": 1777636662000
+,"total": 1
+,"ctime": 1777636662000
 ,"ptime": 0
 }
