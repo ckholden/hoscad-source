@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a9b273","type":"adsb_icao","flight":"ASA56   ","r":"N724AL","t":"B39M","alt_baro":37000,"alt_geom":37425,"gs":462.4,"track":153.27,"baro_rate":0,"squawk":"7232","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":132.89,"lat":43.237198,"lon":-121.073232,"nic":8,"rc":186,"seen_pos":0.115,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":93972,"seen":0.1,"rssi":-18.3,"dst":61.208,"dir":176.9}
 ]
 ,"msg": "No error"
-,"now": 1777886014000
-,"total": 0
-,"ctime": 1777886014000
+,"now": 1777893531000
+,"total": 1
+,"ctime": 1777893531000
 ,"ptime": 0
 }
