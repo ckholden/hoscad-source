@@ -1,13 +1,8 @@
 {"ac":[
-{"hex":"a1314e","type":"adsb_icao","flight":"AAL1956 ","r":"N176UW","t":"A321","alt_baro":19775,"alt_geom":20175,"gs":391.3,"track":109.87,"baro_rate":1536,"squawk":"3566","emergency":"none","category":"A3","nav_altitude_mcp":35008,"nav_heading":0.00,"lat":45.211853,"lon":-121.814052,"nic":8,"rc":186,"seen_pos":0.008,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":136936,"seen":0.0,"rssi":-17.9,"dst":64.136,"dir":334.0},
-{"hex":"0d0f13","type":"adsb_icao","flight":"VOI1851 ","r":"XA-VUB","t":"A21N","alt_baro":32950,"alt_geom":33575,"gs":455.7,"track":170.91,"baro_rate":64,"squawk":"6641","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":32992,"lat":44.649811,"lon":-121.723219,"nic":8,"rc":186,"seen_pos":0.280,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":27360,"seen":0.3,"rssi":-15.8,"dst":34.160,"dir":314.2},
-{"hex":"acf0d8","type":"adsb_icao","flight":"ASA1390 ","r":"N933AK","t":"B39M","alt_baro":33000,"alt_geom":33475,"gs":450.0,"track":170.66,"baro_rate":0,"squawk":"6671","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":151.17,"lat":43.087875,"lon":-121.368394,"nic":8,"rc":186,"seen_pos":0.360,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":37460,"seen":0.1,"rssi":-23.5,"dst":70.729,"dir":187.8},
-{"hex":"a2c087","type":"adsb_icao","flight":"ASA409  ","r":"N277AK","t":"B739","alt_baro":8350,"alt_geom":8500,"gs":228.0,"track":142.13,"baro_rate":-1152,"squawk":"4720","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":3008,"nav_heading":125.86,"lat":44.455444,"lon":-121.076006,"nic":8,"rc":186,"seen_pos":0.521,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":30238,"seen":0.2,"rssi":-11.0,"dst":12.516,"dir":14.7},
-{"hex":"0d111b","type":"adsb_icao","flight":"VOI1871 ","r":"XA-VUT","t":"A21N","alt_baro":35050,"alt_geom":35575,"gs":434.7,"track":132.20,"baro_rate":64,"squawk":"6657","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35008,"lat":43.780334,"lon":-120.285857,"nic":8,"rc":186,"seen_pos":0.304,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":23732,"seen":0.1,"rssi":-20.6,"dst":46.867,"dir":127.0}
 ]
 ,"msg": "No error"
-,"now": 1777877468000
-,"total": 5
-,"ctime": 1777877468000
+,"now": 1777886014000
+,"total": 0
+,"ctime": 1777886014000
 ,"ptime": 0
 }
