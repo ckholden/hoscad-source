@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"abec9b","type":"adsb_icao","flight":"AMX694  ","r":"N868AM","t":"B38M","alt_baro":36000,"alt_geom":36925,"gs":416.1,"track":317.14,"baro_rate":0,"squawk":"3233","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":303.75,"lat":45.324646,"lon":-120.584760,"nic":8,"rc":186,"seen_pos":0.381,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":35135,"seen":0.1,"rssi":-21.3,"dst":68.695,"dir":20.3}
 ]
 ,"msg": "No error"
-,"now": 1778061547501
-,"total": 0
-,"ctime": 1778061547501
+,"now": 1778068808501
+,"total": 1
+,"ctime": 1778068808501
 ,"ptime": 0
 }
