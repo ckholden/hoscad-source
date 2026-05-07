@@ -1,13 +1,8 @@
 {"ac":[
-{"hex":"a43423","type":"adsb_icao","flight":"DAL1373 ","r":"N370DN","t":"A321","alt_baro":14900,"alt_geom":15350,"gs":313.4,"track":288.03,"baro_rate":-1024,"squawk":"6023","emergency":"none","category":"A3","nav_altitude_mcp":6688,"nav_heading":0.00,"lat":45.455429,"lon":-121.392582,"nic":8,"rc":186,"seen_pos":0.548,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":39694,"seen":0.0,"rssi":-18.4,"dst":72.946,"dir":351.9},
-{"hex":"ab341a","type":"adsb_icao","flight":"N8206W  ","r":"N8206W","t":"P28A","alt_baro":9325,"alt_geom":9525,"gs":109.9,"track":13.15,"baro_rate":-128,"squawk":"1200","emergency":"none","category":"A1","lat":43.767929,"lon":-121.348976,"nic":10,"rc":25,"seen_pos":0.098,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":240,"seen":0.1,"rssi":-23.7,"dst":30.448,"dir":196.5},
-{"hex":"0d111b","type":"adsb_icao","flight":"VOI1871 ","r":"XA-VUT","t":"A21N","alt_baro":30325,"alt_geom":31400,"gs":479.0,"track":124.45,"baro_rate":640,"squawk":"6611","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35008,"lat":44.225647,"lon":-121.253945,"nic":8,"rc":186,"seen_pos":0.228,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":16260,"seen":0.0,"rssi":-9.2,"dst":4.776,"dir":249.2},
-{"hex":"a59a9a","type":"adsb_icao","flight":"N460LE  ","r":"N460LE","t":"R22","alt_baro":4750,"alt_geom":4875,"gs":73.2,"track":214.99,"baro_rate":64,"squawk":"1200","emergency":"none","category":"A7","nav_qnh":1018.4,"nav_heading":239.77,"lat":44.226471,"lon":-121.157227,"nic":9,"rc":75,"seen_pos":0.098,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":2103,"seen":0.1,"rssi":-14.0,"dst":1.684,"dir":190.7},
-{"hex":"a2f111","type":"adsb_icao","flight":"SKW3756 ","r":"N289SY","t":"E75L","alt_baro":3225,"alt_geom":3325,"gs":130.4,"track":240.09,"baro_rate":-896,"category":"A3","nav_qnh":1018.4,"nav_altitude_mcp":7008,"nav_modes":["approach"],"lat":44.265381,"lon":-121.123025,"nic":8,"rc":186,"seen_pos":6.880,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":29663,"seen":6.9,"rssi":-24.2,"dst":1.344,"dir":59.5}
 ]
 ,"msg": "No error"
-,"now": 1778136536000
-,"total": 5
-,"ctime": 1778136536000
+,"now": 1778145874007
+,"total": 0
+,"ctime": 1778145874007
 ,"ptime": 0
 }
