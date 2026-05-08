@@ -1,9 +1,12 @@
 {"ac":[
-{"hex":"a11ce5","type":"adsb_icao","flight":"N171AA  ","r":"N171AA","t":"C510","alt_baro":31750,"alt_geom":32725,"gs":343.8,"track":107.43,"baro_rate":512,"squawk":"6601","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":32992,"lat":44.789978,"lon":-120.322135,"nic":9,"rc":75,"seen_pos":0.408,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":21657,"seen":0.1,"rssi":-24.4,"dst":47.835,"dir":47.5}
+{"hex":"a78fcf","type":"adsb_icao","flight":"ASA2607 ","r":"N5869K","t":"A333","alt_baro":27850,"alt_geom":28600,"gs":425.8,"track":146.98,"baro_rate":1728,"squawk":"3573","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":40992,"lat":44.954984,"lon":-122.054823,"nic":8,"rc":186,"seen_pos":0.318,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":10890,"seen":0.0,"rssi":-18.0,"dst":57.137,"dir":317.7},
+{"hex":"aaad6d","type":"adsb_icao","flight":"SWA2862 ","r":"N7874B","t":"B737","alt_baro":39000,"alt_geom":40050,"gs":436.2,"track":175.79,"baro_rate":0,"squawk":"6621","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":165.23,"lat":43.663376,"lon":-121.878300,"nic":8,"rc":186,"seen_pos":0.023,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":30715,"seen":0.0,"rssi":-14.6,"dst":47.399,"dir":221.8},
+{"hex":"a61949","type":"adsb_icao","flight":"UAL702  ","r":"N492UA","t":"A320","alt_baro":30725,"alt_geom":31775,"gs":442.4,"track":193.60,"baro_rate":1216,"squawk":"3520","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":39008,"lat":43.031911,"lon":-121.441890,"nic":8,"rc":186,"seen_pos":0.185,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":4697,"seen":0.2,"rssi":-19.9,"dst":74.539,"dir":189.9},
+{"hex":"a68b85","type":"adsb_icao","flight":"N52013  ","r":"N52013","t":"C172","alt_baro":6900,"alt_geom":7000,"gs":79.2,"track":316.02,"geom_rate":-448,"squawk":"1200","emergency":"none","category":"A1","lat":44.439837,"lon":-121.234935,"nic":9,"rc":75,"seen_pos":16.595,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":825,"seen":16.6,"rssi":-21.9,"dst":11.748,"dir":341.9}
 ]
 ,"msg": "No error"
-,"now": 1778239107621
-,"total": 1
-,"ctime": 1778239107621
+,"now": 1778244648501
+,"total": 4
+,"ctime": 1778244648501
 ,"ptime": 0
 }
