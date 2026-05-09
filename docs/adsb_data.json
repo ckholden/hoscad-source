@@ -1,12 +1,9 @@
 {"ac":[
-{"hex":"aaf5b1","type":"adsb_icao","flight":"DAL313  ","r":"N805NW","t":"A333","alt_baro":39000,"alt_geom":39675,"gs":519.9,"track":78.24,"baro_rate":-64,"squawk":"3725","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":0.00,"lat":44.377829,"lon":-121.600766,"nic":8,"rc":186,"seen_pos":0.073,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":19233,"seen":0.1,"rssi":-7.1,"dst":20.705,"dir":291.2},
-{"hex":"ac3688","type":"adsb_icao","flight":"SWA2767 ","r":"N8860S","t":"B38M","alt_baro":38000,"alt_geom":38750,"gs":416.5,"track":335.16,"baro_rate":0,"squawk":"7333","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":38016,"nav_heading":315.00,"lat":43.708501,"lon":-121.256234,"nic":8,"rc":186,"seen_pos":0.371,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":48948,"seen":0.1,"rssi":-17.8,"dst":33.107,"dir":188.0},
-{"hex":"ac1789","type":"adsb_icao","flight":"SWA3841 ","r":"N8788L","t":"B38M","alt_baro":40025,"alt_geom":40700,"gs":438.1,"track":347.07,"baro_rate":0,"squawk":"7325","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":24000,"nav_heading":317.81,"lat":44.647600,"lon":-120.354957,"nic":8,"rc":186,"seen_pos":0.168,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":51569,"seen":0.0,"rssi":-17.4,"dst":41.421,"dir":55.0},
-{"hex":"adacfd","type":"adsb_icao","flight":"AAL2736 ","r":"N980UY","t":"A321","alt_baro":34000,"alt_geom":34600,"gs":396.7,"track":296.50,"baro_rate":0,"squawk":"3467","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":24000,"lat":44.891301,"lon":-119.730143,"nic":8,"rc":186,"seen_pos":0.391,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":106824,"seen":0.1,"rssi":-19.6,"dst":71.686,"dir":57.3}
+{"hex":"adacfd","type":"adsb_icao","flight":"AAL3102 ","r":"N980UY","t":"A321","alt_baro":27525,"alt_geom":28150,"gs":516.9,"track":110.85,"baro_rate":1024,"squawk":"3524","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"lat":44.861367,"lon":-120.485118,"nic":8,"rc":186,"seen_pos":0.285,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":146009,"seen":0.1,"rssi":-19.1,"dst":46.241,"dir":37.7}
 ]
 ,"msg": "No error"
-,"now": 1778309937501
-,"total": 4
-,"ctime": 1778309937501
+,"now": 1778316452500
+,"total": 1
+,"ctime": 1778316452500
 ,"ptime": 0
 }
