@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"ad6ec5","type":"adsb_icao","flight":"AMX058  ","r":"N965AM","t":"B788","alt_baro":35975,"alt_geom":37075,"gs":479.4,"track":336.00,"geom_rate":-64,"squawk":"1777","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":36000,"nav_heading":315.70,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.486069,"lon":-119.610116,"nic":8,"rc":186,"seen_pos":0.302,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":66208,"seen":0.1,"rssi":-16.8,"dst":67.402,"dir":77.6}
 ]
 ,"msg": "No error"
-,"now": 1778411498500
-,"total": 0
-,"ctime": 1778411498500
+,"now": 1778414694004
+,"total": 1
+,"ctime": 1778414694004
 ,"ptime": 0
 }
