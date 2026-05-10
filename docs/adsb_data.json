@@ -1,12 +1,8 @@
 {"ac":[
-{"hex":"abb288","type":"adsb_icao","flight":"N853AL  ","r":"N853AL","t":"PC12","alt_baro":15950,"alt_geom":16600,"gs":235.6,"track":222.76,"baro_rate":0,"squawk":"4651","emergency":"none","category":"A1","nav_qnh":1015.2,"nav_altitude_mcp":16000,"nav_heading":213.75,"nav_modes":["autopilot","althold","lnav"],"lat":43.303823,"lon":-122.191969,"nic":9,"rc":75,"seen_pos":0.013,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":12190,"seen":0.0,"rssi":-16.4,"dst":72.753,"dir":218.7},
-{"hex":"a06435","type":"adsb_icao","flight":"SKW5579 ","r":"N124SY","t":"E75L","alt_baro":36000,"alt_geom":37250,"gs":440.4,"track":350.20,"baro_rate":64,"squawk":"3377","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_modes":["autopilot","vnav","tcas"],"lat":43.581299,"lon":-122.058297,"nic":8,"rc":186,"seen_pos":0.450,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":41053,"seen":0.1,"rssi":-18.0,"dst":56.314,"dir":224.5},
-{"hex":"ab92c4","type":"adsb_icao","flight":"DAL2616 ","r":"N845DN","t":"B739","alt_baro":34000,"alt_geom":35125,"gs":473.3,"track":347.43,"baro_rate":0,"squawk":"7202","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_heading":326.95,"lat":43.907776,"lon":-122.005984,"nic":8,"rc":186,"seen_pos":0.323,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":69561,"seen":0.0,"rssi":-9.0,"dst":42.309,"dir":240.9},
-{"hex":"a372e0","type":"adsb_icao","flight":"ENY3460 ","r":"N321JS","t":"E75L","alt_baro":18850,"alt_geom":19625,"gs":379.4,"track":338.51,"baro_rate":-1728,"squawk":"0764","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":10016,"nav_modes":["autopilot","vnav","tcas"],"lat":43.395065,"lon":-121.022055,"nic":8,"rc":186,"seen_pos":0.131,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":51909,"seen":0.1,"rssi":-26.7,"dst":51.924,"dir":173.8}
 ]
 ,"msg": "No error"
-,"now": 1778395522001
-,"total": 4
-,"ctime": 1778395522001
+,"now": 1778402786500
+,"total": 0
+,"ctime": 1778402786500
 ,"ptime": 0
 }
