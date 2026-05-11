@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"ac4749","type":"adsb_icao","flight":"N890WA  ","r":"N890WA","t":"PC12","dbFlags":8,"alt_baro":17675,"alt_geom":18200,"gs":223.6,"track":109.33,"baro_rate":1280,"squawk":"4643","emergency":"none","category":"A1","nav_qnh":1019.2,"nav_altitude_mcp":19008,"nav_heading":98.44,"nav_modes":["autopilot","lnav"],"lat":45.251661,"lon":-122.127507,"nic":8,"rc":186,"seen_pos":0.118,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":12545,"seen":0.0,"rssi":-10.3,"dst":72.975,"dir":325.5}
 ]
 ,"msg": "No error"
-,"now": 1778486748048
-,"total": 0
-,"ctime": 1778486748048
+,"now": 1778499302006
+,"total": 1
+,"ctime": 1778499302006
 ,"ptime": 0
 }
