@@ -1,8 +1,9 @@
 {"ac":[
+{"hex":"a46603","type":"adsb_icao","flight":"UAL1188 ","r":"N38268","t":"B738","alt_baro":18300,"alt_geom":18700,"gs":396.0,"track":101.51,"baro_rate":3200,"squawk":"3522","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":36992,"nav_heading":87.19,"lat":44.263138,"lon":-120.456979,"nic":8,"rc":186,"seen_pos":1.645,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"alert":0,"spi":0,"mlat":[],"tisb":[],"messages":1654,"seen":1.6,"rssi":-23.0,"dst":29.739,"dir":88.7}
 ]
 ,"msg": "No error"
-,"now": 1779530395586
-,"total": 0
-,"ctime": 1779530395586
+,"now": 1779538287001
+,"total": 1
+,"ctime": 1779538287001
 ,"ptime": 0
 }
