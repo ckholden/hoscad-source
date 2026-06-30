@@ -48,8 +48,11 @@ jobs:
             PASS=$((PASS + 1))
             echo "::group::Scrape pass $PASS (elapsed ${SECONDS}s)"
 
-            python pulsepoint_monitor/pulsepoint_scraper.py \
-              --config pulsepoint_monitor/config.json --once || echo "scrape pass failed, continuing"
+            # Run inside pulsepoint_monitor so the scraper's relative output_file
+            # ("../pulsepoint_data.json") lands at the repo root. Subshell keeps the
+            # outer shell at repo root for the git steps below.
+            ( cd pulsepoint_monitor && python pulsepoint_scraper.py --config config.json --once ) \
+              || echo "scrape pass failed, continuing"
 
             mkdir -p docs
             cp pulsepoint_data.json docs/pulsepoint_data.json
