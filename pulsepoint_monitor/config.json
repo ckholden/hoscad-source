@@ -23,7 +23,7 @@
     "02830", "02834", "02835"
   ],
   "log_level": "INFO",
-  "request_delay_seconds": 1.5,
+  "request_delay_seconds": 0.6,
   "agencies_file": "oregon_agencies.json",
   "output_file": "../pulsepoint_data.json"
 }

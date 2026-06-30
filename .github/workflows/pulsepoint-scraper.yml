@@ -2,16 +2,24 @@ name: PulsePoint Scraper
 
 on:
   schedule:
-    # Run every 5 minutes (max frequency for GitHub Actions)
+    # GitHub's minimum cron interval is 5 minutes. To get fresher data than that,
+    # each run self-loops and commits multiple passes within the window (see below).
     - cron: '*/5 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
 
+# Only one scraper run at a time. If a new 5-min trigger fires while an old run is
+# somehow still going, cancel the stale one so the freshest run always wins.
+concurrency:
+  group: pulsepoint-scraper
+  cancel-in-progress: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 6
 
     steps:
       - name: Checkout repository
@@ -26,22 +34,35 @@ jobs:
         run: |
           pip install cryptography requests schedule
 
-      - name: Run PulsePoint scraper
-        run: |
-          cd pulsepoint_monitor
-          python pulsepoint_scraper.py --config config.json --once
-
-      - name: Commit and push data
+      - name: Scrape on a loop and push each pass
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          # Move data file to docs folder for GitHub Pages
-          mkdir -p docs
-          cp pulsepoint_data.json docs/pulsepoint_data.json
+          # Loop for ~4.5 min, then exit so the next */5 trigger takes over cleanly.
+          # Each scrape pass takes ~90s (125 agencies x 0.6s delay + overhead),
+          # giving roughly 3 commits per window => ~90s data freshness.
+          DEADLINE=$((SECONDS + 270))
+          PASS=0
+          while [ $SECONDS -lt $DEADLINE ]; do
+            PASS=$((PASS + 1))
+            echo "::group::Scrape pass $PASS (elapsed ${SECONDS}s)"
 
-          git add pulsepoint_data.json docs/pulsepoint_data.json
+            python pulsepoint_monitor/pulsepoint_scraper.py \
+              --config pulsepoint_monitor/config.json --once || echo "scrape pass failed, continuing"
 
-          # Only commit if there are changes
-          git diff --staged --quiet || git commit -m "Update PulsePoint data [skip ci]"
-          git push
+            mkdir -p docs
+            cp pulsepoint_data.json docs/pulsepoint_data.json
+            git add pulsepoint_data.json docs/pulsepoint_data.json
+
+            if git diff --staged --quiet; then
+              echo "No changes this pass"
+            else
+              git commit -m "Update PulsePoint data (pass $PASS) [skip ci]"
+              # The ADS-B proxy also commits to master, so rebase before pushing.
+              git pull --rebase origin master || echo "rebase failed, will retry next pass"
+              git push || echo "push failed, will retry next pass"
+            fi
+
+            echo "::endgroup::"
+          done
