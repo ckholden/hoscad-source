@@ -411,10 +411,34 @@ class JSONFileOutput:
     def update_incidents(self, active_incidents: list[dict], recent_incidents: list[dict] = None):
         self.data["active_incidents"] = active_incidents
         if recent_incidents is not None:
-            self.data["recent_incidents"] = recent_incidents
+            # PulsePoint only returns up to ~100 recent (closed) incidents per agency
+            # per poll, so a busy agency's history is truncated in any single snapshot.
+            # Merge each poll into an accumulated rolling window so the board shows the
+            # full history of calls seen across polls, not just the latest snapshot.
+            existing = {i["incident_id"]: i for i in self.data.get("recent_incidents", [])}
+            for inc in recent_incidents:
+                existing[inc["incident_id"]] = inc
+
+            # Prune incidents older than 24 hours to bound the file size.
+            cutoff = datetime.now(timezone.utc).timestamp() - (24 * 3600)
+            merged = []
+            for inc in existing.values():
+                received = inc.get("received_time", "")
+                if not received:
+                    merged.append(inc)
+                    continue
+                try:
+                    inc_time = datetime.fromisoformat(received.replace("Z", "+00:00")).timestamp()
+                    if inc_time >= cutoff:
+                        merged.append(inc)
+                except (ValueError, AttributeError):
+                    merged.append(inc)
+
+            self.data["recent_incidents"] = merged
+
         self._save()
-        total = len(active_incidents) + (len(recent_incidents) if recent_incidents else 0)
-        self.logger.info(f"Saved {len(active_incidents)} active, {len(recent_incidents) if recent_incidents else 0} recent incidents to {self.output_file}")
+        recent_count = len(self.data.get("recent_incidents", [])) if recent_incidents is not None else 0
+        self.logger.info(f"Saved {len(active_incidents)} active, {recent_count} recent incidents to {self.output_file}")
 
     def update_units(self, units: list[dict]):
         self.data["unit_status"] = units
